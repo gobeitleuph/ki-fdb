@@ -1,0 +1,34 @@
+FROM node:18-alpine AS builder
+
+WORKDIR /app
+
+# Kopiere package.json und installiere Abhängigkeiten
+COPY frontend/package*.json ./
+RUN npm install
+
+# Kopiere den Rest der Anwendung
+COPY frontend/ ./
+
+# Baue die Anwendung
+RUN npm run build
+
+# Produktionsimage
+FROM node:18-alpine AS runner
+
+WORKDIR /app
+
+# Kopiere die gebaute Anwendung vom Builder-Stage
+COPY --from=builder /app/package*.json ./
+COPY --from=builder /app/.next ./.next
+COPY --from=builder /app/public ./public
+COPY --from=builder /app/node_modules ./node_modules
+
+# Exponiere den Port für Next.js
+EXPOSE 3000
+
+# Umgebungsvariablen
+ENV NODE_ENV=production
+ENV PORT=3000
+
+# Starte die Anwendung
+CMD ["npm", "start"]

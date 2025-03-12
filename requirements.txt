@@ -2,3 +2,6 @@ langchain-core
 langchain-community
 chromadb
 sentence-transformers
+fastapi
+uvicorn
+pydantic
