@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="HTGF-Opportunity" path="/BMWI/FDB/Content/DE/Foerderprogramm/Bund/BMWi" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Da es sich bei dem HTGF Opportunity um ein Finanzierungsprogramm und kein eigenes Förderprogramm handelt, liegt dem HTGF Opportunity keine spezifische Förderrichtlinie zugrunde. &amp;#xa0;&lt;/p&gt;&lt;p&gt;Die Informationen des vorliegenden Beitrags basieren auf den Informationen der&amp;#xa0;High-Tech&amp;#xa0;Gründerfonds Management&amp;#xa0;GmbH (Stand Juli 2024) sowie der gemeinsamen Presseerklärung des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK) und des Bundesministeriums der Finanzen (BMF) vom 12.06.2024.&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/H/htgf-de" xlink:show="replace"&gt;Weblink zu den Informationen der High-Tech Gründerfonds Management GmbH&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/P/pm-htgf-opportunity" xlink:show="replace"&gt;Weblink zu der gemeinsamen Presseerklärung des BMWK und des BMF&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/H/high-tech-gruenderfonds-management"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/P/pm-htgf-opportunity"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/H/htgf-de"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/beteiligung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/darlehen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/_bundesweit"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/bund"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/existenzgruendung_festigung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/unternehmensfinanzierung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/forschung_innovation_themenoffen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bmwk-bundesministerium_wirtschaft_klimaschutz"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;#86039&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wichtig: In vorliegendem Beitrag wird auf den Beitrag "High-Tech Gründerfonds (HTGF) verwiesen. Sollte letzterer Beitrag depubliziert werden, so muss auch die Verknüpfung im vorliegenden Beitrag angepasst werden.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;h5&gt;Gültigkeitsdauer&lt;/h5&gt;&lt;p&gt;Der Start des HTGF Opportunity wurde am 12.06.2024 in einer gemeinsamen Presseerklärung des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK) und des Bundesministeriums der Finanzen (BMF) bekanntgegeben.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2024-11-27T14:53:00.000+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Start-up Gründung, Gründungsförderung, Gründungsfinanzierung, Start-up-Förderung, Start-up-Finanzierung, Innovation, Innovationsförderung, Technologieförderung, Existenzgründer, Existenzgründung, Investor, Investoren, Wirtschaftsförderung</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Rücksprache mit dem Investmentteam des HTGF.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Für eine Finanzierung durch den HTGF Opportunity kommen nur die Portfoliounternehmen der HTGF Seedfonds in Betracht.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Um die Wachstumsfinanzierung von Start-up-Unternehmen in Deutschland zu stärken, wurde der HTGF Opportunity geschaffen und mit 660.000.000 EUR aus dem ERP-Sondervermögen und dem Zukunftsfonds ausgestattet. Mit dem HTGF Opportunity kann nun der HTGF bei ausgewählten Anschlussfinanzierungen Portfoliounternehmen seiner Seedfonds in späteren Wachstumsphasen größere Finanzierungsummen zur Verfügung stellen. Der HTGF ist eine im Jahr 2005 gestartete Public-Private-Partnership und inzwischen der größte deutsche Frühphaseninvestor.&lt;/p&gt;&lt;p&gt;Weitere Informationen zum High-Tech Gründerfonds (HTGF) finden Sie unter folgendem Link im entsprechenden Beitrag der Förderdatenbank:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/Foerderprogramm/Bund/BMWi/high-tech-gruenderfonds-bund" xlink:show="replace"&gt;High-Tech Gründerfonds (HTGF)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Finanzierungskonditionen des HTGF Opportunity werden flexibel und passgenau auf das Start-up ausgerichtet. Er finanziert stets gemeinsam mit einem oder mehreren privaten Investoren. Für einzelne Portfoliounternehmen stehen bis zu 30.000.000 EUR, in Ausnahmefällen sogar bis zu 50.000.000 EUR aus dem HTGF Opportunity zur Verfügung.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie ein Portfoliounternehmen der HTGF Seedfonds führen, kommt für Sie unter bestimmten Voraussetzungen eine Finanzierung in Betracht.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Finanzierung durch den HTGF Opportunity&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>
