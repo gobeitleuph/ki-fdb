@@ -1,0 +1,24 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+# Installiere Abhängigkeiten und curl für Health Checks
+RUN apt-get update && apt-get install -y curl && rm -rf /var/lib/apt/lists/*
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Kopiere Anwendungsdateien
+COPY vector_store.py api.py ./
+COPY foerderungen.json ./
+
+# Kopiere den Vector Store, falls er existiert
+COPY chroma_db ./chroma_db
+
+# Erstelle den Vector Store, falls er nicht existiert
+RUN python -c "import os; os.path.exists('./chroma_db') or __import__('vector_store')"
+
+# Exponiere den Port für die API
+EXPOSE 8000
+
+# Starte die API
+CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]
