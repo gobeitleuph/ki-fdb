@@ -66,7 +66,6 @@ export default function ChatInterface() {
             Fördermittel-Finder
           </h1>
           <p className="text-sm mt-1 opacity-80">
-            Stellen Sie Fragen zu verfügbaren Förderprogrammen
           </p>
         </div>
 
@@ -149,7 +148,7 @@ export default function ChatInterface() {
               type="text"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Fragen Sie nach Förderprogrammen..."
+              placeholder="Beispiel: Ich möchte maritime Forschung betrieben..."
               className="flex-1 p-2 border border-[#646464]/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#05C3DC] text-sm"
               disabled={isLoading}
             />
