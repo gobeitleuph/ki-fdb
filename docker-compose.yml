@@ -26,7 +26,7 @@ services:
     expose:
       - "3000"
     environment:
-      - NEXT_PUBLIC_API_URL=https://hil.dev-moysies.de/api
+      - NEXT_PUBLIC_API_URL=https://ai.dev-moysies.de/api
     # depends_on:
     #   backend:
     #     condition: service_healthy

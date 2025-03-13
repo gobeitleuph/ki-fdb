@@ -148,7 +148,7 @@ export default function ChatInterface() {
               type="text"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Beispiel: Ich möchte maritime Forschung betrieben..."
+              placeholder="Beispiel: Ich möchte maritime Forschung betreiben..."
               className="flex-1 p-2 border border-[#646464]/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#05C3DC] text-sm"
               disabled={isLoading}
             />
