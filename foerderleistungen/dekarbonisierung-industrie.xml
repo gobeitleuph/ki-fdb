@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="dekarbonisierung-industrie" path="/BMWI/FDB/Content/DE/Foerderprogramm/Bund/BMWi" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Richtlinie zur Förderung von Forschungs-, Entwicklungs- und Investitionsprojekten mit dem Ziel der Treibhausgasneutralität im Industriesektor (Förderrichtlinie zur Dekarbonisierung in der Industrie)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vom 16. Dezember 2020&lt;/p&gt;&lt;h2&gt;0 Präambel&lt;/h2&gt;&lt;p&gt;Die Bundesregierung hat mit Kabinettsbeschluss vom 14. November 2016 den Klimaschutzplan 2050 vorgelegt, der das Ziel verfolgt, bis 2050 eine weitgehende Treibhausgasneutralität in Deutschland zu erreichen, darunter auch im Industriesektor.&lt;/p&gt;&lt;p&gt;Um diesen Transformationsprozess zu unterstützen, sieht der Klimaschutzplan 2050 vor, dass die Bundesregierung im Dialog mit der Industrie ein auf die Minderung industrieller Prozessemissionen ausgerichtetes, anwendungsorientiertes Forschungs- und Entwicklungsprogramm auflegt, das sich am Ziel der Treibhausgasneutralität orientiert. Auch Investitionen in Anlagen zur Anwendung ausgereifter Techniken und Technologien und deren Umsetzung im industriellen Maßstab sollen unterstützt werden.&lt;/p&gt;&lt;p&gt;Die Bundesregierung hat am 9. Oktober 2019 das Klimaschutzprogramm 2030 zur Erreichung der Sektorziele 2030 beschlossen. Eine der beschlossenen Maßnahmen ist ein nationales Förderprogramm zur Dekarbonisierung in der Industrie. Die vorliegende Richtlinie setzt diese Maßnahme um.&lt;/p&gt;&lt;h2&gt;1 Förderziel und Zuwendungszweck&lt;/h2&gt;&lt;p&gt;Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt;) fördert Projekte im Bereich der energieintensiven Industrien, die zum Ziel haben, prozessbedingte Treibhausgasemissionen, die nach heutigem Stand der Technik nicht oder nur schwer vermeidbar sind, möglichst weitgehend und dauerhaft zu reduzieren. Die geförderten Projekte leisten einen substanziellen Beitrag auf dem Weg zur Treibhausgasneutralität, verbunden mit einer klaren Perspektive zum mittel- bis langfristigen, vollständigen Ersatz fossiler Energieträger &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Rohstoffe. Die geförderten Projekte haben einen hohen Innovations- und Demonstrationscharakter und sollen modellhaft auf andere Unternehmen übertragbar sein.&lt;/p&gt;&lt;p&gt;Mit der Richtlinie sollen die jährlichen Treibhausgasemissionen der energieintensiven Industrien um 2,5 Millionen Tonnen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Äquivalente im Jahr 2030 reduziert werden.&lt;/p&gt;&lt;h2&gt;2 Rechtsgrundlagen&lt;/h2&gt;&lt;p&gt;Der Bund gewährt die Zuwendungen nach Maßgabe dieser Förderrichtlinie, der §§ 23 und 44 der Bundeshaushaltsordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt;) und den dazu erlassenen Verwaltungsvorschriften.&lt;/p&gt;&lt;p&gt;Beihilferechtliche Grundlage für nach dieser Förderrichtlinie gewährte Beihilfen ist die Allgemeine Gruppenfreistellungsverordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;)&lt;sup&gt;1)&lt;/sup&gt; der Europäischen Kommission.&lt;/p&gt;&lt;h2&gt;3 Begriffsbestimmungen&lt;/h2&gt;&lt;p&gt;Dekarbonisierung im Sinne der Richtlinie bezeichnet den Prozess zum Erreichen der Treibhausgasneutralität.&lt;/p&gt;&lt;p&gt;Prozessbedingte Emissionen im Sinne der Richtlinie sind Treibhausgasemissionen, die nicht aus dem Einsatz von fossilen Brenn- und Rohstoffen zur Energieerzeugung stammen, sondern durch technologie- &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; verfahrensbedingte Nutzung dieser Stoffe im Produktionsprozess entstehen.&lt;/p&gt;&lt;p&gt;Es gelten ferner die in Artikel 2 und Anhang I (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;-Definition&lt;sup&gt;2)&lt;/sup&gt;) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; festgelegten Begriffsbestimmungen.&lt;/p&gt;&lt;h2&gt;4 Gegenstand der Förderung&lt;/h2&gt;&lt;p&gt;Gefördert werden – jeweils im Bereich energieintensiver Industrien mit prozessbedingten Emissionen – die Forschung und Entwicklung, die Erprobung in Versuchs- &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Pilotanlagen sowie Investitionen in Anlagen zur Anwendung und Umsetzung von Maßnahmen im industriellen Maßstab, sofern sie geeignet sind, die Treibhausgasemissionen ausgehend vom aktuellen Stand der zugrunde liegenden Technologien, Verfahren &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Produkte möglichst weitgehend und dauerhaft zu reduzieren und dadurch einen Beitrag zur Treibhausgasneutralität in der Industrie 2050 zu leisten. Dies gilt für die Erforschung, Entwicklung, Erprobung &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Umsetzung von:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;entsprechenden treibhausgasarmen/-neutralen Herstellungsverfahren innerhalb der jeweiligen Branchen, die bisher energieintensive und mit prozessbedingten Emissionen verbundene Herstellungsverfahren ersetzen,&lt;/li&gt;&lt;li&gt;innovativen und hocheffizienten Verfahren zur Umstellung von fossilen Brennstoffen auf strombasierte Verfahren,&lt;/li&gt;&lt;li&gt;integrierten Produktionsverfahren sowie innovativen Verfahrenskombinationen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ebenfalls gefördert werden die Erforschung, Entwicklung und Erprobung von alternativen Produkten, die Produkte ersetzen, die in ihrer Herstellung prozessbedingte Emissionen verursachen, und der dazugehörigen treibhausgasarmen/-neutralen Herstellungsverfahren sowie Investitionen in Anlagen zur Anwendung und Umsetzung dieser Herstellungsverfahren im industriellen Maßstab.&lt;/p&gt;&lt;p&gt;Gefördert werden auch Brückentechnologien, die einen substanziellen Schritt auf dem Weg zu weitgehend treibhausgasneutralen Produktionsverfahren darstellen und die langfristig eine komplette Umstellung auf die Nutzung erneuerbarer Energien und Rohstoffe ermöglichen. Gefördert werden darüber hinaus Maßnahmen zur Erfolgskontrolle wie Monitoring und Evaluierung.&lt;/p&gt;&lt;p&gt;Im Rahmen der Projekte sind Energie und Material so effizient wie möglich entsprechend des Standes der Technik (BVT)&lt;sup&gt;3)&lt;/sup&gt; einzusetzen.&lt;/p&gt;&lt;p&gt;Nicht förderfähig sind Projekte zur Grundlagenforschung sowie Maßnahmen, die in ihrem Schwerpunkt auf Energieeffizienz, auf Ressourceneffizienz oder auf Konstruktionstechniken im Leichtbau abzielen. Projekte zur &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Speicherung (Carbon Capture and Storage – &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CCS&lt;/abbr&gt;) sowie zur &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Abscheidung mit dem Ziel der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Speicherung sind ebenfalls von der Förderung ausgeschlossen.&lt;/p&gt;&lt;h2&gt;5 Zuwendungsempfänger, Fördervoraussetzungen&lt;/h2&gt;&lt;p&gt;Antragsberechtigt sind Unternehmen der gewerblichen Wirtschaft, die nach den Vorschriften des Bundes-Immissionsschutzgesetzes genehmigte Anlagen in Branchen, die vom Anwendungsbereich des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Emissionshandels erfasst sind und prozessbedingte Treibhausgasemissionen aufweisen, planen oder betreiben. Zuwendungsempfänger müssen eine Betriebsstätte oder Niederlassung in Deutschland haben. Projekte, für die eine Förderung beantragt wird, müssen in Deutschland umgesetzt werden. Konsortien von Unternehmen sind ebenfalls antragsberechtigt.&lt;/p&gt;&lt;p&gt;Zur Umsetzung der Vorhaben – insbesondere der Begleitforschung – können Hochschulen, Universitäten und andere Forschungseinrichtungen, unter Leitung eines antragsberechtigten Unternehmens, als Projektpartner eingebunden werden.&lt;/p&gt;&lt;p&gt;Der Zuwendungsempfänger muss schriftlich bestätigen, dass er in der Lage ist, den gesamten Eigenanteil an den zuwendungsfähigen und nicht zuwendungsfähigen Kosten der geförderten Projekte zu tragen.&lt;/p&gt;&lt;h2&gt;6 Art und Umfang, Höhe der Förderung&lt;/h2&gt;&lt;p&gt;Die Förderung wird als Zuschuss/Investitionszuschuss im Rahmen einer Anteilfinanzierung gewährt (Zuwendung). Die Zuwendung wird auf einen Höchstbetrag begrenzt. Im Rahmen dieser Richtlinie werden Zuwendungen grundsätzlich als nicht rückzahlbare Zuschüsse im Wege der Projektförderung gewährt. Die Förderung kann auf Kosten- oder Ausgabenbasis erfolgen. Es wird eine angemessene Eigenbeteiligung vorausgesetzt. Bemessungsgrundlage für die Zuwendungen sind die projektbezogenen förderfähigen Kosten.&lt;/p&gt;&lt;p&gt;Im Fall von einzeln zu notifizierenden Beihilfen werden die beihilfefähigen Kosten sowie die Beihilfehöchstintensitäten auf Grundlage des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation&lt;sup&gt;4)&lt;/sup&gt; (einschlägig für Forschungs- und Entwicklungsvorhaben) oder der Leitlinien für staatliche Umweltschutz- und Energiebeihilfen 2014 bis 2020&lt;sup&gt;5)&lt;/sup&gt; (einschlägig für Investitionsvorhaben) berechnet.&lt;/p&gt;&lt;h3&gt;6.1 Forschungs- und Entwicklungsvorhaben&lt;/h3&gt;&lt;p&gt;Der geförderte Teil des Forschungs- und Entwicklungsvorhabens muss vollständig einer oder mehreren der folgenden Kategorien zuzuordnen sein (Artikel 25 Absatz 2 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;industrielle Forschung (ab Technology Readiness Level 4),&lt;/li&gt;&lt;li&gt;experimentelle Entwicklung,&lt;/li&gt;&lt;li&gt;projektbezogene Durchführbarkeitsstudien.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Für Forschungs- und Entwicklungsvorhaben sind folgende Kosten beihilfefähig (Artikel 25 Absatz 3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;): vorhabenbezogene Personalkosten; Kosten für Instrumente und Ausrüstungen; Kosten für Gebäude; Kosten für Auftragsforschung; Kosten für Wissen und nach dem Arm’s-length-Prinzip von Dritten oder in Lizenz erworbene Patente; Beratungskosten; zusätzliche vorhabenbezogene Gemeinkosten sowie sonstige Betriebskosten, die unmittelbar durch das Vorhaben entstehen.&lt;/p&gt;&lt;p&gt;Die beihilfefähigen Kosten von Durchführbarkeitsstudien sind die Kosten der Studie (Artikel 25 Absatz 4 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;).&lt;/p&gt;&lt;p&gt;Die Beihilfeintensität darf folgende Sätze nicht überschreiten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Industrielle Forschung: 70% für kleine Unternehmen, 60% für mittlere Unternehmen, 50% für große Unternehmen;&lt;/li&gt;&lt;li&gt;Experimentelle Entwicklung: 45% für kleine Unternehmen, 35% für mittlere Unternehmen, 25% für große Unternehmen;&lt;/li&gt;&lt;li&gt;Beihilfen für Durchführbarkeitsstudien: 70% für kleine Unternehmen, 60% für mittlere Unternehmen, 50% für große Unternehmen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Aufschläge sind gemäß Artikel 25 Absatz 6 Buchstabe b &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; möglich.&lt;/p&gt;&lt;h3&gt;6.2 Investitionsvorhaben&lt;/h3&gt;&lt;p&gt;Die geförderten Investitionen müssen den Beihilfeempfängern ermöglichen, über die Unionsnormen für den Umweltschutz hinauszugehen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; bei Fehlen solcher Normen den Umweltschutz zu verbessern (Artikel 36 Absatz 2 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;).&lt;/p&gt;&lt;p&gt;Beihilfefähig sind nach Artikel 36 Absatz 5 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; die umweltschutzbezogenen Investitionsmehrkosten, die sich aus der Differenz zwischen den Kosten des Vorhabens und den Kosten einer ähnlichen, weniger umweltfreundlichen Referenzinvestition, die vom Antragsteller ohne die Förderung durchgeführt würde, ergeben. Zur Ermittlung dieser Mehrkosten muss vom Antragsteller eine Kostenschätzung für die Referenzinvestition vorgelegt werden. Die Referenzinvestition muss hinsichtlich Kapazität und Lebensdauer mit der geplanten Investition vergleichbar sein. Wenn bei den Gesamtinvestitionskosten die Kosten einer Investition in den Umweltschutz als getrennte Investition ermittelt werden können, dann sind diese umweltschutzbezogenen Kosten die beihilfefähigen Kosten.&lt;/p&gt;&lt;p&gt;Die Beihilfeintensität darf folgende Sätze nicht überschreiten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;60% für kleine Unternehmen,&lt;/li&gt;&lt;li&gt;50% für mittlere Unternehmen,&lt;/li&gt;&lt;li&gt;40% für große Unternehmen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Aufschläge sind gemäß Artikel 36 Absatz 8 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; möglich.&lt;/p&gt;&lt;p&gt;Sollte ein Investitionsvorhaben auch Investitionen zur Erzeugung von Energie aus erneuerbaren Quellen umfassen (Artikel 41 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;), so sind für diesen Teil des Projekts diejenigen Kosten beihilfefähig, die sich auf die Erzeugung von Energie aus erneuerbaren Quellen beziehen und als getrennte Investition ermittelt werden können. Können diese Kosten nicht als getrennte Investition ermittelt werden, so entsprechen die beihilfefähigen Kosten der Differenz zwischen den Kosten der Investition und den Kosten einer ähnlichen, weniger umweltfreundlichen Investition, die ohne Beihilfe hätte durchgeführt werden können. Dabei darf eine Beihilfeintensität von 65% für kleine Unternehmen, 55% für mittlere Unternehmen und 45% für große Unternehmen nicht überschritten werden. Im Falle von kleinen Anlagen, für die keine weniger umweltfreundliche Referenzinvestition ermittelt werden kann, weil es keine kleinen Anlagen gibt, sind die Gesamtinvestitionskosten beihilfefähig, wobei eine maximale Beihilfeintensität von 50% für kleine Unternehmen, 40% für mittlere Unternehmen und 30% für große Unternehmen gilt. Aufschläge sind gemäß Artikel 41 Absatz 9 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; möglich.&lt;/p&gt;&lt;h3&gt;6.3 Kumulierung&lt;/h3&gt;&lt;p&gt;Eine Kumulierung mit Fördermitteln aus anderen Programmen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;, Bund, Länder) ist unter Berücksichtigung der Kumulierungsregeln nach Artikel 8 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; möglich. Bei der Prüfung, ob die festgelegten Anmeldeschwellen und Beihilfehöchstintensitäten eingehalten sind, werden die für das geförderte Vorhaben insgesamt gewährten staatlichen Beihilfen berücksichtigt.&lt;/p&gt;&lt;h2&gt;7 Sonstige beihilferechtliche Vorgaben&lt;/h2&gt;&lt;h3&gt;7.1 Transparenz&lt;/h3&gt;&lt;p&gt;Einzelbeihilfen in Höhe von mehr als 500.000 Euro werden gemäß Artikel 9 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; veröffentlicht. Erhaltene Beihilfen können gemäß Artikel 12 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; jederzeit von der Europäischen Kommission geprüft werden. Die zu diesem Zwecke erforderlichen Informationen werden zehn Jahre lang aufbewahrt. Die Zuwendungsempfänger verpflichten sich zur Herausgabe weiterer für diese Zwecke notwendigen Informationen.&lt;/p&gt;&lt;h3&gt;7.2 Einzelnotifizierung&lt;/h3&gt;&lt;p&gt;Sofern eine Beihilfe die folgenden Schwellen überschreitet, ist eine Einzelnotifizierung der Beihilfemaßnahme bei der Europäischen Kommission notwendig (Artikel 4 Absatz 1 Buchstabe i, s &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Forschungs- und Entwicklungsbeihilfe im Bereich der industriellen Forschung: 20 Millionen Euro pro Unternehmen und Vorhaben,&lt;/li&gt;&lt;li&gt;Forschungs- und Entwicklungsbeihilfe im Bereich der experimentellen Entwicklung: 15 Millionen Euro pro Unternehmen und Vorhaben,&lt;/li&gt;&lt;li&gt;Forschungs- und Entwicklungsbeihilfe für Durchführbarkeitsstudie: 7,5 Millionen Euro pro Studie,&lt;/li&gt;&lt;li&gt;Investitionsbeihilfe für den Umweltschutz und zur Erzeugung von Energie aus erneuerbaren Quellen: 15 Millionen Euro pro Unternehmen und Investitionsvorhaben.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Beihilferechtliche Grundlagen für einzeln zu notifizierende Beihilfen sind der Unionsrahmen für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation&lt;sup&gt;6)&lt;/sup&gt; (einschlägig für Forschungs- und Entwicklungsvorhaben) sowie die Leitlinien für staatliche Umweltschutz- und Energiebeihilfen 2014 bis 2020&lt;sup&gt;7)&lt;/sup&gt; (einschlägig für Investitionsvorhaben).&lt;/p&gt;&lt;h3&gt;7.3 Ausschluss der Förderung&lt;/h3&gt;&lt;p&gt;Keine Förderung wird gewährt zugunsten&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) von Unternehmen in Schwierigkeiten, es sei denn, es handelt sich um Unternehmen, die am 31. Dezember 2019 keine Unternehmen in Schwierigkeiten waren, aber in der Zeit vom 1. Januar 2020 bis zum 30. Juni 2021 zu Unternehmen in Schwierigkeiten wurden (Artikel 1 Absatz 4 Buchstabe c &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;);&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) von Unternehmen, die einer Rückforderungsanordnung aufgrund einer früheren Kommissionsentscheidung zur Feststellung der Unzulässigkeit und Unvereinbarkeit einer Beihilfe mit dem Binnenmarkt im Sinne von Artikel 1 Absatz 4 Buchstabe a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; nicht nachgekommen sind.&lt;/p&gt;&lt;h2&gt;8 Sonstige Zuwendungsbestimmungen&lt;/h2&gt;&lt;h3&gt;8.1 Evaluierung, Auskunftserteilung, Vor-Ort-Prüfungen, Verwendungsnachweisverfahren&lt;/h3&gt;&lt;p&gt;Das Förderprogramm wird laufend evaluiert.&lt;/p&gt;&lt;p&gt;Den Beauftragten des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; sind auf Verlangen erforderliche Auskünfte zu erteilen, Einsicht in Bücher und Unterlagen sowie Prüfungen zu gestatten. Der Antragsteller muss sich im Antrag auf eine Zuwendung damit einverstanden erklären, dass&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; dem Haushaltsausschuss des Deutschen Bundestages und danach auf Verlangen auch anderen Ausschüssen des Deutschen Bundestages im Einzelfall Namen des Antragstellers, Höhe und Zweck der Investitionszuwendung in vertraulicher Weise bekannt gibt, sofern der Haushaltsausschuss dies beantragt;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) zum Zwecke einer Evaluierung vom &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; oder dessen Beauftragten Einsicht in dafür erforderliche Unterlagen des Förderverfahrens &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; -vorhabens genommen werden kann.&lt;/p&gt;&lt;p&gt;Zur Überprüfung der im Förderverfahren gemachten Angaben nehmen das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; dessen Beauftragte im Einzelfall Vor-Ort-Prüfungen vor.&lt;/p&gt;&lt;p&gt;Die Beauftragten des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; sind zur Weitergabe von Informationen untereinander berechtigt.&lt;/p&gt;&lt;p&gt;Die abschließende Prüfung des Verwendungsnachweises erfolgt durch die Bewilligungsbehörde nach Vorlage der vollständigen Unterlagen durch den Zuwendungsempfänger. Der Verwendungsnachweis besteht aus dem Sachbericht und dem zahlenmäßigen Nachweis.&lt;/p&gt;&lt;h3&gt;8.2 Erfolgskontrolle, Monitoring&lt;/h3&gt;&lt;p&gt;Im Laufe und nach Beendigung des Vorhabens hat der Antragsteller ein Monitoring &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; eine Evaluation des geförderten Vorhabens durch ein fundiertes wissenschaftliches Überwachungssystem durchzuführen, um den Erfolg des Vorhabens zu dokumentieren und nachweisen zu können. Neben den Treibhausgasen sind dabei auch andere relevante Umweltaspekte sowie Energie- und Materialverbräuche zu berücksichtigen. Entsprechende Daten und Messberichte sind spätestens zusammen mit dem Abschlussbericht vorzulegen. Diese werden durch die Beauftragten des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; geprüft.&lt;/p&gt;&lt;p&gt;Ein entsprechendes Monitoring- und Evaluationskonzept ist mit der Antragstellung vorzulegen. Es obliegt dem Zuwendungsgeber, im Bescheid Auflagen zu diesen Konzepten zu erlassen.&lt;/p&gt;&lt;p&gt;Reine Begleitforschungsvorhaben sind von diesen Bestimmungen ausgenommen.&lt;/p&gt;&lt;h2&gt;9 Verfahren&lt;/h2&gt;&lt;h3&gt;9.1 Projektträger&lt;/h3&gt;&lt;p&gt;Für die Betreuung der Fördermaßnahme hat das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; als Projektträger das Kompetenzzentrum Klimaschutz in energieintensiven Industrien (KEI) mit Sitz in Cottbus (Karl-Liebknecht-Straße 33, 03046 Cottbus) der ZUG Zukunft – Umwelt – Gesellschaft (ZUG) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;gGmbH&lt;/abbr&gt; (Köthener Straße 4, 10963 Berlin) beauftragt.&lt;/p&gt;&lt;p&gt;Richtlinien, Formulare, Merkblätter, FAQs, Hinweise, Nebenbestimmungen und gesonderte Bekanntmachungen können abgerufen werden unter den Internetadressen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/K/klimaschutz-industrie-de" xlink:show="new"&gt;www.klimaschutz-industrie.de&lt;/a&gt;,&lt;/li&gt;&lt;li&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/F/foerderprogramm-dekarbonisierung-de" xlink:show="new"&gt;www.foerderprogramm-dekarbonisierung.de&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;9.2 Antragstellung&lt;/h3&gt;&lt;p&gt;Es handelt sich um ein zweistufiges Antragsverfahren.&lt;/p&gt;&lt;p&gt;Im ersten Schritt ist eine Projektskizze schriftlich beim KEI einzureichen. Eine Projektskizze enthält neben einer technischen Beschreibung des Vorhabens den voraussichtlichen Finanzbedarf, Angaben zur geplanten Laufzeit, eine Beschreibung des technologischen Pfads zur Dekarbonisierung des Prozesses, eine quantitative Abschätzung der voraussichtlichen Treibhausgaseinsparungen sowie Angaben zur Übertragbarkeit auf die jeweilige Branche.&lt;/p&gt;&lt;p&gt;Im Rahmen der Prüfung der Projektskizze unter Beteiligung des Umweltbundesamtes ist die technische Umsetzbarkeit im Hinblick auf das Förderziel das zentrale Bewertungskriterium, wobei auch der Innovations- und Demonstrationscharakter sowie die modellhafte Übertragbarkeit auf die jeweilige Branche berücksichtigt wird. Weitere Prüfkriterien sind der Zeithorizont des Vorhabens sowie die voraussichtliche Fördermitteleffizienz&lt;sup&gt;8)&lt;/sup&gt;. Nach erfolgreicher Prüfung der Projektskizze werden die Einreichenden vom KEI zur Antragstellung aufgefordert.&lt;/p&gt;&lt;p&gt;In einem zweiten Schritt ist ein schriftlicher Förderantrag beim KEI einzureichen.&lt;/p&gt;&lt;p&gt;Im Antrag ist detailliert zu begründen, inwiefern das Vorhaben einen Beitrag zur Dekarbonisierung der Industrie und zur Erreichung der Klimaschutzziele leistet. Insbesondere sind die zu erwartenden kurz-, mittel- und langfristigen Treibhausgaseinsparungen gegenüber dem Stand der Technik darzulegen. Der Antragsteller muss die Substitutionswirkung beim Einsatz erneuerbarer Energien nachweisen. Bei Investitionsvorhaben ist darzulegen, dass das Vorhaben auch unter Berücksichtigung der möglichen Verlagerung von Treibhausgasemissionen in andere Bereiche &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Sektoren insgesamt zu einer Emissionsminderung führt.&lt;/p&gt;&lt;p&gt;Weitere Aspekte, auf die im Rahmen der Antragstellung einzugehen ist, sind:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Vermeidungskosten pro Tonne &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Äquivalent,&lt;/li&gt;&lt;li&gt;voraussichtliche Fördermitteleffizienz,&lt;/li&gt;&lt;li&gt;Systemdienlichkeit für die Energiewende,&lt;/li&gt;&lt;li&gt;Demonstrationscharakter,&lt;/li&gt;&lt;li&gt;Innovationsgehalt,&lt;/li&gt;&lt;li&gt;zusätzliche Umwelteffekte und Cross Media Effekte,&lt;/li&gt;&lt;li&gt;langfristige Markt- und Betriebsperspektive, Angaben zur Wirtschaftlichkeit.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Antragsteller müssen neben dem Antrag einen Finanzierungsplan einreichen, in dem alle Zuwendungen (auch die anderer Beihilfegeber) für das Projekt anzugeben sind. Die Antragsangaben sind subventionserheblich im Sinne des § 264 des Strafgesetzbuches (StGB) in Verbindung mit § 2 des Subventionsgesetzes (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;SubvG&lt;/abbr&gt;). Näheres zum Antragsverfahren kann dem Antragsformular, den entsprechenden Merkblättern und Hinweisen entnommen werden &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; wird in gesonderten Bekanntmachungen veröffentlicht.&lt;/p&gt;&lt;h3&gt;9.3 Bewilligungsbehörde, Förderverfahren, Zuwendungsbescheid, Zusage&lt;/h3&gt;&lt;p&gt;Bewilligungsbehörde ist das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt;. Ein Anspruch auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel. Insbesondere gilt, dass&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) eine Förderung nur gewährt werden kann, wenn das Projekt ohne diese Förderung nicht oder nicht innerhalb des gewünschten Zeitraums durchgeführt werden kann und&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) entsprechend den Regelungen in Nummer 1.3 der Verwaltungsvorschrift zu § 44 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt; mit dem Vorhaben vor der Förderzusage des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; vor Erteilung des Zuwendungsbescheids nicht begonnen werden darf. Als Vorhabenbeginn ist grundsätzlich der Abschluss eines dem Projekt zuzurechnenden Lieferungs- oder Leistungsvertrages zu werten. Planung, Genehmigungsverfahren, Baugrunduntersuchung, Grunderwerb und Herrichten des Grundstückes gelten nicht als Beginn des Vorhabens. In begründeten Ausnahmefällen kann auf gesonderten Antrag ein förderunschädlicher vorzeitiger Vorhabenbeginn durch das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; genehmigt werden, unter der Voraussetzung, dass keine Einzelnotifizierung des Vorhabens erforderlich ist.&lt;/p&gt;&lt;p&gt;Das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt; und das Bundeswirtschaftsministerium (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt;) unterrichten sich gegenseitig vorab über ihre beabsichtigten Förderungen im Rahmen des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMU&lt;/abbr&gt;-Dekarbonisierungsprogramms und des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt;-Förderprogramms Wasserstoffeinsatz in der Industrieproduktion sowie des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt;-Förderprogramms &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Vermeidung und -Nutzung in den Grundstoffindustrien und stellen sicher, dass es bei einzelnen Unternehmen nicht zu einer Über- oder unzulässigen Doppelförderung kommt.&lt;/p&gt;&lt;h3&gt;9.4 Subventionserheblichkeiten&lt;/h3&gt;&lt;p&gt;Alle Tatsachen, von denen die Gewährung oder Belassung der Zuschüsse nach dieser Richtlinie abhängig sind, sind subventionserhebliche Tatsachen im Sinne des § 264 StGB. Hierzu gehören insbesondere die technische Darstellung des Investitionsprojektes sowie die Angaben über die wirtschaftlichen Verhältnisse des Antragstellers und bereits erhaltene Beihilfen. Im Antragsverfahren wird der Antragsteller zudem bereits vor der Antragstellung auf die Strafbarkeit des Subventionsbetruges und auf seine Mitteilungspflichten nach § 3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;SubvG&lt;/abbr&gt; hingewiesen und es werden ihm entsprechend der Verwaltungsvorschrift Nummer 3.4.6 zu § 44 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt; die im konkreten Fall subventionserheblichen Tatsachen in Form einer abschließenden Positivliste benannt.&lt;/p&gt;&lt;h3&gt;9.5 Zu beachtende Vorschriften&lt;/h3&gt;&lt;p&gt;Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die §§ 48 bis 49a des Verwaltungsverfahrensgesetzes, die §§ 23, 44 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt; und die hierzu erlassenen Allgemeinen Verwaltungsvorschriften, soweit nicht in dieser Förderrichtlinie Abweichungen von den Allgemeinen Verwaltungsvorschriften zugelassen sind. Der Bundesrechnungshof ist gemäß § 91 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt; zur Prüfung berechtigt.&lt;/p&gt;&lt;h2&gt;10 Geltungsdauer&lt;/h2&gt;&lt;p&gt;Diese Richtlinie tritt mit Wirkung vom 1. Januar 2021 in Kraft. Die Laufzeit dieser Förderrichtlinie ist bis zum Zeitpunkt des Auslaufens ihrer beihilferechtlichen Grundlage, der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;, zuzüglich einer Anpassungsperiode von sechs Monaten, mithin bis zum 30. Juni 2024, befristet. Sollte die zeitliche Anwendung der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; ohne die Förderrichtlinie betreffende relevante inhaltliche Veränderungen verlängert werden, verlängert sich die Laufzeit dieser Förderrichtlinie entsprechend, aber nicht über den 31. Dezember 2030 hinaus. Sollte die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; nicht verlängert und durch eine neue &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; ersetzt werden oder sollten relevante inhaltliche Veränderungen an der derzeitigen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; vorgenommen werden, wird eine den dann geltenden Freistellungsbestimmungen entsprechende Nachfolge-Förderrichtlinie in Kraft gesetzt. Innerhalb des Geltungszeitraums können Zuwendungen gewährt werden. Die Umsetzung der Projekte und die Auszahlung der Zuwendungen können auch nach Ablauf der Richtlinie erfolgen.&lt;/p&gt;&lt;table data-gsb="true"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;&amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0; &amp;#xa0;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;p&gt;1) Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 651/2014 vom 17. Juni 2014 (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; L 187 vom 26.6.2014, S. 1), geändert durch Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 2020/972 vom 2. Juli 2020 (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; L 215 vom 7.7.2020, S. 3).&lt;/p&gt;&lt;p&gt;2) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; = Kleine und mittlere Unternehmen.&lt;/p&gt;&lt;p&gt;3) Weitere Informationen: Internetseite des Europäischen IVU-Büros (&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/eippcb-jrc-ec-europa-eu-reference" xlink:show="new"&gt;https://eippcb.jrc.ec.europa.eu/reference/&lt;/a&gt;), Internetseite des Umweltbundesamts (&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/U/umweltbundesamt-merkbl-durchfuehrungsbeschluesse" xlink:show="new"&gt;https://www.umweltbundesamt.de/themen/wirtschaft-konsum/beste-verfuegbare-techniken/sevilla-prozess/bvt-merkblaetter-durchfuehrungsbeschluesse&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;4) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; C 198 vom 27.6.2014, S. 1.&lt;/p&gt;&lt;p&gt;5) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; C 200 vom 28.6.2014, S. 1.&lt;/p&gt;&lt;p&gt;6) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; C 198 vom 27.6.2014, S. 1.&lt;/p&gt;&lt;p&gt;7) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; C 200 vom 28.6.2014, S. 1.&lt;/p&gt;&lt;p&gt;8) Diese ist wie folgt zu ermitteln: Quotient aus Fördermitteln (Euro) durch – über die Wirkdauer – eingesparte Tonnen Treibhausgase.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/Z/zug-30191"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/Z/z-u-g-kei-30191"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/F/foerderportal-bund-de-easyonline-2"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/_bundesweit"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/bund"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/produzierendes_gewerbe"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/umwelt_naturschutz"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/forschung_innovation_themenspezifisch"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bmwk-bundesministerium_wirtschaft_klimaschutz"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/umwelt_naturschutz"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_UmweltNaturschutz/betriebliche_private_investitionen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_UmweltNaturschutz/forschung_innovation"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;30191&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfExpiration" type="Date">
+        <value>2021-01-01T00:00:00.000+01:00</value>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2021-01-28T12:28:58.395+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Förderprogramm ausgelaufen&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Industrieunternehmen Treibhausgasemissionen Dekarbonisierung Treibhausgasneutralität Prozessemissionen</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Richtlinie des Bundesministeriums für Umwelt, Naturschutz, und nukleare Sicherheit (BMU) vom 16.12.2020, Bundesanzeiger Amtlicher Teil vom 15.1.2021, B5.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Die Richtlinie befindet sich in Überarbeitung und soll zum 1.1.2024 geändert werden. Reichen Sie Ihren Antrag nach der aktuellen Richtlinie vom 16.12.2020 bitte bis zum 31.12.2023 ein.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind Unternehmen der gewerblichen Wirtschaft mit Betriebsstätte oder Niederlassung in Deutschland.&lt;/p&gt;&lt;p&gt;Die Förderung ist an bestimmte Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sie müssen Anlagen betreiben oder planen, die nach den Vorschriften des Bundes-Immissionsschutzgesetz genehmigungspflichtig sind.&lt;/li&gt;&lt;li&gt;Ihr Unternehmen ist in einer Branche aktiv, die dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;&lt;/abbr&gt;Emissionshandel unterliegt und weist prozessbedingte Treibhausgasemissionen auf.&lt;/li&gt;&lt;li&gt;Sie müssen einen Eigenanteil zum Projekt erbringen und ein wissenschaftliches Überwachungssystem zum Monitoring und zur Evaluierung durchführen.&lt;/li&gt;&lt;li&gt;Projekte zur Grundlagenforschung und Projekte mit dem Schwerpunkt Energieeffizienz, Ressourceneffizienz, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;&lt;/abbr&gt;Speicherung und -Abscheidung oder Konstruktionstechnik im Leichtbau werden nicht gefördert.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Von der Förderung ausgeschlossen sind Unternehmen in Schwierigkeiten im Sinne der Leitlinien der Europäischen Kommision.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Das Bundesministerium für Wirtschaft und Klimaschutz (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWK&lt;/abbr&gt;) unterstützt Sie als energieintensives Industrieunternehmen bei Projekten zur Reduzierung prozessbedingter Treibhausgasemissionen, die nach heutigem Stand der Technik nicht oder nur schwer vermeidbar sind.&lt;/p&gt;&lt;p&gt;Gefördert werden Forschung und Entwicklung, Erprobung sowie Investitionen in Anlagen mit folgenden Schwerpunkten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;treibhausgasarme/-neutrale Herstellungsverfahren,&lt;/li&gt;&lt;li&gt;innovative und hocheffiziente Verfahren zur Umstellung von fossilen Brennstoffen auf strombasierte Verfahren,&lt;/li&gt;&lt;li&gt;integrierte Produktionsverfahren sowie innovative Verfahrenskombinationen,&lt;/li&gt;&lt;li&gt;alternative Produkte und dazugehörige Herstellungsverfahren und Anlagen,&lt;/li&gt;&lt;li&gt;Brückentechnologien.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie erhalten die Förderung als Zuschuss.&lt;/p&gt;&lt;p&gt;Die Höhe der Förderung beträgt für Unternehmen der gewerblichen Wirtschaft – je nach Anwendungsnähe des Vorhabens – normalerweise 50 Prozent der förderfähigen Kosten.&lt;/p&gt;&lt;p&gt;Kleine und mittlere Unternehmen können unter bestimmten Voraussetzungen einen Bonus erhalten.&lt;/p&gt;&lt;p&gt;Das Antragsverfahren ist zweistufig. In der 1. Stufe reichen Sie Ihre Projektskizzen bei dem Projektträger Zukunft–Umwelt–Gesellschaft (ZUG) ein. Nehmen Sie bitte Kontakt mit dem Projektträger auf, bevor Sie Ihre Projektskizzen einreichen.&lt;/p&gt;&lt;p&gt;In der 2. Verfahrensstufe werden Sie für Ihre positiv bewertete Projektskizze aufgefordert, einen förmlichen Förderantrag vorzulegen. Für die Erstellung Ihrer Projektskizze und Ihres Antrags nutzen Sie bitte das elektronische Antragssystem easy-Online.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie im Bereich der energieintensiven Industrien Projekte zur Reduzierung prozessbedingter Treibhausgasemissionen planen, können Sie unter bestimmten Voraussetzungen einen Zuschuss erhalten.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Dekarbonisierung in der Industrie&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

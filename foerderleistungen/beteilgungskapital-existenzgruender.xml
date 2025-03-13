@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="beteilgungskapital-existenzgruender" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Merkblatt „Beteiligungskapital für Existenzgründer“&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;vom 1. Januar 2024&lt;/p&gt;&lt;p&gt;Die LfA bietet Nachwuchsunternehmen stille Beteiligungen der BayBG Bayerische Beteiligungsgesellschaft mbH an, um eine solide Eigenkapitalausstattung der Unternehmen in der Gründungsphase sicherzustellen.&lt;/p&gt;&lt;h2&gt;Zielgruppe:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Existenzgründer (auch bei Betriebsübernahmen) aller Bereiche der gewerblichen Wirtschaft sowie&lt;/li&gt;&lt;li&gt;gewerbliche Unternehmen in der Existenzfestigungsphase (maximal fünf Jahre – bei Aufstockungen max. acht Jahre – nach Aufnahme der selbstständigen Existenz) mit Sitz oder Niederlassung in Bayern.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Mittelverwendung:&lt;/h2&gt;&lt;p&gt;Mitfinanzierung des in Zusammenhang mit der Existenzgründung stehenden Investitions- und Betriebsmittelbedarfs&lt;/p&gt;&lt;h2&gt;Beteiligungsart:&lt;/h2&gt;&lt;p&gt;Typisch stille Beteiligungen&lt;/p&gt;&lt;h2&gt;Beteiligungshöhe:&lt;/h2&gt;&lt;p&gt;20.000 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; bis maximal 250.000 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;&lt;/p&gt;&lt;h2&gt;Anforderungen:&lt;/h2&gt;&lt;p&gt;Voraussetzungen für eine Beteiligung sind u.a.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;die fachliche und kaufmännische Qualifikation des Gründers;&lt;/li&gt;&lt;li&gt;ein tragfähiges Konzept und eine nachhaltige Marktfähigkeit;&lt;/li&gt;&lt;li&gt;ein angemessener Eigenmitteleinsatz (dazu zählen auch öffentliche Eigenkapitalhilfen);&lt;/li&gt;&lt;li&gt;die persönliche Haftung der Gesellschafter/Inhaber;&lt;/li&gt;&lt;li&gt;eine Hausbank.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Laufzeit:&lt;/h2&gt;&lt;p&gt;10 Jahre (tilgungsfrei); die Rückzahlung erfolgt am Beteiligungsende zum Nominalwert, jedoch spätestens bis zum 65. Lebensjahr des Inhabers/Gesellschafters.&lt;/p&gt;&lt;h2&gt;Konditionen:&lt;/h2&gt;&lt;p&gt;Abschlussgebühr: 2,0% (zuzüglich der gesetzlichen Umsatzsteuer)&lt;/p&gt;&lt;h3&gt;Ab dem 1. bis einschließlich dem 4. Beteiligungsjahr:&lt;/h3&gt;&lt;p&gt;Festes Entgelt (einschließlich Garantieprovision): 5,2% p.a.&lt;/p&gt;&lt;p&gt;Gewinnabhängiges Entgelt: 1,0% p.a.&lt;/p&gt;&lt;h3&gt;Ab dem 5. bis einschließlich dem 7. Beteiligungsjahr:&lt;/h3&gt;&lt;p&gt;Festes Entgelt (einschließlich Garantieprovision): 5,7% p.a.&lt;/p&gt;&lt;p&gt;Gewinnabhängiges Entgelt: 2,0% p.a.&lt;/p&gt;&lt;h3&gt;Ab dem 8. bis einschließlich dem 10. Beteiligungsjahr:&lt;/h3&gt;&lt;p&gt;Festes Entgelt (einschließlich Garantieprovision): 6,7% p.a.&lt;/p&gt;&lt;p&gt;Gewinnabhängiges Entgelt:&lt;/p&gt;&lt;p&gt;2,0% p.a.&lt;/p&gt;&lt;h2&gt;Kontaktaufnahme:&lt;/h2&gt;&lt;p&gt;Für eine erste Beurteilung ist das (formlose) Gründungs- &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Unternehmenskonzept mit tabellarischem Lebenslauf einzureichen bei:&lt;/p&gt;&lt;p&gt;LfA Förderbank Bayern, Abteilung Förderkredite,&lt;br /&gt;Postfach 22 14 54, 80504 München&lt;/p&gt;&lt;p&gt;Ansprechpartner Telefon E-Mail-Adresse&lt;/p&gt;&lt;p&gt;Frau Gärtner 089 / 21 24 - 24 76 Elisabeth.Gaertner@baybg.de&lt;br /&gt;Frau Kirsch 089 / 21 24 - 23 27 Melanie.Kirsch@baybg.de&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/L/lfa-foerderbank-bayern-2"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/beteiligung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/existenzgruenderin"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/dienstleistungen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/produzierendes_gewerbe"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/kultur_kreativwirtschaft"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handwerk"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handel"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/gastgewerbe_tourismus"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/dienstleistungen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/gastgewerbe_tourismus"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handel"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handwerk"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/kultur_kreativwirtschaft"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/produzierendes_gewerbe"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/01"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/02"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/03"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/04"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/05"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/06"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/07"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/08"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/kleiner_als_eins"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/existenzgruendung_festigung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ExistenzgruendungFestigung/gruendungsinvestitionen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ExistenzgruendungFestigung/betriebsmittel"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ExistenzgruendungFestigung/festigungsinvestitionen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;7554&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfExpiration" type="Date">
+        <value>2018-07-20T02:00:00.000+02:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Nachwuchsunternehmen Eigenkapital Investitionen Betriebsmittel Gründungsphase Existenzfestigungsphase</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Merkblatt der LfA Förderbank Bayern vom 1. Januar 2024; Rundschreiben der LfA Förderbank Bayern Nr. 54 vom 15. Dezember 2023.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Existenzgründende im Bereich der gewerblichen Wirtschaft sowie&lt;/li&gt;&lt;li&gt;gewerbliche Unternehmen in der Existenzfestigungsphase bis maximal 5 Jahre – bei Aufstockung höchstens 8 Jahre – nach Aufnahme der selbstständigen Existenz.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Förderung ist an folgende Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ihr Unternehmen hat seinen Sitz oder eine Niederlassung in Bayern.&lt;/li&gt;&lt;li&gt;Sie müssen eine fachliche und kaufmännische Qualifikation nachweisen.&lt;/li&gt;&lt;li&gt;Ihr Unternehmen muss über ein tragfähiges Konzept verfügen und eine nachhaltige Marktfähigkeit erwarten lassen.&lt;/li&gt;&lt;li&gt;Sie bringen einen angemessenen Anteil an Eigenmitteln ein.&lt;/li&gt;&lt;li&gt;Als Gesellschafterin/Gesellschafter und Inhaberin/Inhaber haften Sie persönlich.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Die LfA Förderbank Bayern bietet Ihnen als Nachwuchsunternehmen stille Beteiligungen der BayBG Bayerische Beteiligungsgesellschaft mbH an, um eine solide Eigenkapitalausstattung Ihres Unternehmen in der Gründungsphase sicherzustellen.&lt;/p&gt;&lt;p&gt;Sie bekommen die Förderung zur Finanzierung Ihres Investitions- und Betriebsmittelbedarfs, der im Zusammenhang mit Ihrer Existenzgründung steht.&lt;/p&gt;&lt;p&gt;Sie bekommen die Förderung als stille Beteiligung.&lt;/p&gt;&lt;p&gt;Die Beteiligungshöhe beträgt zwischen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 20.000 und höchstens &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 250.000.&lt;/p&gt;&lt;p&gt;Die Laufzeit beträgt bis zu 10 Jahre tilgungsfrei.&lt;/p&gt;&lt;p&gt;Richten Sie Ihren Antrag bitte an die LfA Förderbank Bayern.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie als Nachwuchsunternehmen auf die Stärkung Ihres Eigenkapitals angewiesen sind, können Sie unter bestimmten Voraussetzungen eine stille Beteiligung bekommen.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Beteiligungskapital für Existenzgründer&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

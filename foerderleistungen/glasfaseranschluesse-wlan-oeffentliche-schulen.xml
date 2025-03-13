@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="glasfaseranschluesse-wlan-oeffentliche-schulen" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Richtlinie zur Förderung von Glasfaseranschlüssen und &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt; für öffentliche Schulen, Plankrankenhäuser und Rathäuser (Glasfaser/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Richtlinie – GWLANR)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatsministeriums der Finanzen und für Heimat&lt;br /&gt;vom 21. August 2019, Az. 75/77-C 1102-2/371&lt;br /&gt;[zuletzt geändert durch Bekanntmachung des Bayerischen Staatsministeriums der Finanzen und für Heimat&lt;br /&gt;vom 10. November 2023, Az. 75/77-C 1102-2/458]&lt;/p&gt;&lt;p data-gsb="true"&gt;Der Freistaat Bayern gewährt Zuwendungen zur Herstellung von Glasfaseranschlüssen für öffentliche Schulen, Plankrankenhäuser und Rathäuser sowie &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Installationen für Plankrankenhäuser nach Maßgabe dieser Richtlinie und der allgemeinen haushaltsrechtlichen Vorschriften. Insbesondere gelten die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 23 und 44 der Bayerischen Haushaltsordnung (BayHO) und die dazu erlassenen Verwaltungsvorschriften sowie die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 48, 49 und 49a des Bayerischen Verwaltungsverfahrensgesetzes (BayVwVfG). Die Förderung erfolgt ohne Rechtsanspruch im Rahmen der verfügbaren Haushaltsmittel.&lt;/p&gt;&lt;h2&gt;1. Begriffsbestimmung&lt;/h2&gt;&lt;p data-gsb="true"&gt;Unter „Rathäuser” im Sinne dieser Bekanntmachung fallen neben den (Haupt-)Verwaltungssitzen der bayerischen Gemeinden und Bezirke auch weitere Behördenstandorte von Gemeinden und Bezirken sowie Verwaltungsgebäude von Verwaltungsgemeinschaften.&lt;/p&gt;&lt;h2&gt;2. Zweck der Förderung&lt;/h2&gt;&lt;p data-gsb="true"&gt;Zweck der Förderung ist die Anbindung von öffentlichen Schulen und von nach dem Bayerischen Krankenhausgesetz (BayKrG) förderfähigen Plankrankenhäusern sowie von Rathäusern an das Internet über gigabitfähige und durchgängige Glasfaserleitungen bis in die Gebäude (FTTB-Förderung) sowie die Ausstattung von nach dem BayKrG förderfähigen Plankrankenhäusern mit technischen Einrichtungen für drahtlose lokale Funknetze, soweit über diese drahtlosen lokalen Funknetze auch das BayernWLAN ausgestrahlt werden kann (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung).&lt;/p&gt;&lt;h2&gt;3. Gegenstand der Förderung&lt;/h2&gt;&lt;p data-gsb="true"&gt;3.1&amp;#xa0;Gegenstand einer FTTB-Förderung ist die erstmalige Herstellung eines Glasfaseranschlusses einschließlich Netzabschlusseinheit.&lt;/p&gt;&lt;p data-gsb="true"&gt;3.2&amp;#xa0;Gegenstand einer &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung ist die Schaffung oder Erweiterung einer &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Infrastruktur einschließlich der dazu erforderlichen Verkabelungsarbeiten im Gebäude.&lt;/p&gt;&lt;h2&gt;4. Zuwendungsempfänger&lt;/h2&gt;&lt;p data-gsb="true"&gt;Zuwendungsempfänger sind die Sachaufwandsträger öffentlicher Schulen im Sinne von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 1 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG), die Krankenhausträger der gemäß &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 5 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 2 BayKrG in den Krankenhausplan des Freistaates Bayern aufgenommenen Krankenhäuser und die Gemeinden, Verwaltungsgemeinschaften und Bezirke im Freistaat Bayern.&lt;/p&gt;&lt;h2&gt;5. Zuwendungsvoraussetzungen&lt;/h2&gt;&lt;p data-gsb="true"&gt;5.1&amp;#xa0;Eine FTTB-Förderung wird nur gewährt, sofern sichergestellt ist, dass eine durchgängige Glasfaserinfrastruktur bis zum Gebäude entsteht.&lt;/p&gt;&lt;p data-gsb="true"&gt;5.2&amp;#xa0;Eine FTTB-Förderung nach dieser Richtlinie ist ausgeschlossen,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a)&amp;#xa0;wenn bereits ein Glasfaseranschluss bis zum Gebäude besteht,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b)&amp;#xa0;wenn die Herstellung eines Glasfaseranschlusses bis zum Gebäude im Rahmen eines anderweitig geförderten Breitbandausbaus geplant ist oder&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;c)&amp;#xa0;wenn die öffentliche Schule oder das Plankrankenhaus oder das Rathaus in einem Gebiet liegt, für das ein Telekommunikationsunternehmen im Rahmen einer Markterkundung im Zusammenhang mit einer anderweitigen Maßnahme zur Förderung des Breitbandausbaus einen Glasfaserausbau bis zum Gebäude ohne Kostenbeteiligung für die Endkunden angekündigt hat. Kommt im Rahmen eines angekündigten eigenwirtschaftlichen Ausbaus der Investor seinen selbst gesetzten Meilensteinen nicht nach und hat der Zuwendungsempfänger einmal erfolglos eine Nachfrist gesetzt, kann eine FTTB-Förderung nach dieser Richtlinie wieder in Anspruch genommen werden.&lt;/p&gt;&lt;p data-gsb="true"&gt;5.3&amp;#xa0;Eine &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung wird nur gewährt,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a)&amp;#xa0;sofern eine Berechtigung des Zuwendungsempfängers besteht, das BayernWLAN aus dem BayKOM-Rahmenvertrag (Los 2) abzurufen,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b)&amp;#xa0;ein Abruf des BayernWLAN tatsächlich erfolgt und&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;c)&amp;#xa0;BayernWLAN für mindestens 24 Monate verfügbar gemacht wird.&lt;/p&gt;&lt;p data-gsb="true"&gt;Eine &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung kann unter den Voraussetzungen nach Satz 1 auch zur Erweiterung bereits bestehender &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Netze gewährt werden. Eine nachträgliche Förderung bereits angeschaffter und installierter &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Technik ist ausgeschlossen.&lt;/p&gt;&lt;p data-gsb="true"&gt;5.4&amp;#xa0;Nicht gefördert werden Vorhaben, die vor Eingang eines Zuwendungsantrags bei der Bewilligungsbehörde mit den unter Nr. 8.1 genannten Unterlagen oder Erklärungen begonnen wurden. Maßnahmebeginn ist der Abschluss eines Vertrages zur Herstellung eines Glasfaseranschlusses oder zur Ausführung von Arbeiten, die auf Schaffung oder Erweiterung einer &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Installation abzielen.&lt;/p&gt;&lt;h2&gt;6. Art, Umfang und Höhe der Förderung&lt;/h2&gt;&lt;p data-gsb="true"&gt;6.1&amp;#xa0;Die Zuwendung wird als Projektförderung im Wege der Anteilfinanzierung als nicht rückzahlbarer Zuschuss auf Basis der zuwendungsfähigen Ausgaben gewährt.&lt;/p&gt;&lt;p data-gsb="true"&gt;6.2&amp;#xa0;Zuwendungsfähig sind die notwendigen investiven Ausgaben für die unter Nr. 3.1 und Nr. 3.2 genannten Fördergegenstände. Zu den investiven Ausgaben für den unter Nr. 3.2 genannten Fördergegenstand gehören auch die Kosten einer Ortsbegehung im Rahmen des BayKOM-Rahmenvertrages (Los 2). Ist in den zugrunde zu legenden Ausgaben ein Mehrwertsteueranteil enthalten, ist dieser nur zuwendungsfähig, soweit kein Vorsteuerabzug nach § 15 des Umsatzsteuergesetzes geltend gemacht werden kann. Betriebsausgaben (Strombezug, Internetzugangsdienste, Miete für &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Hardware aus dem BayKOM-Rahmenvertrag et cetera) sind nicht zuwendungsfähig. Kommunale Eigenregieleistungen sind ebenfalls nicht zuwendungsfähig.&lt;/p&gt;&lt;p data-gsb="true"&gt;6.3&amp;#xa0;Eine FTTB-Förderung scheidet aus, wenn die zuwendungsfähigen Ausgaben unter 5.000 Euro inklusive Umsatzsteuer liegen. Eine &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung scheidet aus, wenn die zuwendungsfähigen Ausgaben unter 2.000 Euro inklusive Umsatzsteuer liegen (Bagatellgrenzen).&lt;/p&gt;&lt;p data-gsb="true"&gt;6.4&amp;#xa0;Der Fördersatz beträgt 80% der zuwendungsfähigen Ausgaben. Für Gebietskörperschaften oder Zusammenschlüsse von Gebietskörperschaften als Zuwendungsempfänger, die überwiegend dem Raum mit besonderem Handlungsbedarf zuzurechnen sind, beträgt der Fördersatz 90%.&lt;/p&gt;&lt;p data-gsb="true"&gt;6.5&amp;#xa0;Der Förderhöchstbetrag je öffentlicher Schule (unabhängig von der Anzahl der Standorte) und je im Krankenhausplan ausgewiesenem Krankenhausstandort beträgt für die FTTB-Förderung 50.000 Euro und für die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung 5.000 Euro. Sofern für die erstmalige Herstellung eines Glasfaseranschlusses einer öffentlichen Schule oder eines Plankrankenhauses ein Tiefbau auf einer Länge von mehr als 1.500 Meter erforderlich ist, erhöht sich der Förderhöchstbetrag um 10.000 Euro auf dann 60.000 Euro. Diese Erhöhung des Förderhöchstbetrages wird jedoch nicht gewährt, wenn mehr als eine öffentliche Schule oder mehr als ein Plankrankenhaus dieselbe postalische Adresse haben.&lt;/p&gt;&lt;p data-gsb="true"&gt;6.6&amp;#xa0;Der Förderhöchstbetrag für die FTTB-Erschließung der Rathäuser beträgt&lt;/p&gt;&lt;p data-gsb="true"&gt;6.6.1&amp;#xa0;120.000 Euro je Gemeinde, die nicht über ein KomBN an das Bayerische Behördennetz angeschlossen ist (weder direkt noch indirekt im Rahmen einer Verwaltungsgemeinschaft im Sinne des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 1 Verwaltungsgemeinschaftsordnung). Für den Fall, dass die Gemeinde bereits angeschlossen ist oder verbindlich erklärt, sich innerhalb eines Zeitraums von drei Jahren ab Bewilligung an ein KomBN und damit an das Bayerische Behördennetz anzuschließen (entweder direkt oder indirekt im Rahmen einer Verwaltungsgemeinschaft im Sinne des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 1 Verwaltungsgemeinschaftsordnung), erhöht sich der Förderhöchstbetrag auf 50.000 Euro.&lt;/p&gt;&lt;p data-gsb="true"&gt;6.6.2&amp;#xa0;120.000 Euro je Bezirk, der nicht an das Bayerische Behördennetz angeschlossen ist. Für den Fall, dass der Bezirk bereits angeschlossen ist oder verbindlich erklärt, sich innerhalb eines Zeitraums von drei Jahren ab Bewilligung an das Bayerische Behördennetz anzuschließen, erhöht sich der Förderhöchstbetrag auf 50.000 Euro.&lt;/p&gt;&lt;p data-gsb="true"&gt;6.6.3&amp;#xa0;In den Fällen der Nr. 6.6.1 Satz 2 Alternative 2 und Nr. 6.6.2 Satz 2 Alternative 2 können Bewilligungen bis zum Förderhöchstbetrag von 50.000 Euro ausgesprochen werden. Sofern nicht innerhalb von 3 Jahren ab Bewilligung der Anschluss an das KomBN oder Behördennetz nachgewiesen wird, reduziert sich die Zuwendung auf maximal 20.000 Euro.&lt;/p&gt;&lt;p data-gsb="true"&gt;6.6.4&amp;#xa0;Eine Verwaltungsgemeinschaft kann maximal den Betrag erhalten, den ihr die Mitgliedsgemeinden aus deren Förderhöchstbeträgen gemäß Nr. 6.6.1 überlassen; ein eigener Förderhöchstbetrag ist einer Verwaltungsgemeinschaft insoweit nicht eingeräumt.&lt;/p&gt;&lt;h2&gt;7. Mehrfachförderung&lt;/h2&gt;&lt;p data-gsb="true"&gt;Sofern der Zuwendungsempfänger hinsichtlich desselben Fördergegenstandes eine Förderung nach einem anderen Förderprogramm in Anspruch nimmt, scheidet eine Förderung nach dieser Richtlinie aus.&lt;/p&gt;&lt;h2&gt;8. Verfahren&lt;/h2&gt;&lt;p data-gsb="true"&gt;8.1 Anträge auf Gewährung der Zuwendung sind bei der Bewilligungsbehörde mit folgenden Unterlagen oder Erklärungen gemäß Nrn. 8.1.1 bis 8.1.6 einzureichen. Bewilligungsbehörde ist&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) die örtlich zuständige Regierung für Anträge, die bis einschließlich 31. Juli 2020 eingereicht werden,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) das Landesamt für Digitalisierung, Breitband und Vermessung für Anträge, die ab dem 1. August 2020 eingereicht werden:&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.1&amp;#xa0;Aufgegliederte Darstellung der mit dem Zuwendungszweck zusammenhängenden Ausgaben in Angeboten.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.2&amp;#xa0;Erklärung des Antragstellers, dass für das Vorhaben keine weiteren öffentlichen Zuwendungen beantragt oder bewilligt wurden.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.3&amp;#xa0;Erklärung des Antragstellers, dass er Sachaufwandsträger der öffentlichen Schule im Sinne von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 1 BayEUG ist, für die die Förderung beantragt wird oder er Träger des in den Krankenhausplan des Freistaates Bayern aufgenommenen Krankenhauses ist, für das die Förderung beantragt wird.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.4&amp;#xa0;Im Fall der FTTB-Förderung: Bestätigung des Antragstellers, dass&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.4.1&amp;#xa0;aktuell kein Glasfaseranschuss bis zum Gebäude besteht,&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.4.2&amp;#xa0;die Herstellung eines Glasfaseranschlusses in das Gebäude nicht im Rahmen einer anderweitigen Fördermaßnahme geplant ist,&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.4.3&amp;#xa0;kein Telekommunikationsunternehmen im Rahmen einer Markterkundung im Zusammenhang mit einer anderweitigen Maßnahme zur Förderung des Breitbandausbaus einen Glasfaserausbau bis zum Gebäude ohne Kostenbeteiligung für die Endkunden angekündigt hat. Sofern dem Antragsteller hierüber keine Informationen vorliegen, sind diese beim Breitbandzentrum Amberg, Kirchensteig 1, 92224 Amberg, einzuholen.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.4.4&amp;#xa0;eine durchgängige Glasfaserinfrastruktur bis zum Gebäude entsteht&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.5&amp;#xa0;Im Fall der FTTB-Förderung für Rathäuser zusätzlich:&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.5.1&amp;#xa0;Bei Antragstellung durch Gemeinde: Erklärung der Gemeinde, dass sie über ein KomBN an das Bayerische Behördennetz angeschlossen ist (entweder direkt oder indirekt im Rahmen einer Verwaltungsgemeinschaft, an der sie gegebenenfalls beteiligt ist) oder dass ein Anschluss an das Bayerische Behördennetz über ein KomBN innerhalb eines Zeitraums von drei Jahren ab Bewilligung der Förderung erfolgen wird.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.5.2&amp;#xa0;Bei Antragstellung durch Verwaltungsgemeinschaft: Erklärung der Verwaltungsgemeinschaft, dass die an ihr beteiligten Gemeinden bereits über ein KomBN an das Bayerische Behördennetz angeschlossen sind (entweder direkt oder indirekt im Rahmen der Verwaltungsgemeinschaft) oder dass ein Anschluss der beteiligten Gemeinden an das Bayerische Behördennetz erfolgen wird.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.5.3&amp;#xa0;Bei Antragstellung durch Bezirk: Erklärung des Bezirks, dass er an das Bayerische Behördennetz angeschlossen ist oder dass ein Anschluss an das Bayerische Behördennetz innerhalb eines Zeitraums von drei Jahren ab Bewilligung der Förderung erfolgen wird.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.1.6&amp;#xa0;Im Fall der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung: Erklärung des Antragstellers, zum Abruf des BayernWLAN aus dem BayKOM-Rahmenvertrag (Los 2) berechtigt zu sein und Zusage, das BayernWLAN aus dem BayKOM-Rahmenvertrag abzurufen und für mindestens 24 Monate anzubieten.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.2&amp;#xa0;Die Bewilligungsbehörde kann zur Prüfung des geplanten Vorhabens weitere Unterlagen anfordern.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.3&amp;#xa0;Die Bewilligungsbehörde gewährt die Zuwendung auf der Grundlage eines Zuwendungsbescheides. In diesem Bescheid sind insbesondere die Bestimmungen der beizufügenden &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-K oder &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P für verbindlich zu erklären, soweit in dieser Richtlinie nichts Abweichendes geregelt ist. Die Aufnahme zusätzlicher Auflagen und Nebenbestimmungen bleibt der Bewilligungsbehörde vorbehalten.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.4&amp;#xa0;Die Auszahlung der Zuwendung erfolgt durch die Bewilligungsbehörde nach Vorlage des Verwendungsnachweises und dessen Prüfung.&lt;/p&gt;&lt;p data-gsb="true"&gt;8.5&amp;#xa0;Die Bewilligungsbehörde und der Bayerische Oberste Rechnungshof haben das Recht, das Vorliegen der Voraussetzungen für die Gewährung der Zuwendung, die Einhaltung der im Zuwendungsbescheid festgelegten Bestimmungen, Auflagen und Bedingungen beim Zuwendungsempfänger durch Einsichtnahme in Bücher, Belege und sonstige Unterlagen zu prüfen und Auskünfte einzuholen oder durch Beauftragte prüfen und Auskünfte einholen zu lassen.&lt;/p&gt;&lt;h2&gt;9. Inkrafttreten, Außerkrafttreten&lt;/h2&gt;&lt;p data-gsb="true"&gt;Diese Bekanntmachung tritt mit Wirkung vom 15. September 2019 in Kraft; sie tritt mit Ablauf des 31. Dezember 2025 außer Kraft.&lt;/p&gt;&lt;p&gt;&amp;#xa0;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/L/landesamt-digital-breitband-vermessung-13796"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/S/schnelles-internet-bayern-de-glasfaser"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/F/freistaat-bayern-dokumente-leistung-894404350864"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/kommune"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/oeffentliche_einrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/verband_vereinigung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/infrastruktur"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/digitalisierung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/smart_cities_regionen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bayeri_staatsminist_der_finanzen_und_heimat"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Infrastruktur/information_kommunikation"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;13796&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2020-04-02T20:08:55.745+02:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Digitalisierung Verwaltung Medizin Bildung schnelles Internet drahtlos Funknetz gigabitfähig</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatsministeriums der Finanzen und für Heimat vom 21. August 2019, Bayerisches Ministerialblatt Nr. 344 vom 4. September 2019; zuletzt geändert durch Bekanntmachung des Bayerischen Staatsministeriums der Finanzen und für Heimat vom 10. November 2023, Bayerisches Ministerialblatt Nr. 576 vom 29. November 2023.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Träger öffentlicher Schulen,&lt;/li&gt;&lt;li&gt;Träger der in den Krankenhausplan des Freistaates aufgenommenen Krankenhäuser sowie&lt;/li&gt;&lt;li&gt;Gemeinden, Verwaltungsgemeinschaften und Bezirke&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;im Freistaat Bayern.&lt;/p&gt;&lt;p&gt;Die Förderung ist an folgende Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bei Projekten der FTTB-Förderung müssen Sie sicherstellen, dass eine durchgängige Glasfaserinfrastruktur bis zum Gebäude entsteht.&lt;/li&gt;&lt;li&gt;Eine FTTB-Förderung ist ausgeschlossen, wenn&lt;ul&gt;&lt;li&gt;bereits ein Glasfaseranschluss bis zum Gebäude besteht,&lt;/li&gt;&lt;li&gt;die Herstellung eines Glasfaseranschlusses bis zum Gebäude im Rahmen eines anderweitig geförderten Breitbandausbaus geplant ist oder&lt;/li&gt;&lt;li&gt;die öffentliche Schule, das Plankrankenhaus oder das Rathaus in einem Gebiet liegt, für das ein Telekommunikationsunternehmen einen anderweitig geförderten Glasfaserausbau bis zum Gebäude ohne Kostenbeteiligung für die Endkunden angekündigt hat.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Bei Projekten der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung müssen Sie Ihre Berechtigung vorlegen, das BayernWLAN aus dem BayKOM-Rahmenvertrag (Los 2) abzurufen. Sie müssen das BayernWLAN für mindestens 24 Monate verfügbar machen.&lt;/li&gt;&lt;li&gt;Mit dem Vorhaben dürfen Sie nicht vor dem Antragseingang bei der Bewilligungsbehörde beginnen.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Der Freistaat Bayern unterstützt Sie bei Investitionen in Glasfaserleitungen zur Anbindung von öffentlichen Schulen, Plankrankenhäusern und Rathäusern an das Internet. Darüber hinaus fördert der Freistaat in Plankrankenhäusern auch den Aufbau drahtloser lokaler Funknetze (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;).&lt;/p&gt;&lt;p&gt;Sie bekommen die Förderung für&lt;/p&gt;&lt;ul&gt;&lt;li&gt;gigabitfähige und durchgängige Glasfaseranschlüsse einschließlich Netzabschlusseinheiten bis in die Gebäude (FTTB-Förderung) sowie&lt;/li&gt;&lt;li&gt;die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Infrastruktur einschließlich der dazu erforderlichen Verkabelungsarbeiten im Gebäude. Voraussetzung ist, dass darüber auch das BayernWLAN ausgestrahlt werden kann (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie bekommen die Förderung als Zuschuss.&lt;/p&gt;&lt;p&gt;Die Höhe des Zuschusses beträgt 80 Prozent Ihrer förderfähigen Kosten. Gebietskörperschaften oder Zusammenschlüsse von Gebietskörperschaften, die überwiegend dem Raum mit besonderem Handlungsbedarf zuzurechnen sind, erhalten 90 Prozent.&lt;/p&gt;&lt;p&gt;Sie bekommen je öffentlicher Schule oder Krankenhaus bei der FTTB-Förderung maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 50.000 – in besonderen Fällen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 60.000. Bei der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung ist der Förderbetrag auf &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 5.000 begrenzt.&lt;/p&gt;&lt;p&gt;Für die FTTB-Erschließung der Rathäuser können Sie maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 20.000 je Gemeinde/Bezirk erhalten. Eine Aufstockung auf &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 50.000 ist unter bestimmten Voraussetzungen möglich.&lt;/p&gt;&lt;p&gt;Die Bagatellgrenzen betragen bei der&lt;/p&gt;&lt;ul&gt;&lt;li&gt;FTTB-Förderung: &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 5.000,&lt;/li&gt;&lt;li&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Förderung: &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 2.000.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Richten Sie Ihren Antrag bitte vorzugsweise per E-Mail an das Landesamt für Digitalisierung, Breitband und Vermessung.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie in schnelles Internet für öffentliche Schulen, Plankrankenhäuser oder Rathäuser in Bayern investieren, können Sie unter bestimmten Voraussetzungen einen Zuschuss erhalten.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Glasfaseranschlüsse und &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt; für öffentliche Schulen, Plankrankenhäuser und Rathäuser (Glasfaser/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;-Richtlinie – GWLANR)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="foerderung-im-bayerischen-netzwerk-pflege" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;span data-teams="true"&gt;Bekanntmachung des Bayerischen Staatsministeriums für Gesundheit und Pflege über die Richtlinie für die Förderung im „Bayerischen Netzwerk Pflege“ vom 07.01.2015 (AllMBl. S. 56), zuletzt geändert durch die Bekanntmachung vom 19.06.2024 (BayMBl. Nr. 307)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span data-teams="true"&gt;Der Antrag ist bis spätestens 31. Dezember des dem Förderjahr vorangehenden Jahres bei der Bewilligungsbehörde einzureichen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span data-teams="true"&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/R/bayerisches-netzwerk-pflege-86434" xlink:show="replace"&gt;Weblink zur Förderrichtlinie&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/B/bayerisches-landesamt-fuer-pflege"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/L/lfp-bayern-de-familienpflege"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/L/lfp-bayern-de-angehoerigenarbeit"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/L/lfp-bayern-de-regelfoerderung-pflegestuetzpunkte"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/privatperson"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/oeffentliche_einrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/kommune"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/verband_vereinigung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/gesundheit_soziales"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/S/stmgp-bayer-staatsministerium-gesundheit-pflege"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/senioren_pflege"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;11417&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2020-04-03T11:35:04.443+02:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Krisenhilfe Familienhilfe Beratungsnetzwerk Pflegestützpunkt Familienpflegestation pflegende Angehörige</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatsministeriums für Gesundheit und Pflege vom 7. Januar 2015, Allgemeines Ministerialblatt Nr. 1 vom 30. Januar 2015, S. 56; zuletzt geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Gesundheit und Pflege vom 1. Dezember 2022, Bayerisches Ministerialblatt Nr. 726 vom 21. Dezember 2022.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bei Familienpflegestationen und bei Fachstellen für pflegende Angehörige: Verbände der freien Wohlfahrtspflege und die ihnen angeschlossenen Organisationen, freigemeinnützige Stiftungen sowie private Anbieter; bei Fachstellen für pflegende Angehörige zudem Kommunen, wenn oben genannte Träger nicht zur Verfügung stehen,&lt;/li&gt;&lt;li&gt;bei Pflegestützpunkten: Kommunen (Bezirke, Landkreise und kreisfreie Städte).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Um die Förderung für eine Familienpflegestation zu bekommen, müssen Sie vor allem folgende Voraussetzungen erfüllen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Es stehen Fachkräfte mit mindestens 50 Prozent der tarifvertraglichen Arbeitszeit einer Vollzeitkraft des Trägers in der Familienpflege und mindestens eine sonstige Haushaltshilfe zur Verfügung.&lt;/li&gt;&lt;li&gt;Sie arbeiten mit anderen sozialen Diensten sowie Behörden/Stellen (vor allem Jugendamt, Sozialamt, Krankenkasse) zusammen.&lt;/li&gt;&lt;li&gt;Ihre Familienpflegestation ist zur Abrechnung mit den Krankenkassen zugelassen.&lt;/li&gt;&lt;li&gt;Sie haben einen Zuschussantrag an die zuständigen Kommunen gestellt.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Um die Förderung für eine Fachstelle für pflegende Angehörige zu bekommen, müssen Sie vor allem folgende Voraussetzungen erfüllen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Es steht eine Fachkraft mit mindestens 50 Prozent der tarifvertraglichen Arbeitszeit einer Vollzeitkraft des Trägers in der Angehörigenarbeit zur Verfügung.&lt;/li&gt;&lt;li&gt;Sie arbeiten mit anderen sozialen Diensten sowie den Beratungsstellen (insbesondere den Pflegestützpunkten) und Behörden/Stellen in der jeweiligen Region zusammen.&lt;/li&gt;&lt;li&gt;Die Fachstelle für pflegende Angehörige ist regelmäßig erreichbar und nach außen als solche erkennbar.&lt;/li&gt;&lt;li&gt;Sie führen Hausbesuche durch.&lt;/li&gt;&lt;li&gt;Sie haben einen Zuschussantrag an die zuständigen Kommunen gestellt.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Um die Förderung für einen Pflegestützpunkt zu bekommen, müssen Sie vor allem folgende Voraussetzungen erfüllen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Es steht eine von der Kommune (anteilig) finanzierte Fachkraft mit mindestens 50 Prozent der tarifvertraglichen Arbeitszeit einer Vollzeitkraft des Trägers im Pflegestützpunkt zur Verfügung.&lt;/li&gt;&lt;li&gt;Sie arbeiten vor allem mit den Trägern in der Betreuung, Unterstützung und Pflege von Menschen mit Pflegebedarf sowie den Beratungsstellen (insbesondere den Fachstellen für pflegende Angehörige) sowie mit den Behörden/Stellen in der jeweiligen Region zusammen.&lt;/li&gt;&lt;li&gt;Der Pflegestützpunkt ist regelmäßig erreichbar und nach außen als solcher erkennbar.&lt;/li&gt;&lt;li&gt;Es werden Hausbesuche durchgeführt.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Der Freistaat Bayern unterstützt die Familienpflege, die Angehörigenarbeit und Pflegestützpunkte im Bayerischen Netzwerk Pflege.&lt;/p&gt;&lt;p&gt;In der Familienpflege erhalten Sie die Förderung für Aufwendungen in Ihrer Familienpflegestation. Dies sind vor allem&lt;/p&gt;&lt;ul&gt;&lt;li&gt;der Einsatz von qualifizierten Fachkräften,&lt;/li&gt;&lt;li&gt;die regionale Vernetzung,&lt;/li&gt;&lt;li&gt;die Vorhaltung,&lt;/li&gt;&lt;li&gt;die Einsatzleitung und&lt;/li&gt;&lt;li&gt;die Supervision/Praxisberatung.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Bei Fachstellen für pflegende Angehörige erhalten Sie die Förderung vor allem für&lt;/p&gt;&lt;ul&gt;&lt;li&gt;psychosoziale, auch längerfristige Begleitung von pflegenden Angehörigen und allen nicht erwerbsmäßigen Betreuungs- und Pflegepersonen,&lt;/li&gt;&lt;li&gt;Information, Beratung und Begleitung, vor allem von Angehörigen von Menschen mit unterschiedlichen Demenzformen,&lt;/li&gt;&lt;li&gt;Initiierung und Durchführung von Angeboten zur Unterstützung im Betreuungs- und Pflegesetting (zum Beispiel Angehörigengruppen (auch online-live-basiert), ehrenamtlichen Helferkreisen, Betreuungsgruppen, Schulungen für pflegende Angehörige),&lt;/li&gt;&lt;li&gt;Verbesserung der Zusammenarbeit von älteren pflegebedürftigen Menschen, Angehörigen sowie mit allen am Betreuungs- und Pflegenetzwerk beteiligten Personen,&lt;/li&gt;&lt;li&gt;Aktivierung des persönlichen Umfelds,&lt;/li&gt;&lt;li&gt;Öffentlichkeitsarbeit, vor allem zum Thema Demenz.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie bekommen eine Förderung auch für Pflegestützpunkte, die folgende Aufgaben erfüllen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;örtliche Anlaufstelle für Rat- und Hilfesuchende, die Informationen zu möglichen Sozialleistungen und weiteren Hilfsangeboten sowie kostenlose und neutrale Beratung in sämtlichen pflegerischen Belangen anbietet,&lt;/li&gt;&lt;li&gt;regionale Vernetzung mit allen relevanten Akteuren und Koordination von wohnortnahen Hilfs- und Unterstützungsangeboten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie bekommen die Förderung als Zuschuss.&lt;/p&gt;&lt;p&gt;Die Höhe des Zuschusses beträgt für eine vollzeitbeschäftigte Fachkraft&lt;/p&gt;&lt;ul&gt;&lt;li&gt;in der Familienpflege jährlich maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 7.800,&lt;/li&gt;&lt;li&gt;in der Angehörigenarbeit jährlich maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 24.000,&lt;/li&gt;&lt;li&gt;in einem Pflegestützpunkt jährlich maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 20.000.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Richten Sie Ihren Antrag bitte jeweils bis spätestens 31.12. für das Folgejahr an das Bayerische Landesamt für Pflege (LfP).&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie eine Familienpflegestation, eine Fachstelle für pflegende Angehörige oder einen Pflegestützpunkt betreiben, können Sie unter bestimmten Voraussetzungen Zuschüsse zu den Personal- und Sachausgaben erhalten.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Förderung im Bayerischen Netzwerk Pflege&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

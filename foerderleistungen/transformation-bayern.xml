@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="transformation-bayern" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;„Transformation@Bayern“ (T@B)&lt;/strong&gt;&lt;/p&gt;&lt;h2&gt;Ausgangslage&lt;/h2&gt;&lt;p&gt;Angesichts der zukunftsbeherrschenden Themen „Digitalisierung“, aber auch „Energiewende“ sowie „Klimaschutz“ stehen bayerische Unternehmen vor großen Herausforderungen.&lt;/p&gt;&lt;p&gt;Die digitale Revolution und der energie- &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; klimapolitische Wandel werden zum einen für neue innovative Produkte und Dienstleistungen sorgen, zum anderen aber auch unserer Wirtschaft ein Umdenken &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; eine Umorientierung tradierter Marktmechanismen abfordern.&lt;/p&gt;&lt;h2&gt;Aufgabe&lt;/h2&gt;&lt;p&gt;Unsere Unternehmen stehen vor der zukunftsentscheidenden Aufgabe, so rasch wie möglich auf den stetigen wirtschaftlichen Wandel zu reagieren.&lt;/p&gt;&lt;p&gt;Die einzelbetriebliche Investitionsförderung ist dabei das wirksamste Förderinstrument, die Wirtschaftsleistung und Wettbewerbsfähigkeit unserer bayerischen Unternehmen gerade im ländlichen Raum nachhaltig zu unterstützen.&lt;/p&gt;&lt;p&gt;Dabei ist das Augenmerk besonderes auf unsere &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; gerichtet, die Hauptleistungsträger und Garant unseres Wohlstands sind.&lt;/p&gt;&lt;p&gt;Vor diesem Hintergrund haben wir im Rahmen der Bayerischen Regionalförderung das Sonderprogramm „Transformation@Bayern“ (T@B) zur Begleitung und Bewältigung erforderlicher Transformationsprozesse aufgelegt.&lt;/p&gt;&lt;p&gt;Ziel des Sonderprogramms ist es, die Entwicklung und beschleunigte Implementierung innovativer und digitaler Technologien in unseren bayerischen Unternehmen zu forcieren und finanziell zu unterstützen. Gleichzeitig sollen mit Hilfe der Fördermittel die Wettbewerbsfähigkeit der Unternehmen nachhaltig gestärkt sowie neue Arbeitsplätze vor Ort geschaffen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; bestehende Arbeitsplätze gesichert werden.&lt;/p&gt;&lt;h2&gt;Förderfähige Maßnahmen&lt;/h2&gt;&lt;p&gt;Das Sonderprogramm unterstützt Transformations- und Digitalisierungsvorhaben insbesondere in unseren klein- und mittelständischen Betrieben in Bayern.&lt;/p&gt;&lt;p&gt;Förderfähig sind danach Investitionen – insbesondere von Unternehmen des Automotiv-Sektors – in neue Maßnahmen zur Digitalisierung sowie in neue innovative Verfahrens-, Produktions- und Kommunikationsprozesse.&lt;/p&gt;&lt;p&gt;Zusätzliche Anforderungen an förderfähige Maßnahmen im Sonderprogramm Transformation@Bayern (T@B)&lt;/p&gt;&lt;p&gt;Erfüllt ein Vorhaben die Grundvoraussetzungen der Bayerischen Regional Förderprogramms (BRF) oder des Koordinierungsrahmens der Gemeinschaftsaufgabe „Verbesserung der Regionalen Wirtschaftsstruktur (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GRW&lt;/abbr&gt;) und zusätzlich mindestens eines der nachstehend aufgeführten Kriterien ist eine Unterstützung aus dem Sonderprogramm Transformation@Bayern (T@B) möglich.&lt;/p&gt;&lt;h3&gt;Kriterien für Transformationsvorhaben:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Entwicklung &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Fertigung und/oder Markteinführung neuer oder wesentlich verbesserter Produkte, Verfahren/Prozesse oder Dienstleistungen.&lt;/li&gt;&lt;li&gt;Kauf und Implementierung innovativer Fertigungstechnologien für das eigene Unternehmen. Dabei muss es sich um Technologien handeln, die sich in der jeweiligen Branche noch nicht durchgesetzt haben.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Kriterien für Digitalisierungsvorhaben:&lt;/h3&gt;&lt;p&gt;Bereich Produktion und Verfahren&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integration von Customer Relationship Management-Systemen an das MES (Manufacturing Execution System; Digitale Kundenschnittstelle)&lt;/li&gt;&lt;li&gt;Vollumfängliche Vernetzung der Enterprise Resource Planning (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ERP&lt;/abbr&gt;)- und Produktionssysteme (Machine-to-machine-communication) – „Industrie 4.0“&lt;/li&gt;&lt;li&gt;Einführung von Mensch-Maschinen-Interaktion in der Produktion&lt;/li&gt;&lt;li&gt;Einführung medienbruchfreier (Produktions-) Systeme&lt;/li&gt;&lt;li&gt;Implementierung additiver Fertigungsverfahren, zum Beispiel 3D-Druck&lt;/li&gt;&lt;li&gt;Integration mobiler Betriebsgeräte in die Produktionssteuerung&lt;/li&gt;&lt;li&gt;Aufbau der Infrastruktur für die Erhebung und Analyse große Datenmengen (Big Data-Anwendungen)&lt;/li&gt;&lt;li&gt;Investitionen in die Nutzung und den Ausbau innerbetrieblicher Breitbandnetze mit mehr als 50 Megabit pro Sekunde&lt;/li&gt;&lt;li&gt;Einbindung von cyber-physischen Systemen in die Produktion&lt;/li&gt;&lt;li&gt;Aufwendungen für die Digitalisierung der Wertschöpfungskette; Integration digitaler Workflows mit Lieferanten und Kunden&lt;/li&gt;&lt;li&gt;Entwicklung eines digitalen Abbilds&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Bereich Produkte&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Aufbau von digitalen Plattformen&lt;/li&gt;&lt;li&gt;Projekte im Bereich der Usability-Verbesserung&lt;/li&gt;&lt;li&gt;Entwicklung von predictive-maintenance Anwendungen, zum Beispiel Fernwartung&lt;/li&gt;&lt;li&gt;Entwicklung produktbegleitender und/oder Anwendersteuerungssoftware&lt;/li&gt;&lt;li&gt;Entwicklung und/oder Anwendung von (digitalen) Standards und Normen&lt;/li&gt;&lt;li&gt;Entwicklung datenbasierter Dienstleistungen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Bereich Strategie und Organisation&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Entwicklung einer umfassenden Digitalisierungsstrategie&lt;/li&gt;&lt;li&gt;Initialisierungsaufwand für die Nutzung von Cloudtechnologie&lt;/li&gt;&lt;li&gt;Entwicklung und Implementierung eines &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IT&lt;/abbr&gt;- und/oder Datensicherheitskonzepts&lt;/li&gt;&lt;li&gt;Einführung digitaler Vertriebskanäle inklusive Aufbau des elektronischen Handels unter Verwendung mobiler Betriebsgeräte (mobile e-commerce)&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Beihilferechtliche Fördergrundlage&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Bayerische Regionale Förderprogramm (BRF) oder&lt;/li&gt;&lt;li&gt;Koordinierungsrahmen der Gemeinschaftsaufgabe „Verbesserung der Regionalen Wirtschaftsstruktur“ (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GRW&lt;/abbr&gt;).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Der Vollzug des Sonderprogramms erfolgt nach Maßgabe der BRF &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GRW&lt;/abbr&gt;, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;d.h.&lt;/abbr&gt; nach den bewährten und den Antrags- und Bewilligungsstellen bereits bekannten Regeln.&lt;/p&gt;&lt;p&gt;Die Förderprogramme sind auf der Website des StMWi unter folgendem Link abrufbar:&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/S/stmwi-bayern-foerderprogramme-regionalfoerderung" xlink:show="new"&gt;https://www.stmwi.bayern.de/service/foerderprogramme/regionalfoerderung/&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;Anspruchsberechtigt&lt;/h2&gt;&lt;p&gt;Gewerbliche Unternehmen der Industrie – insbesondere &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Kfz&lt;/abbr&gt;-Zulieferer –, aber auch gewerbliche Unternehmen aus den Bereichen Handwerk und sonstige Dienstleistungen.&lt;/p&gt;&lt;h2&gt;Fördersätze&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;bis zu 20% für kleine Unternehmen (in C-Gebieten bis zu 30%)&lt;/li&gt;&lt;li&gt;bis zu 10% für mittlere Unternehmen (in C-Gebieten bis zu 20%)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In den beihilferechtlich zulässigen Ausnahmefällen können in C-Gebieten auch große Unternehmen bis zu 10% gefördert werden.&lt;/p&gt;&lt;p&gt;Im Rahmen des Sonderprogramms sollen die beihilferechtlich zulässigen Fördersätze bestmöglich ausgeschöpft werden.&lt;/p&gt;&lt;h2&gt;Mindestinvestitionssumme&lt;/h2&gt;&lt;p&gt;Die Mindestinvestitionsgrenze im Rahmen dieses Sonderprogramms beträgt 200.000 Euro im „Raum mit besonderem Handlungsbedarf“ (RmbH) wie im sonstigen Fördergebiet.&lt;/p&gt;&lt;p&gt;Die Fördergebietskarte ist auf der Website des StMWi unter folgendem Link abrufbar:&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/S/stmwi-bayern-foerdergebiete_regionalfoerderung" xlink:show="new"&gt;https://www.stmwi.bayern.de/fileadmin/user_upload/stmwi/Publikationen/2019/2019-01-30_Foerdergebiete_Regionalfoerderung__2017.pdf&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;#xa0;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/Z/zustaendige-bezirksregierung-in-bayern-2"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/S/stmwi-bayern-foerderprogramme-regionalfoerderung"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/dienstleistungen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handel"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handwerk"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/kultur_kreativwirtschaft"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/produzierendes_gewerbe"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/digitalisierung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/unternehmensfinanzierung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/regionalfoerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/S/stmwi-bayerisches_staatsministerium_fuer_wirtschaft_landesentwicklung_und_energie"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Unternehmensfinanzierung/betriebliche_investitionen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Regionalfoerderung/gewerbliche_wirtschaft"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;14508&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2020-11-02T10:52:22.550+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>BRF GRW digital innovativ Technologien Automotiv-Sektor Kfz-Zulieferer Verfahrensprozesse Produktionsprozess Geschäftsmodell Fertigungstechnologie Industrie 4.0 3D-Druck Plattform Fernwartung Cloudtechnologie elektronischer Handel e-commerce</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatministeriums für Wirtschaft, Energie und Technologie, Stand März 2020; Informationen des Bayerischen Staatministeriums für Wirtschaft, Energie und Technologie, Stand Oktober 2023.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind kleine und mittlere Unternehmen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;) der Industrie – insbesondere &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Kfz&lt;/abbr&gt;-Zulieferer –, des Handwerks und des sonstigen Dienstleistungsgewerbes gemäß &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;-Definition der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;.&lt;/p&gt;&lt;p&gt;Die Förderung ist an folgende Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ihr Vorhaben muss die Grundvoraussetzungen der Bayerischen Regionalförderung (BRF) und der Gemeinschaftsaufgabe „Verbesserung der regionalen Wirtschaftsstruktur“ (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GRW&lt;/abbr&gt;) erfüllen und zusätzliche Bedingungen erfüllen.&lt;/li&gt;&lt;li&gt;Sie müssen Ihr Vorhaben in der geltenden Fördergebietskulisse ausführen.&lt;/li&gt;&lt;li&gt;Ihr Transformationsvorhaben muss&lt;ul&gt;&lt;li&gt;der Entwicklung beziehungsweise Fertigung und/oder Markteinführung neuer oder wesentlich verbesserter Produkte, Verfahren/Prozesse oder Dienstleistungen dienen oder&lt;/li&gt;&lt;li&gt;auf den Kauf und Implementierung innovativer Fertigungstechnologien für das eigene Unternehmen ausgerichtet sein. Dabei muss es sich um Technologien handeln, die sich in der jeweiligen Branche noch nicht durchgesetzt haben.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Wenn Sie ein Digitalisierungsvorhaben planen, müssen Sie je nach Art des Produkts, des Produktionsverfahrens oder der Strategie/Organisation spezifische Voraussetzungen umsetzen.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Der Freistaat Bayern unterstützt Sie als kleines oder mittleres Unternehmen bei der Entwicklung und Implementierung innovativer und digitaler Technologien in Ihrem Betrieb.&lt;/p&gt;&lt;p&gt;Sie bekommen die Förderung für Investitionen in neue Maßnahmen zur Digitalisierung sowie in neue innovative Verfahrens-, Produktions- und Kommunikationsprozesse.&lt;/p&gt;&lt;p&gt;Sie bekommen die Förderung als Zuschuss.&lt;/p&gt;&lt;p&gt;Die Höhe des Zuschusses beträgt für Sie als&lt;/p&gt;&lt;ul&gt;&lt;li&gt;kleines Unternehmen im C-Gebiet der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GRW&lt;/abbr&gt; bis zu 30 Prozent, in den anderen Fördergebieten bis zu 20 Prozent Ihrer zuwendungsfähigen Kosten,&lt;/li&gt;&lt;li&gt;mittleres Unternehmen im C-Gebiet der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GRW&lt;/abbr&gt; bis zu 20 Prozent, in den anderen Fördergebieten bis zu 10 Prozent Ihrer zuwendungsfähigen Kosten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nur in Ausnahmefällen und nur in C-Gebieten können Sie auch als größeres Unternehmen einen Zuschuss von bis zu 10 Prozent der zuwendungsfähigen Kosten bekommen.&lt;/p&gt;&lt;p&gt;Ihr Investitionsvolumen muss mindestens &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 200.000 betragen.&lt;/p&gt;&lt;p&gt;Richten Sie Ihren Antrag bitte vor Beginn der Maßnahme an die Regierung, in deren Bezirk Sie das Vorhaben durchführen.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie als kleines oder mittleres Unternehmen ein Transformations- oder Digitalisierungsvorhaben umsetzen möchten, können Sie unter bestimmten Voraussetzungen einen Zuschuss bekommen.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Sonderprogramm „Transformation@Bayern“ (T@B)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

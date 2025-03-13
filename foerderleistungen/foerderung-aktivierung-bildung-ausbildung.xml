@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="foerderung-aktivierung-bildung-ausbildung" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Richtlinie für die Förderung von Projekten zur Aktivierung des Bildungs- und Ausbildungspotentials aus Mitteln des Europäischen Sozialfonds (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;) im Förderzeitraum 2014 bis 2020&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatsministeriums für Bildung und Kultus, Wissenschaft und Kunst&lt;strong&gt; &lt;/strong&gt;&lt;br /&gt;vom 13. September 2016, Az. X.8-BL0122.182/60/68&lt;br /&gt;[zuletzt geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Unterricht und Kultus&lt;br /&gt;vom 12. Juni 2020, Az. I.7-BL0122.182/98/80]&lt;/p&gt;&lt;p&gt;Der Freistaat Bayern gewährt nach Maßgabe dieser Richtlinie, der allgemeinen haushaltsrechtlichen Bestimmungen und der einschlägigen europarechtlichen Vorgaben in der jeweils gültigen Fassung, insbesondere&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• des Vertrags über die Arbeitsweise der Europäischen Union (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AEUV&lt;/abbr&gt;), insbesondere dessen Art. 162 und 174, und der aufgrund des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AEUV&lt;/abbr&gt; erlassenen Rechtsakte, insbesondere der jeweils aktuell gültigen Verordnungen und Leitlinien zur Strukturfondsförderung,&lt;/p&gt;&lt;p style="padding-left: 60px;" data-gsb="true"&gt;• der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1303/2013 des Rates vom 17. Dezember 2013 mit allgemeinen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds und den Kohäsionsfonds und zur Aufhebung der Verordnung (EG) Nr. 1083/2006,&lt;/p&gt;&lt;p style="padding-left: 60px;" data-gsb="true"&gt;• der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1304/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über den Europäischen Sozialfonds und zur Aufhebung der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1081/2006,&lt;/p&gt;&lt;p style="padding-left: 60px;" data-gsb="true"&gt;• der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1301/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über den Europäischen Fonds für regionale Entwicklung und zur Aufhebung der Verordnung (EG) Nr. 1080/2006,&lt;/p&gt;&lt;p style="padding-left: 60px;" data-gsb="true"&gt;• der Delegierten Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 480/2014 der Kommission vom 3. März 2014 zur Ergänzung der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1303/2013 des Europäischen Parlaments und des Rates mit gemeinsamen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds, den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums und den Europäischen Meeres- und Fischereifonds sowie mit allgemeinen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds und den Europäischen Meeres- und Fischereifonds,&lt;/p&gt;&lt;p style="padding-left: 60px;" data-gsb="true"&gt;• der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Art. 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf „de-minimis”-Beihilfen,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• des Operationellen Programms &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; Bayern 2014–2020 (CCI: 2014DE05SFOP004),&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• der Bayerischen Haushaltsordnung (BayHO), insbesondere Art. 23 und 44, und der Verwaltungsvorschriften hierzu,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• des Vergaberechts,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• der vom Begleitausschuss am 3. Dezember 2014 beschlossenen allgemeinen Projektauswahlkriterien,&lt;/p&gt;&lt;p&gt;Zuwendungen für die Förderung der Maßnahmen zur Aktivierung des Bildungs- und Ausbildungspotentials, die sich als Aktionen 11.1, 12 und 14 in die Prioritätsachse C (Investitionen in Bildung, Fähigkeiten und lebenslanges Lernen) des Operationellen Programms &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; Bayern 2014 bis 2020 einordnen.&lt;/p&gt;&lt;p&gt;Die Förderung erfolgt ohne Rechtsanspruch im Rahmen der verfügbaren Haushaltsmittel.&lt;/p&gt;&lt;h2&gt;I. Allgemeine Beschreibung des Zuwendungsbereichs&lt;/h2&gt;&lt;h3&gt;1. Zweck der Zuwendung&lt;/h3&gt;&lt;p&gt;Zuwendungen nach dieser Richtlinie werden zur Förderung der Maßnahmen zur Aktivierung des Bildungs- und Ausbildungspotentials junger Menschen gewährt, die in Prioritätsachse C des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Programms Investitionen in Wachstum und Beschäftigung Bayern 2014 bis 2020 vorgesehen sind.&lt;/p&gt;&lt;p&gt;Alle geförderten Maßnahmen dienen dem Zweck, das Bildungs- und Ausbildungspotential benachteiligter Kinder und Jugendlicher zu erschließen, die ohne besondere Unterstützung mit hoher Wahrscheinlichkeit keinen oder einen unter ihren Möglichkeiten liegenden Schulabschluss erreichen würden. Die bestmögliche Qualifikation auch benachteiligter Bildungsteilnehmer entspricht der Aufgabenstellung des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; zur Verringerung und Verhütung des vorzeitigen Schulabbruchs und ist – vor allem mit Blick auf den demografisch bedingt zunehmenden Fachkräftemangel in Bayern – ein dringendes Erfordernis des Arbeitsmarkts.&lt;/p&gt;&lt;h3&gt;2. Gegenstand der Förderung&lt;/h3&gt;&lt;p&gt;Gefördert wird nach Maßgabe dieser Richtlinien die bedarfsgerechte Einrichtung folgender Angebote:&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• Praxisklassen an Mittelschulen [Aktion 11.1]:&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;Schülerinnen und Schüler der Mittelschule mit großen Lern- und Leistungsrückständen sollen durch eine passgenaue Förderung in Praxisklassen nach Art. 7a Abs. 1 Satz 2 BayEUG und den einschlägigen Bestimmungen der Mittelschulordnung die Voraussetzungen für den Erwerb eines Schulabschlusses erlangen und einen schulischen oder beruflichen Anschluss erreichen, um den Anforderungen des Ausbildungs- und Arbeitsmarkts gerecht zu werden;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• Klassen des Berufsintegrationsjahrs (BIJ) an Berufsschulen (auch Berufsschulen zur sonderpädagogischen Förderung) [Aktion 12]:&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;Jugendliche und junge Erwachsene ohne Ausbildungsplatz, die die Berufsschule besuchen, sollen insbesondere durch den Ausgleich sprachlicher Defizite ihre Chancen auf dem Ausbildungs- und Arbeitsmarkt verbessern. Zielgruppe sind insbesondere berufsschulpflichtige Jugendliche mit Migrationshintergrund (z.B. junge Asylsuchende und Flüchtlinge, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Migranten).&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;Im Rahmen eines Berufsintegrationsjahrs (BIJ) sollen sie eine gezielte Berufsvorbereitung (in kooperativer Form) mit verstärkter Sprachförderung und sozialpädagogischer Betreuung erfahren, um vorhandene Sprachdefizite auszugleichen und die erforderliche Ausbildungsreife zu erlangen;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• gebundene Ganztagsangebote für Deutschklassen &lt;sup&gt;(1)&lt;/sup&gt; an Grund- und Mittelschulen [Aktion 14]:&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;Für Schülerinnen und Schüler mit nichtdeutscher Muttersprache, die im vollzeitschulpflichtigen Alter als Quereinsteiger in das bayerische Bildungssystem eintreten, können Deutschklassen an Grund- und Mittelschulen eingerichtet werden. Für einen Teil dieser Klassen soll ein gebundenes Ganztagsangebot gefördert werden, das die bestehende Förderung durch die Deutschklasse ergänzt und durch eine den speziellen Anforderungen der Zielgruppe entsprechende Förderung insbesondere die durch den Migrationshintergrund bedingten Nachteile ausgleicht. So wird ein begabungsgerechter Einstieg der Kinder in das bayerische Bildungssystem ermöglicht, der Wechsel an die deutschsprachigen Regelklassen beschleunigt und die Entfaltung des Bildungs- und Ausbildungspotentials frühzeitig unterstützt.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;Gegenstand der Förderung sind die über das Halbtagsangebot hinausgehenden Elemente des gebundenen Ganztagsangebots, insbesondere die damit verbundenen zusätzlichen Unterrichts- und Betreuungsangebote.&lt;/p&gt;&lt;h3&gt;3. Zuwendungsempfänger&lt;/h3&gt;&lt;p&gt;Zuwendungsempfänger können die Schulaufwandsträger öffentlicher oder staatlich anerkannter Schulen des jeweiligen Schultyps sein.&lt;/p&gt;&lt;h3&gt;4. Zuwendungsvoraussetzungen&lt;/h3&gt;&lt;p&gt;Die nach diesen Richtlinien geförderten Projekte müssen die von der Verwaltungsbehörde festgesetzten allgemeinen Zuwendungsvoraussetzungen sowie die in den Anlagen 1 bis 3 definierten besonderen Zuwendungsvoraussetzungen erfüllen.&lt;/p&gt;&lt;p&gt;Es gelten dabei&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• für Praxisklassen an Mittelschulen Anlage 1;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• für BIJ-Klassen Anlage 2;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• für die Einrichtung eines gebundenen Ganztagsangebots für Deutschklassen Anlage 3.&lt;/p&gt;&lt;p&gt;Der Maßnahmezeitraum reicht jeweils vom 1. September des Jahres, in dem die Maßnahme beginnt, bis zum 31. August des Folgejahres.&lt;/p&gt;&lt;h3&gt;5. Art und Höhe der Förderung&lt;/h3&gt;&lt;h3&gt;5.1 Art der Förderung&lt;/h3&gt;&lt;p&gt;Zuwendungen nach dieser Förderrichtlinie werden als Fehlbedarfsfinanzierung zur Projektförderung aus Mitteln des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; gewährt.&lt;/p&gt;&lt;h3&gt;5.2 Zuwendungsfähige Kosten&lt;/h3&gt;&lt;p&gt;Förderfähig sind ausschließlich die nachfolgend aufgeführten Ausgaben:&lt;/p&gt;&lt;p&gt;5.2.1 Vergütungen für direkt dem Projekt zurechenbares Eigenpersonal (einschl. Steuern und Sozialabgaben) – Lehrkräfte und Verwaltungspersonal (Kostenposition 1.1)&lt;/p&gt;&lt;p&gt;Lehrkräfte&lt;/p&gt;&lt;p&gt;Werden die zur Umsetzung des Projekts erforderlichen Lehrkräfte vom Projektträger selbst gestellt, so ist die in der einschlägigen Anlage genannte Kostenpauschale für Lehrpersonal bei Kostenposition 1.1 anzusetzen; derselbe Betrag ist als Finanzierungsbeitrag aus Eigenmitteln anzusetzen.&lt;/p&gt;&lt;p&gt;Der Betrag ist zu einem Drittel dem ersten und zu zwei Drittel dem zweiten Kalenderjahr des Bewilligungszeitraums zuzuordnen.&lt;/p&gt;&lt;p&gt;Verwaltungspersonal des Trägers&lt;/p&gt;&lt;p&gt;Für die mit dem Projekt verbundenen Kosten (Verwaltungspersonalaufwand der Projektträger) können als Standardeinheitskosten je Klasse und Schuljahr pauschal 2.100 EUR angesetzt werden.&lt;/p&gt;&lt;p&gt;Von dem Betrag sind 700 EUR dem ersten und 1.400 EUR dem zweiten Kalenderjahr des Bewilligungszeitraums zuzuordnen.&lt;/p&gt;&lt;p&gt;5.2.2 Reine Vergütungen (= Vergütungen ohne Sach-, Reisekosten) für direkt dem Projekt zurechenbares Fremdpersonal – Lehrkräfte (Kostenposition 1.2)&lt;/p&gt;&lt;p&gt;Lehrkräfte&lt;/p&gt;&lt;p&gt;Werden die zur Umsetzung des Projekts erforderlichen Lehrkräfte von einem Dritten (z.B. Freistaat Bayern) für das Projekt zur Verfügung gestellt, so ist die in der einschlägigen Anlage genannte Kostenpauschale für Lehrpersonal bei Kostenposition 1.2 anzusetzen; derselbe Betrag ist als Finanzierungsbeitrag aus öffentlichen Mitteln anzusetzen.&lt;/p&gt;&lt;p&gt;Der Betrag ist zu einem Drittel dem ersten und zu zwei Drittel dem zweiten Kalenderjahr des Bewilligungszeitraums zuzuordnen.&lt;/p&gt;&lt;p&gt;5.2.3 Bildungs- und Betreuungspersonal (ohne Lehrkräfte) (Kostenposition 1.3)&lt;/p&gt;&lt;p&gt;Bildungs- und Betreuungspersonal (ohne Lehrkräfte)&lt;/p&gt;&lt;p&gt;Andere für die Projektumsetzung erforderliche direkte Personalkosten für das Bildungs- und Betreuungspersonal, insbesondere für die sozialpädagogische Betreuung der Schülerinnen und Schüler durch Eigenpersonal des Trägers, können als fester Prozentsatz der Bruttopersonalkosten berechnet werden. Hierbei wird ein fester Prozentsatz zu Grunde gelegt, der der für das Vorhaben aufgewendeten Arbeitszeit pro Monat entspricht (Art. 68a Abs. 5 VO (EG) 1303/2013).&lt;/p&gt;&lt;p&gt;5.2.4 Sonstige direkte Ausgaben (Kostenposition 3.8)&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Externe Schulungskosten der Teilnehmer&lt;/p&gt;&lt;p&gt;Vergibt der Zuwendungsempfänger zur Durchführung des Projekts oder einzelner Projektbestandteile, insbesondere für die sozialpädagogische Betreuung der Schülerinnen und Schüler, Leistungen an Dritte („Kooperationspartner”), so sind die hierfür getätigten Aufwendungen in Höhe der tatsächlich entstandenen Kosten zuwendungsfähig. Das Vergaberecht ist gemäß ANBest-P/ANBest-K zu beachten.&lt;/p&gt;&lt;p&gt;Der Betrag ist zu einem Drittel dem ersten und zu zwei Drittel dem zweiten Kalenderjahr des Bewilligungszeitraums zuzuordnen.&lt;/p&gt;&lt;p&gt;5.2.5 Anteilige Nebenkosten (Kostenposition 4.9):&lt;/p&gt;&lt;p&gt;Bei Kostenposition 4.9 ist die nach der einschlägigen Anlage berechnete Schulaufwandspauschale anzusetzen.&lt;/p&gt;&lt;p&gt;Der Betrag ist zu einem Drittel dem ersten und zu zwei Drittel dem zweiten Kalenderjahr des Bewilligungszeitraums zuzuordnen.&lt;/p&gt;&lt;h3&gt;5.3. Eigenmittel&lt;/h3&gt;&lt;p&gt;Vom Projektträger sind im Finanzierungsplan als Eigenmittel mindestens anzusetzen:&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• ggf. die bei Kostenposition 1.1 angesetzte Pauschale für Lehrkräfte;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• ggf. der bei Kostenposition 4.9 (Nr. 5.2.5) angesetzte Betrag, soweit er nicht auf Gastschüler entfällt oder Gleichgestellte, für die Gastschulbeiträge (Kostenersatz) gezahlt werden.&lt;/p&gt;&lt;h3&gt;5.4. Öffentliche Mittel&lt;/h3&gt;&lt;p&gt;Vom Projektträger sind im Finanzierungsplan unter „Öffentliche Mittel” anzugeben:&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• der Wert der von öffentlichen Stellen eingebrachten Leistungen (z.B. der Betrag der bei Kostenposition 1.2 angesetzten Kosten des schulischen Lehrpersonals)&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• der bei Kostenposition 4.9 angesetzte Betrag, soweit er auf Gastschüler entfällt oder auf Gleichgestellte, für die Gastschulbeiträge (Kostenersatz) gezahlt werden.&lt;/p&gt;&lt;h3&gt;5.5. Höhe der Förderung und Bewilligungszeitraum&lt;/h3&gt;&lt;p&gt;Die Förderung aus Mitteln des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Programms erfolgt bis zu dem in der einschlägigen Anlage genannten Höchstbetrag in Höhe des Fehlbedarfs, der insoweit verbleibt, als der Zuwendungsempfänger die zuwendungsfähigen Kosten (Nr. 5.2) nicht durch eigene oder fremde Mittel zu decken vermag.&lt;/p&gt;&lt;p&gt;Der Bewilligungszeitraum reicht jeweils vom 1. August des Jahres, in dem die Maßnahme beginnt, bis zum 31. Oktober des Folgejahres.&lt;/p&gt;&lt;h3&gt;6. Mehrfachförderung&lt;/h3&gt;&lt;p&gt;Eine Förderung ist ausgeschlossen für Projekte, die von anderer Stelle Zuwendungen aus dem Europäischen Sozialfonds oder aus anderen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Programmen erhalten.&lt;/p&gt;&lt;h2&gt;II. Verfahren&lt;/h2&gt;&lt;h3&gt;7. Antragsverfahren&lt;/h3&gt;&lt;h3&gt;7.1. Form und Frist&lt;/h3&gt;&lt;p&gt;Der Antrag ist unter Verwendung der hierfür vorgesehenen Formblätter ausgefüllt und unterzeichnet im Original sowie elektronisch über das EDV-System „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; Bavaria” bei der Regierung von Niederbayern, SG 13 (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Vollzugsstelle), Regierungsplatz 540, 84028 Landshut, einzureichen. Die erforderlichen Anlagen sind in Papierform beizufügen.&lt;/p&gt;&lt;p&gt;Förderanträge sind grundsätzlich bis 4 Wochen vor Beginn des Bewilligungszeitraums zu stellen; bei Projekten, für die der vorzeitige Maßnahmebeginn als genehmigt gilt, bis 31. Oktober. Die Regierung von Niederbayern kann auf die Vorlage in Papierform verzichten.&lt;/p&gt;&lt;h3&gt;7.2.&lt;/h3&gt;&lt;p&gt;Der Zuwendungsempfänger hat die einschlägigen Hinweise und Leitlinien zur Förderung zu beachten. Sie sind unter dem Link erhältlich:&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onRequest" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/esf-bayern-de-antragstellung" xlink:show="new"&gt;http://esf.bayern.de/antragstellung/index.php&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;8. Bewilligungsverfahren&lt;/h3&gt;&lt;p&gt;Über die Bewilligung entscheidet die Regierung von Niederbayern (SG 13) nach Maßgabe der im Operationellen Programm &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; Bayern 2014 bis 2020 unter Punkt 2.A.1.3 niedergelegten allgemeinen Grundsätze für die Auswahl der Vorhaben unter Verwendung der von der Verwaltungsbehörde zur Verfügung gestellten Formblätter und Musterbescheide, aus denen sich die Nebenbestimmungen ergeben, die über die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P) bzw. die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung an kommunale Körperschaften (ANBest-K) hinaus festzusetzen sind.&lt;/p&gt;&lt;p&gt;Die folgenden im Operationellen Programm &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; Bayern 2014 bis 2020 unter Punkt 2.A.1.3 niedergelegten Leitgrundsätze für die Auswahl von Vorhaben gelten für schulaufsichtlich genehmigte Vorhaben der bei Nr. 2 genannten Art als erfüllt:&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• Es werden nur Projekte gefördert, die einen Beitrag zu den im Operationellen Programm &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; Bayern 2014 bis 2020 enthaltenen Investitionsprioritäten leisten.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• Es muss ein arbeitsmarktpolitisches, sozialpolitisches oder regionalpolitisches Erfordernis vorliegen, welches im Rahmen des Vorhabens adressiert wird.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• Bei der Auswahl der Projekte ist stets darauf zu achten, dass die jeweilige Aktion nicht vorrangig in den Anwendungsbereich eines anderen Strukturfonds (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EFRE&lt;/abbr&gt;, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ELER&lt;/abbr&gt;. EFF) bzw. in die Programme im Ziel „Europäische territoriale Zusammenarbeit” oder in das Bildungsprogramm „Erasmus +” fällt. Eine inhaltliche Abgrenzung zum &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Programm des Bundes ist ebenfalls zu gewährleisten.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• Die Förderung wird auf Projekte beschränkt, deren Durchführungsort innerhalb Bayerns liegt und deren Teilnehmer/innen grundsätzlich ihren Wohnsitz oder Arbeitsort in Bayern haben. Vorhaben in Regionen mit einem erhöhten Förderbedarf (strukturschwächere Regionen) werden vorrangig ausgewählt.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;• Bei der Auswahl der Projekte ist der Beitrag der Vorhaben zur sozialen Innovation, transnationalen Zusammenarbeit sowie zu den thematischen Zielen 1 bis 7 des Operationellen Programms Bayern 2014 bis 2020 einzubeziehen.&lt;/p&gt;&lt;p&gt;Mit der schulaufsichtlichen Genehmigung bzw. Einrichtung gilt die Freigabe des vorzeitigen Maßnahmebeginns gemäß VV Nr. 1.3.3 zu Art. 44 BayHO bzw. Nr. 1.3 der VVK zu Art. 44 BayHO als erteilt.&lt;/p&gt;&lt;p&gt;Das Bayerische Staatsministerium für Unterricht und Kultus übermittelt hierfür jeweils i.d.R. bis zum 15. August eine entsprechende Aufstellung. Ein Anspruch auf Förderung ist mit der schulaufsichtlichen Entscheidung nicht verbunden.&lt;/p&gt;&lt;p&gt;Die Regierung von Niederbayern stellt im Bewilligungsverfahren sicher, dass der im Programm festgelegte Interventionssatz des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; von 50% auf Ebene der Prioritätsachse C eingehalten wird.&lt;/p&gt;&lt;h3&gt;9. Auszahlungsverfahren&lt;/h3&gt;&lt;p&gt;Für die Auszahlungen ist die Regierung von Niederbayern (Sg. Z 3) zuständig.&lt;/p&gt;&lt;p&gt;Soweit nicht ausdrücklich etwas anderes bestimmt ist, erfolgt die Auszahlung der Fördermittel gemäß Art. 131 Abs. 2 VO (EG) Nr. 1303/2013 nach dem Erstattungsprinzip. Dies bedeutet, dass nur die tatsächlich getätigten Ausgaben erstattet werden können, welche durch quittierte Rechnungen oder gleichwertige Buchungsbelege nachgewiesen sind, soweit nicht gemäß Nr. 5.2 ein pauschaler Ansatz vorgesehen ist.&lt;/p&gt;&lt;p&gt;Die Auszahlungen werden nach Prüfung des Verwendungsnachweises vorgenommen.&lt;/p&gt;&lt;h3&gt;10. Verwendungsnachweise&lt;/h3&gt;&lt;p&gt;Verwendungsnachweise sind bis zum 31. Januar des Jahres vorzulegen, das auf den Bewilligungszeitraum folgt. Für die Projekte, die im Schuljahr 2022/2023 durchgeführt werden, sind die Verwendungsnachweise bis zum 15. September 2023 vorzulegen.&lt;/p&gt;&lt;h3&gt;11. Evaluierung, Monitoring und Erfolgsbewertung&lt;/h3&gt;&lt;p&gt;Die Projektträger müssen sich dazu verpflichten, an Maßnahmen des Monitorings, der Begleitung, der Bewertung und der Evaluierung mitzuwirken, die vom Zuwendungsgeber für das Gesamt- oder ein Teilprogramm veranlasst werden.&lt;/p&gt;&lt;p&gt;Die Projektträger haben sicherzustellen, dass jeder Teilnehmende bzw. dessen Erziehungsberechtigte(r) eine Einwilligungserklärung vor Projektteilnahme über seine Mitwirkung an den Monitoring- und Evaluierungsmaßnahmen abgibt. Die Unterzeichnung der Einwilligungserklärungen hat ohne schuldhaftes Zögern (spätestens zwei Wochen nach Beginn der Projektteilnahme) zu erfolgen. Zum Monitoring der Förderung sind statistische Daten und Informationen über das Projekt und über den Teilnehmenden in einem Stammblatt online über die Software &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Bavaria 2014 zu erfassen und dem Zuwendungsgeber bzw. dem von ihm beauftragten Dritten zur Verfügung zu stellen. Die Eingabe der Daten in die Software &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Bavaria 2014 hat für die bis zum jeweiligen Stichtag für die Feststellung der Teilnehmerzahl (vgl. Anlagen 1–3) zu berücksichtigenden Teilnehmenden bis spätestens einen Monat nach dem jeweiligen Stichtag, im Übrigen (d.h. bei späterer Projektteilnahme) unverzüglich (spätestens zwei Wochen nach dem Vorliegen der Einwilligungserklärung) zu erfolgen.&lt;/p&gt;&lt;p&gt;Unvollständige oder fehlende Angaben führen dazu, dass Teilnehmende nicht in die Berichterstattung gegenüber der Europäischen Kommission aufgenommen werden können. Die Projektträger haben daher sicherzustellen, dass jeder Teilnehmende bzw. dessen Erziehungsberechtigte(r) vor Projektteilnahme eine Einwilligungserklärung über seine Mitwirkung an den Monitoring- und Evaluierungsmaßnahmen abgibt. Personen, die keine oder unvollständige Angaben machen oder die Einwilligungserklärung nicht unterzeichnen, dürfen nicht an der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-geförderten Maßnahme teilnehmen.&lt;/p&gt;&lt;p&gt;Link zu den bei den Aktionen 11.1, 12 und 14 hinterlegten Teilnehmenden-Fragebögen (inkl. Einwilligungserklärung):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a xlink:type="simple" xlink:actuate="onRequest" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/K/km-bayern-de-esf" xlink:show="new"&gt;https://www.km.bayern.de/esf&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;12. Informations- und Publizitätsmaßnahmen&lt;/h3&gt;&lt;p&gt;Der Projektträger ist verpflichtet, auf die Unterstützung des Vorhabens durch den Europäischen Sozialfonds deutlich sichtbar hinzuweisen.&lt;/p&gt;&lt;p&gt;&lt;span&gt;Es wird auf die verpflichtenden Bestimmungen des Merkblatts „Information und Publizität” verwiesen. Das Merkblatt „Information- und Publizität” steht zum Herunterladen bereit auf:&amp;#xa0;&lt;/span&gt;&lt;a xlink:type="simple" xlink:actuate="onRequest" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/esf-bayern-de-antragstellung" xlink:show="new"&gt;http://esf.bayern.de/antragstellung/index.php&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Besonders hervorzuheben ist, dass die Teilnehmer von Projekten dieser Förderaktion über die Voraussetzungen und Ziele der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Förderung informiert werden müssen.&lt;/p&gt;&lt;p&gt;&lt;span&gt;Das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Logo kann unter&amp;#xa0;&lt;/span&gt;&lt;a xlink:type="simple" xlink:actuate="onRequest" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/S/stmas-bayern-de-esf-emblem-logo" xlink:show="new"&gt;http://esf.bayern.de/mediathek/emblem.php&lt;/a&gt;&lt;span&gt;&amp;#xa0;heruntergeladen werden.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Der Slogan „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; in Bayern – Investition in Ihre Zukunft” oder „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; in Bayern – Wir investieren in Menschen” ist bei allen Informations- und Publizitätsmaßnahmen als Hinweis auf den gemeinschaftlichen Mehrwert aufzunehmen.&lt;/p&gt;&lt;p&gt;Im Sachbericht des Erstattungsverfahrens zum Projekt ist über die durchgeführten Informations- und Publizitätsmaßnahmen zu berichten.&lt;/p&gt;&lt;h2&gt;III. Geltungszeitraum&lt;/h2&gt;&lt;p&gt;Diese Richtlinie tritt am 1. September 2016 in Kraft. Sie tritt mit Ablauf des 31. Dezember 2023 außer Kraft.&lt;/p&gt;&lt;p&gt;Diese Richtlinie gilt in der vorliegenden Fassung für Projekte, die ab dem Schuljahr 2020/2021 durchgeführt werden; für die vor dem Schuljahr 2020/2021 durchgeführten Projekte gilt die Richtlinie in der vor dem 1. September 2020 geltenden Fassung.&lt;/p&gt;&lt;h2&gt;Anlage 1&lt;/h2&gt;&lt;h2&gt;zur Richtlinie für die Förderung von Projekten zur Aktivierung des Bildungs- und Ausbildungspotentials aus Mitteln des Europäischen Sozialfonds (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;) im Förderzeitraum 2014 bis 2020 (KMBek Nr. X.8–BL0122.182/60/68 vom 13. September 2016)&lt;/h2&gt;&lt;p&gt;[zuletzt geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Unterricht und Kultus&lt;br /&gt;vom 12. Juni 2020, Az. I.7-BL0122.182/98/80]&lt;/p&gt;&lt;h2&gt;Praxisklassen an Mittelschulen&lt;/h2&gt;&lt;h2&gt;Gegenstand der Förderung (vgl. Nr. 2 der Förderrichtlinie)&lt;/h2&gt;&lt;p&gt;Gefördert wird die Einrichtung von Praxisklassen an Mittelschulen gemäß Nr. 2 der o.g. Förderrichtlinie.&lt;/p&gt;&lt;h2&gt;Zuwendungsvoraussetzungen (zu Nr. 4 der Förderrichtlinie)&lt;/h2&gt;&lt;p&gt;1.&amp;#xa0;Im Projektzeitraum muss an der Schule eine nach den schulrechtlichen Bestimmungen gebildete Praxisklasse bestehen.&lt;/p&gt;&lt;p&gt;2.&amp;#xa0;Es muss ein arbeitsmarktpolitisches, sozialpolitisches oder regionales Erfordernis vorliegen. Das Vorliegen dieses Erfordernisses ist durch eine Stellungnahme des örtlich zuständigen staatlichen Schulamts zu belegen. Bei staatlichen Schulen ist diese Voraussetzung mit der Beteiligung des Staatlichen Schulamts an der Einrichtung der Klassen als erfüllt anzusehen.&lt;/p&gt;&lt;p&gt;3.&amp;#xa0;In eine Praxisklasse werden nach Entscheidung durch das jeweils örtlich zuständige Staatliche Schulamt unter Berücksichtigung der pädagogischen Beurteilung durch die Schule Schülerinnen und Schüler aufgenommen, die&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&lt;span&gt;•&amp;#xa0;&lt;/span&gt;im letzten oder vorletzten Schulbesuchsjahr stehen (Vollzeitschulpflicht oder freiwilliger Besuch der Mittelschule im unmittelbaren Anschluss an die Vollzeitschulpflicht) und&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&lt;span&gt;•&amp;#xa0;&lt;/span&gt;große Lern- und Leistungsrückstände aufweisen.&lt;/p&gt;&lt;p&gt;4.&amp;#xa0;Die Praxisklasse muss folgende Elemente enthalten&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&lt;span&gt;•&amp;#xa0;&lt;/span&gt;Unterricht durch eine Lehrkraft gemäß Stundentafel für die Praxisklassen (Schulordnung für die Mittelschulen in Bayern – MSO, Anlage 3)&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&lt;span&gt;•&amp;#xa0;&lt;/span&gt;Praxistage gemäß Stundentafel für die Praxisklassen&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&lt;span&gt;•&amp;#xa0;&lt;/span&gt;Sozialpädagogische Betreuung durch eine geeignete Kraft&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&lt;span&gt;•&amp;#xa0;&lt;/span&gt;Berufsberatung auf der Grundlage der §§&amp;#xa0;30 und 33 SGB&amp;#xa0;III&lt;/p&gt;&lt;p&gt;5.&amp;#xa0;Zur Bildung einer Praxisklasse sind mindestens 13 Schülerinnen und Schüler erforderlich. Eine Unterschreitung der Schülermindestzahl am maßgeblichen Stichtag (1. Oktober) ist nicht förderschädlich, wenn das örtlich zuständige Staatliche Schulamt eine Unterschreitung zulässt.&lt;/p&gt;&lt;h2&gt;Kostenpauschalen (zu Nr. 5.2 der Förderrichtlinie):&lt;/h2&gt;&lt;h3&gt;Lehrkräfte&lt;/h3&gt;&lt;p&gt;Für das erforderliche Lehrpersonal sind pauschal Kosten in Höhe von 58.000 EUR anzusetzen.&lt;/p&gt;&lt;p&gt;Die Kosten sind mit 19.333 EUR dem ersten und 38.667 EUR dem zweiten Kalenderjahr des Bewilligungszeitraums zuzuordnen.&lt;/p&gt;&lt;h3&gt;Schulaufwand&lt;/h3&gt;&lt;p&gt;Für den erforderlichen Schulaufwand ist pauschal die nach dem Bayerischen Schulfinanzierungsgesetz (BaySchFG) ermittelte Gastschulbeitragspauschale anzusetzen. Dabei ist auf den Stichtag für die Feststellung der Teilnehmerzahl abzustellen.&lt;/p&gt;&lt;h2&gt;Art und Höhe der Förderung (zu Nr. 5.5 der Förderrichtlinie):&lt;/h2&gt;&lt;p&gt;Es werden bis zu 33.500 EUR als Fehlbedarfsfinanzierung gewährt.&lt;/p&gt;&lt;h2&gt;Stichtage&lt;/h2&gt;&lt;p&gt;Stichtag für die Feststellung der Teilnehmerzahl ist der 1. Oktober des Jahres, in dem der Bewilligungszeitraum beginnt.&lt;/p&gt;&lt;p&gt;Der Ergebnisindikator (Schüler, die nach ihrer Teilnahme eine vollqualifizierende Ausbildung aufnehmen) ist zu erheben, wenn eine belastbare Aussage über den Verbleib der Teilnehmerin/des Teilnehmers nach dem Ausscheiden aus dem Projekt möglich ist, spätestens jedoch bis zum Ende des Bewilligungszeitraums (31. August).&lt;/p&gt;&lt;h2&gt;Anlage 2&lt;/h2&gt;&lt;h2&gt;zur Richtlinie für die Förderung von Projekten zur Aktivierung des Bildungs- und Ausbildungspotentials aus Mitteln des Europäischen Sozialfonds (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;) im Förderzeitraum 2014 bis 2020 (KMBek Nr. X.8-BL0122.182/60/68 vom 13. September 2016)&lt;/h2&gt;&lt;p&gt;[zuletzt geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Unterricht und Kultus&lt;br /&gt;vom 12. Juni 2020, Az. I.7-BL0122.182/98/80]&lt;/p&gt;&lt;h2&gt;Berufsintegrationsjahr (BIJ) an Berufsschulen&lt;/h2&gt;&lt;h2&gt;Gegenstand der Förderung&lt;/h2&gt;&lt;p&gt;Gefördert wird die Einrichtung von BIJ-Klassen als kooperatives Angebot an Berufsschulen und Berufsschulen zur sonderpädagogischen Förderung gemäß Nr. 2 der o.g. Förderrichtlinie.&lt;/p&gt;&lt;h2&gt;Zuwendungsvoraussetzungen (zu Nr. 4 der Förderrichtlinie)&lt;/h2&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;1.&amp;#xa0;Im Projektzeitraum muss an der Schule eine nach den schulrechtlichen Bestimmungen gebildete BIJ-Klasse bestehen.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;2.&amp;#xa0;Es muss ein arbeitsmarktpolitisches, sozialpolitisches oder regionales Erfordernis vorliegen. Das Vorliegen dieses Erfordernisses ist durch eine Stellungnahme der örtlich als Schulaufsicht zuständigen Regierung zu belegen. Bei staatlichen Schulen ist diese Voraussetzung mit der Beteiligung der Regierung an der Einrichtung der Klassen als erfüllt anzusehen.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;3.&amp;#xa0;An einem BIJ können Jugendliche und junge Erwachsene in Bayern ohne Ausbildungsplatz mit erhöhtem Sprachförderbedarf teilnehmen.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;4.&amp;#xa0;Zur Bildung einer Klasse sind mindestens 16 Schülerinnen und Schüler erforderlich. Eine Unterschreitung der Schülermindestzahl am maßgeblichen Stichtag (20. Oktober) ist nicht förderschädlich, wenn die als Schulaufsichtsbehörde zuständige Regierung eine Unterschreitung zulässt.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;5.&amp;#xa0;Das kooperative Angebot wird durch die Berufsschule in Kooperation mit Personal, das der Träger stellt (z.B. Eigenpersonal des Trägers oder Kooperationspartner wie freie Träger, überbetriebliche Einrichtungen oder Betriebe) in enger und regelmäßiger Abstimmung erbracht.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&amp;#xa0;Die Berufsschule bringt 22 Lehrerstunden ein, die teilweise auch für Gruppenteilungen verwendet werden können.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&amp;#xa0;Der Kooperationspartner bringt mindestens 19 Unterrichtsstunden ein, in denen zielgruppenbezogen Sprachförderung und Berufsvorbereitung (insbesondere durch betriebliche Praktika) angeboten werden. Der Umfang und die Inhalte des Angebotes (v.a. Sprachförderung, allgemeinbildender und fachlicher Unterricht sowie Praktika) werden in Abhängigkeit von den Voraussetzungen der Schülerinnen und Schüler festgelegt. Eine flexible zeitliche Organisation der Angebote (z.B. Blockung von Praktika) ist möglich. Teilnehmer ohne Mittelschulabschluss wird die Möglichkeit gegeben, diesen nachzuholen. Die Förderung der Sprachkompetenz ist ein wichtiges Element des Angebots, das über ein Konzept der integrierten Sprachförderung verfolgt wird (z.B. Berufssprache Deutsch). Dieser Aufgabe nehmen sich beide Partner in enger Abstimmung gemeinsam an.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;6.&amp;#xa0;Ein sozialpädagogisches Betreuungskonzept ist im Rahmen des BIJ vorzusehen. I.d.R. wird die sozialpädagogische Betreuung durch eine geeignete Kraft des Kooperationspartners geleistet.&lt;/p&gt;&lt;h2&gt;Kostenpauschalen (zu Nr. 5.2 der Förderrichtlinie):&lt;/h2&gt;&lt;h3&gt;Lehrkräfte&lt;/h3&gt;&lt;p&gt;Für das erforderliche Lehrpersonal sind pauschal Kosten in Höhe von 25.600 EUR anzusetzen.&lt;/p&gt;&lt;p&gt;Die Kosten sind mit 8.533 EUR dem ersten und mit 17.067 EUR dem zweiten Kalenderjahr des Bewilligungszeitraums zuzuordnen.&lt;/p&gt;&lt;h3&gt;Schulaufwand&lt;/h3&gt;&lt;p&gt;Für den erforderlichen Schulaufwand sind pauschal Kosten von 500 EUR je teilnehmenden Schüler anzusetzen.&lt;/p&gt;&lt;h2&gt;Art und Höhe der Förderung (zu Nr. 5.5 der Förderrichtlinie):&lt;/h2&gt;&lt;p&gt;Es werden bis zu 40.500 EUR als Fehlbedarfsfinanzierung gewährt.&lt;/p&gt;&lt;h2&gt;Stichtage&lt;/h2&gt;&lt;p&gt;Stichtag für die Feststellung der Teilnehmerzahl ist der 20. Oktober des Jahres, in dem der Bewilligungszeitraum beginnt&lt;/p&gt;&lt;p&gt;Der Ergebnisindikator (Schüler, die nach ihrer Teilnahme eine vollqualifizierende Ausbildung aufnehmen) ist zu erheben, wenn eine belastbare Aussage über den Verbleib der Teilnehmerin/des Teilnehmers nach dem Ausscheiden aus dem Projekt möglich ist, spätestens jedoch bis zum Ende des Bewilligungszeitraums (31. August).&lt;/p&gt;&lt;h2&gt;Anlage 3&lt;/h2&gt;&lt;h2&gt;zur Richtlinie für die Förderung von Projekten zur Aktivierung des Bildungs- und Ausbildungspotentials aus Mitteln des Europäischen Sozialfonds (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;) im Förderzeitraum 2014 bis 2020 (KMBek Nr. X.8-BL0122.182/60/68 vom 13. September 2016)&lt;/h2&gt;&lt;p&gt;[zuletzt geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Unterricht und Kultus&lt;br /&gt;vom 12. Juni 2020, Az. I.7-BL0122.182/98/80]&lt;/p&gt;&lt;h2&gt;Gebundenes Ganztagsangebot für Deutschklassen&lt;/h2&gt;&lt;h2&gt;Gegenstand der Förderung&lt;/h2&gt;&lt;p&gt;Gefördert wird die Einrichtung gebundener Ganztagsangebote für Deutschklassen an Grund- und Mittelschulen gemäß Nr. 2 der o.g. Förderrichtlinie;&lt;/p&gt;&lt;h2&gt;Zuwendungsvoraussetzungen (zu Nr. 4 der Förderrichtlinie)&lt;/h2&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;1.&amp;#xa0;Das gebundene Ganztagsangebot muss vom Bayerischen Staatsministerium für Unterricht und Kultus genehmigt sein. Für das Genehmigungsverfahren und die Genehmigungsvoraussetzungen gelten die Bestimmungen der Bekanntmachung des Bayerischen Staatsministeriums für Unterricht und Kultus „Gebundene Ganztagsangebote an Schulen” (KMBek „Gebundene Ganztagsangebote an Schulen“ vom 10. Februar 2020, BayMBl. Nr. 86) in der jeweils geltenden Fassung oder der sie ersetzenden Bekanntmachung entsprechend, wobei die Genehmigungsvoraussetzungen durch die nachfolgenden Zuwendungsvoraussetzungen ergänzt und modifiziert werden.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;2.&amp;#xa0;Am Ganztagsangebot für Deutschklassen können Schülerinnen und Schüler entsprechend der Zielgruppe mit Wohnsitz oder gewöhnlichem Aufenthalt in Bayern teilnehmen.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;3.&amp;#xa0;Zur Bildung einer Klasse sind mindestens 13 Schülerinnen und Schüler erforderlich. Eine Unterschreitung der Schülermindestzahl am maßgeblichen Stichtag (1. Oktober des jeweiligen Schuljahres) ist nicht förderschädlich, wenn das zuständige Staatliche Schulamt eine Unterschreitung zulässt.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;4.&amp;#xa0;Das Ganztagsangebot umfasst über das für Deutschklassen in Halbtagsform vorgesehene Angebot hinaus ein Bildungsangebot im Umfang von mindestens zwölf Lehrerwochenstunden, das durch Lehrkräfte erbracht wird.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;5.&amp;#xa0;Eine sozialpädagogische Betreuung im Rahmen des Ganztagsangebots für Deutschklassen ist zu gewährleisten. Für die sozialpädagogische Betreuung ist ein Mindestumfang von 15 Unterrichtseinheiten pro Schulwoche zu gewährleisten.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;&amp;#xa0;Für die o.g. sozialpädagogische Betreuung kann der Schulaufwandsträger eigenes Personal oder entsprechend geeignetes Personal eines Dritten („Kooperationspartner”) einsetzen. Die Abdeckung des erweiterten Personalaufwands für außerschulische Bildungs- und Betreuungsangebote im Rahmen des gebundenen Ganztagsangebotes kann durch zusätzliche externe Kräfte eines Dritten („Kooperationspartner”) oder einer Kommune erfolgen.&lt;/p&gt;&lt;h2&gt;Kostenpauschalen (zu Nr. 5.2 der Förderrichtlinie):&lt;/h2&gt;&lt;h3&gt;Lehrkräfte&lt;/h3&gt;&lt;p&gt;Für das erforderliche Lehrpersonal sind pauschal Kosten in Höhe von 25.000 EUR anzusetzen.&lt;/p&gt;&lt;p&gt;Die Kosten sind mit 8.333 EUR dem ersten und mit 16.667 EUR dem zweiten Kalenderjahr des Bewilligungszeitraums zuzuordnen.&lt;/p&gt;&lt;h3&gt;Schulaufwand&lt;/h3&gt;&lt;p&gt;Für den erforderlichen Schulaufwand können keine Kosten angesetzt werden.&lt;/p&gt;&lt;h2&gt;Art und Höhe der Förderung (zu Nr. 5.5 der Förderrichtlinie):&lt;/h2&gt;&lt;p&gt;Es werden bis zu 29.000 EUR als Fehlbedarfsfinanzierung gewährt.&lt;/p&gt;&lt;h2&gt;Stichtage&lt;/h2&gt;&lt;p&gt;Stichtag für die Feststellung der Teilnehmerzahl ist der 1. Oktober des Jahres, in dem der Bewilligungszeitraum beginnt.&lt;/p&gt;&lt;p&gt;Der Ergebnisindikator (Schüler, die das Bildungsziel (Übergang in ein reguläres deutschsprachiges Unterrichtsangebot bzw. Erreichen eines Schulabschlusses) erreichen) ist zu erheben, wenn eine belastbare Aussage über den Verbleib der Teilnehmerin/des Teilnehmers nach dem Ausscheiden aus dem Projekt möglich ist, spätestens jedoch bis zum Ende des Bewilligungszeitraums (31. August).&lt;/p&gt;&lt;p&gt;&amp;#xa0;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;(1) Die ab dem Schuljahr 2018/2019 eingerichteten Deutschklassen sind Übergangsklassen im Sinne des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;-Programms Bayern 2014 bis 2020.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/R/regierung-von-niederbayern-esf"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/R/regierung-niederbayern-bayern-de-praxisklassen"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/R/regierung-niederbayern-bayern-de-bij"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/R/regierung-niederbayern-bayern-de-deutschklassen"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/kommune"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/oeffentliche_einrichtung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/aus_weiterbildung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/berufsvorbereitung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;12635&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2020-04-03T09:11:53.207+02:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Ausbildung Jugendliche Schulabschluss Schule</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Bekanntmachung vom 13. September 2016, Amtsblatt der Bayerischen Staatsministerien für Unterricht und Kultus und für Wissenschaft und Kunst Nr. 11 vom 18. Oktober 2016, S. 211; zuletzt geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Unterricht und Kultus vom 12. Juni 2020, Bayerisches Ministerialblatt Nr. 379 vom 1. Juli 2020.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Die Förderung ist an bestimmte Bedingungen geknüpft:&lt;/p&gt;&lt;p&gt;Antragsberechtigt sind Schulaufwandsträger öffentlicher oder staatlich anerkannter Schulen des jeweiligen Schultyps.&lt;/p&gt;&lt;p&gt;Sie weisen nach, dass ein arbeitsmarktpolitisches, sozialpolitisches oder regionales Erfordernis vorliegt.&lt;/p&gt;&lt;p&gt;Sie führen das Projekt in Bayern durch.&lt;/p&gt;&lt;p&gt;Praxisklassen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Über die Aufnahme der Schüler in die Praxisklasse entscheidet das jeweils örtlich zuständige Staatliche Schulamt unter Berücksichtigung der pädagogischen Beurteilung der Schule.&lt;/li&gt;&lt;li&gt;Zur Bildung einer Praxisklasse sind mindestens 13 Schülerinnen und Schüler erforderlich (Stichtag 1.10.).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Klassen des Berufsintegrationsjahrs (BIJ):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sie belegen die arbeitsmarktpolitische, sozialpolitische oder regionale Erfordernis durch eine Stellungnahme der örtlich als Schulaufsicht zuständigen Regierung.&lt;/li&gt;&lt;li&gt;Zur Bildung einer Klasse sind mindestens 16 Schülerinnen und Schüler erforderlich (Stichtag 20.10.).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Gebundene Ganztagsangebote für Deutschklassen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ihr gebundenes Ganztagsangebot muss vom Bayerischen Staatsministerium für Unterricht und Kultus genehmigt sein.&lt;/li&gt;&lt;li&gt;Zur Bildung einer Klasse sind mindestens 13 Schülerinnen und Schüler erforderlich (Stichtag 1.10.).&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Der Freistaat Bayern fördert mit Unterstützung des Europäischen Sozialfonds (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt;) Ihre Projekte zur Aktivierung des Bildungs- und Ausbildungspotentials benachteiligter Kinder und Jugendlicher, die ohne besondere Unterstützung mit hoher Wahrscheinlichkeit keinen oder einen unter ihren Möglichkeiten liegenden Schulabschluss erreichen würden.&lt;/p&gt;&lt;p&gt;Sie bekommen die Förderung für bedarfsgerechte Einrichtung von Angeboten in folgenden Förderbereichen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Praxisklassen an Mittelschulen (Aktion 11.1): Schülerinnen und Schüler der Mittelschule mit großen Lern- und Leistungsrückständen erlangen durch eine passgenaue Förderung in Praxisklassen die Voraussetzungen für den Erwerb eines Schulabschlusses und erreichen einen schulischen oder beruflichen Anschluss.&lt;/li&gt;&lt;li&gt;Klassen des Berufsintegrationsjahrs (BIJ) an Berufsschulen (auch Berufsschulen zur sonderpädagogischen Förderung) (Aktion 12): Jugendliche und junge Erwachsene ohne Ausbildungsplatz, die die Berufsschule (auch Berufsschule zur sonderpädagogischen Förderung) besuchen, verbessern insbesondere durch den Ausgleich sprachlicher Defizite ihre Chancen auf dem Ausbildungs- und Arbeitsmarkt.&lt;/li&gt;&lt;li&gt;Gebundene Ganztagsangebote für Deutschklassen an Grund- und Mittelschulen (Aktion 14) für Schülerinnen und Schüler mit nichtdeutscher Muttersprache, die im vollzeitschulpflichtigen Alter als Quereinsteiger in das bayerische Bildungssystem eintreten: Gegenstand der Förderung sind die über das Halbtagsangebot hinausgehenden Elemente des gebundenen Ganztagsangebots, insbesondere die damit verbundenen zusätzlichen Unterrichts- und Betreuungsangebote.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie erhalten die Förderung als Fehlbedarfsfinanzierung.&lt;/p&gt;&lt;p&gt;Die Höhe der Förderung beträgt bei&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Praxisklassen maximal EUR 33.500 je Schuljahr,&lt;/li&gt;&lt;li&gt;Klassen des Berufsintegrationsjahrs (BIJ) maximal EUR 40.500 je Schuljahr,&lt;/li&gt;&lt;li&gt;gebundenen Ganztagsangeboten für Deutschklassen maximal EUR 29.000 je Schuljahr.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Der Bewilligungszeitraum reicht jeweils vom 1.8. des Jahres, in dem die Maßnahme beginnt, bis zum 31.10. des Folgejahres.&lt;/p&gt;&lt;p&gt;Ihren Antrag richten Sie vor Beginn der zu fördernden Maßnahme (grundsätzlich bis 4 Wochen vor Beginn des Bewilligungszeitraumes) unter Verwendung der hierfür vorgesehenen Formblätter sowie über das Online-System &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ESF&lt;/abbr&gt; Bavaria an die Regierung von Niederbayern.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie Projekte zur Verbesserung der Ausbildungs- und Berufsreife benachteiligter Kinder und Jugendlicher durchführen, können Sie unter bestimmten Voraussetzungen einen Zuschuss erhalten.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Förderung von Projekten zur Aktivierung des Bildungs- und Ausbildungspotentials (ESF 2014–2020)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

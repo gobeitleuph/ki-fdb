@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="energieberatung-nichtwohngebaeude-anlage-systeme" path="/BMWI/FDB/Content/DE/Foerderprogramm/Bund/BMWi" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Bekanntmachung der Richtlinie „Energieberatung für Nichtwohngebäude, Anlagen und Systeme“ (EBN)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vom 13. November 2020&lt;/p&gt;&lt;h2&gt;1 Präambel&lt;/h2&gt;&lt;p&gt;Deutschland setzt sich mit den &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Mitgliedstaaten für das Ziel der Treibhausgasneutralität bis 2050 in Europa ein. Die Energiewende steht hierbei im Mittelpunkt. Die Steigerung der Energieeffizienz und der Ausbau erneuerbarer Energien bilden dabei die zentralen Säulen.&lt;/p&gt;&lt;p&gt;Das Bundesministerium für Wirtschaft und Energie (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt;) fördert die Energieberatung für Nichtwohngebäude, Anlagen und Systeme (EBN), um Energieeffizienz und erneuerbare Energien in den Planungs- und Entscheidungsprozess einzubeziehen und damit die Effizienzpotentiale zum individuell günstigsten Zeitpunkt auszuschöpfen. Ebenso sollen Möglichkeiten zur Verminderung der Kostenbelastung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Vermeidungskosten) aufgezeigt werden. Die Contracting-Orientierungsberatung ermöglicht es, energetische Modernisierungsvorhaben durch professionelle Energiedienstleister auf Einsparpotentiale überprüfen zu lassen. Im Rahmen der späteren Umsetzungen können diese Einsparungen dann vertraglich garantiert werden.&lt;/p&gt;&lt;h2&gt;2 Rechtsgrundlagen&lt;/h2&gt;&lt;p&gt;Der Bund gewährt Förderungen auf Grundlage dieser Richtlinie und nach Maßgabe insbesondere folgender Regelungen in der jeweils gültigen Fassung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;§§ 23 und 44 der Bundeshaushaltsordnung (BHO) sowie den zu diesen Reglungen erlassenen Allgemeinen Verwaltungsvorschriften und den hierzu erlassenen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P), in der jeweils aktuellen Fassung. Handelt es sich beim Antragsteller um Gebietskörperschaften oder Zusammenschlüsse von Gebietskörperschaften gelten die hierzu erlassenen Nebenbestimmungen für Zuwendungen zur Projektförderung an Gebietskörperschaften und Zusammenschlüsse von Gebietskörperschaften (ANBest-GK) in der jeweils aktuellen Fassung;&lt;/li&gt;&lt;li&gt;Gesetz zur Errichtung eines Sondervermögens „Energie- und Klimafonds“;&lt;/li&gt;&lt;li&gt;handelt es sich beim Antragsteller um ein Unternehmen, erfolgt die Gewährung der Förderung als De-minimis-Beihilfe nach der Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen. Handelt es sich bei dem Antragsteller um ein Unternehmen, welches Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringt (allgemein zum Begriff vergleiche etwa den Beschluss der Europäischen Kommission vom 20. Dezember 2011 K(2011) 9380, veröffentlicht am 11. Januar 2012 im Amtsblatt der Europäischen Union unter 2012/21/EU), so erfolgt die Gewährung der Förderung als De-minimis-Beihilfe nach der Verordnung (EU) 2023/2832 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen;&lt;/li&gt;&lt;li&gt;bei einer Energieberatung, die den wesentlichen Anforderungen eines Energieaudits nach DIN EN 16247 entspricht, handelt es sich um ein Energieaudit im Sinne von Artikel 8 der Richtlinie 2012/27/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz;&lt;/li&gt;&lt;li&gt;die Beratung von kleinen und mittelständischen Unternehmen dient der Umsetzung von Artikel 8 Absatz 1 und 2 der Richtlinie 2012/27/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz;&lt;/li&gt;&lt;li&gt;die Beratung von Kommunen und gemeinnützigen Organisationen dient der Umsetzung von Artikel 5 Absatz 7 der Richtlinie 2012/27/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz;&lt;/li&gt;&lt;li&gt;die Beratung zur Errichtung von Nichtwohngebäuden nach bundesgefördertem-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KfW&lt;/abbr&gt;-Effizienzgebäudestandard erfolgt gemäß Artikel 9 der Richtlinie 2010/31/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; des Europäischen Parlaments und des Rates vom 19. Mai 2010 zur Gesamtenergieeffizienz von Gebäuden;&lt;/li&gt;&lt;li&gt;die Contracting-Orientierungsberatung dient der Umsetzung von Artikel 18 der Richtlinie 2012/27/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;3 Begriffsbestimmungen&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Unternehmen ist jede eine wirtschaftliche Tätigkeit ausübende Einheit, unabhängig von ihrer Rechtsform und der Art ihrer Finanzierung.&lt;/li&gt;&lt;li&gt;Kleine und mittlere Unternehmen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;) sind Kleinstunternehmen sowie &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; im Sinne der Empfehlung 2003/361/EG der Kommission von Mai 2003; die hiervon nicht erfassten Unternehmen sind im Sinne dieser Richtlinie Nicht-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;.&lt;/li&gt;&lt;li&gt;Nichtwohngebäude sind Gebäude, die nach ihrer Zweckbestimmung nicht überwiegend dem Wohnen dienen und unter den Anwendungsbereich des § 2 des Gebäudeenergiegesetzes fallen.&lt;/li&gt;&lt;li&gt;Contracting-Modell mit vertraglicher Einspargarantie bezeichnet die gewerkeübergreifende Optimierung vorrangig der Gebäudetechnik, aber auch weiterer Effizienzmaßnahmen des Gebäudebetriebs, der Gebäudehülle und/oder von Produktionsprozessen durch einen Energiedienstleister (Contractor). Neben der Identifikation und Erschließung von vorhandenen Einsparpotentialen tätigt der Contractor in den meisten Fällen die erforderlichen Investitionen aus den Energiekosteneinsparungen und garantiert die Einsparungen vertraglich über die gesamte Laufzeit.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;4 Förderziel&lt;/h2&gt;&lt;p&gt;Energieberatung und die Bereitstellung von Informationen sind Kernelemente der Energieeffizienzpolitik in Deutschland. Um sachgerechte Investitionsentscheidungen treffen zu können, braucht es verlässliche Informationen und Vergleichsmöglichkeiten sowohl für Unternehmen, als auch für die öffentliche Hand und gemeinnützige Organisationen. Nur so können die Akteure den eigenen Energieverbrauch, die Auswirkungen von Maßnahmen der Energieeffizienz und den Einsatz erneuerbarer Energien besser verstehen, einschätzen und bewerten. Auf dieser Grundlage können dann (energie-)bewusste Entscheidungen getroffen werden. Energieberatungen dienen als Anstoß für konkrete Maßnahmen und helfen, Fehlinvestitionen zu vermeiden.&lt;/p&gt;&lt;p&gt;Die Sektoren Industrie, Gewerbe, Handel, Dienstleistungen sowie Kommunen, kommunale Unternehmen und gemeinnützige Organisationen haben einen enormen Anteil am Gesamtenergieverbrauch in Deutschland. Um den Energieverbrauch deutlich zu reduzieren, spielen Energieberatungen eine entscheidende Rolle. Mit Hilfe der EBN kann den Energieverbrauchern einerseits Wissen zu wirtschaftlich sinnvoll erschließbaren Energieeffizienzpotentialen vermittelt und andererseits eine Basis für optimale Investitionsentscheidungen geschaffen werden. Im Rahmen dieser Richtlinie soll eine jährliche Energieeinsparung von insgesamt 530.000 MWh erzielt werden. Die Einsparung erfolgt im Anschluss an eine qualifizierte Beratung über zusätzlich durchgeführte investive Maßnahmen. Auf diese Weise soll durch die EBN bei Unternehmen eine jährliche Energieeinsparung von durchschnittlich 140 MWh pro Unternehmen erzielt werden. Bei Kommunen und gemeinnützigen Organisationen sollen durch die Energieberatung Einsparungen von durchschnittlich bis 90 MWh pro Kommune erreicht werden.&lt;/p&gt;&lt;p&gt;Die Planung und das Management für den Einsatz und Betrieb hochenergieeffizienter Anlagentechnik sowie die regulatorischen Rahmenbedingungen stellen Entscheider in Kommunen oder Unternehmen zunehmend vor komplexere Anforderungen. Diese Herausforderung kann zusätzlich durch fehlendes Personal und/oder fehlende Mittel verstärkt werden. Die Contracting-Orientierungsberatung setzt an dieser Stelle an und bietet die Möglichkeit, komplexe Einsparmaßnahmen mit Hilfe einer objektiven und unabhängigen Beratung überprüfen zu lassen sowie einen geeigneten Dienstleister für die Durchführung zu finden. Dabei kann eine jährliche Energieeinsparung von 600 MWh pro Vorhaben erwartet werden.&lt;/p&gt;&lt;h2&gt;5 Gegenstand der Förderung&lt;/h2&gt;&lt;p&gt;Nach dieser Richtlinie werden folgende Maßnahmen gefördert:&lt;/p&gt;&lt;h3&gt;5.1 Energieberatung in Form eines Energieaudits nach DIN EN 16247&lt;/h3&gt;&lt;p&gt;Gemäß DIN EN 16247 ist ein Energieaudit eine systematische Inspektion und Analyse des Energieeinsatzes und des Energieverbrauchs einer Anlage, eines Gebäudes, eines Systems oder einer Organisation mit dem Ziel, Energieflüsse zu untersuchen, Ergebnisse der Analyse des IST-Zustandes darzustellen und Potentiale für Energieeffizienzverbesserungen daraus zu identifizieren und über die durchgeführten Analysen und Ergebnisse in einem Energieauditbericht zu berichten.&lt;/p&gt;&lt;p&gt;Je Antragsteller ist innerhalb von vier Jahren eine Energieberatung in Form eines Energieaudits förderfähig.&lt;/p&gt;&lt;h3&gt;5.2 Energieberatung für Nichtwohngebäude nach DIN V 18599&lt;/h3&gt;&lt;h4&gt;5.2.1 Energieberatungen für Nichtwohngebäude in Form eines energetischen Sanierungskonzepts auf Grundlage der DIN V 18599, das aufzeigt,&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;wie ein Gebäude Schritt für Schritt über einen längeren Zeitraum durch aufeinander abgestimmte Maßnahmen umfassend energetisch saniert werden kann (Sanierungsfahrplan), oder&lt;/li&gt;&lt;li&gt;wie durch eine umfassende Sanierung der Standard eines bundesgeförderten &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KfW&lt;/abbr&gt;-Effizienzgebäudes zu erreichen ist (Sanierung in einem Zug).&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;5.2.2 Energieberatungen für den Neubau von Nichtwohngebäuden&lt;/h4&gt;&lt;p&gt;Energieberatungen auf Grundlage der DIN V 18599, die dem Standard eines bundesgeförderten &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KfW&lt;/abbr&gt;-Effizienzgebäudes entsprechen.&lt;/p&gt;&lt;p&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;, Nicht-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; und freiberuflich Tätige können innerhalb von vier Jahren nur einmal eine geförderte Energieberatung nach Nummer 5. 2 der Richtlinie in Anspruch nehmen.&lt;/p&gt;&lt;p&gt;Für alle anderen Antragsteller nach Nummer 6 der Richtlinie sowie Nicht-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; mit mehrheitlich kommunalem Gesellschafterhintergrund (unmittelbare oder mittelbare Beteiligung einer oder mehrerer kommunaler Gebietskörperschaften mit insgesamt mehr als 50%) sind mehrere Beratungen für verschiedene Nichtwohngebäude förderfähig.&lt;/p&gt;&lt;h3&gt;5.3 Contracting-Orientierungsberatung&lt;/h3&gt;&lt;p&gt;Energieberatungen zur Eignungsprüfung und Vorbereitung für die Umsetzung eines Contracting-Modells mit vertraglicher Einspargarantie (Contracting-Orientierungsberatung). Eine Contracting-Orientierungsberatung muss mindestens folgende Bestandteile beinhalten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Auswahl, Begehung und (energetische) Erstanalyse eines geeigneten Gebäudes oder mehrerer Gebäude (Gebäudepool),&lt;/li&gt;&lt;li&gt;Zusammenstellung eines geeigneten Gebäudepools,&lt;/li&gt;&lt;li&gt;Bewertung der Eignung der gewählten Gebäude für Contracting-Modelle mit vertraglicher Einspargarantie sowie der Energiesparpotentiale,&lt;/li&gt;&lt;li&gt;Plausibilisierung bereits vorhandener Energie-Daten oder eigene Erhebung von Daten (Baseline-Erstellung),&lt;/li&gt;&lt;li&gt;Unterbreitung von qualitativen Vorschlägen für technische, bauliche oder organisatorische Maßnahmen zur Steigerung der Energieeffizienz und zur Verringerung des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Ausstoßes,&lt;/li&gt;&lt;li&gt;Abschätzung des erwarteten Investitionsvolumens,&lt;/li&gt;&lt;li&gt;Beratung zu Fördermöglichkeiten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Orientierungsberatung kann darüber hinaus folgende Bestandteile beinhalten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Unterstützung bei der Vorbereitung der Ausschreibungsunterlagen und&lt;/li&gt;&lt;li&gt;Unterstützung bei der Erarbeitung von Vorlagen für Entscheidungsträger oder -gremien.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Waren bzw. sind diese Bestandteile bereits Betrachtungsgegenstand anderer Energieberatungen nach dieser Richtlinie, sollen, soweit möglich, die dort gewonnen Erkenntnisse genutzt werden.&lt;/p&gt;&lt;p&gt;Die Energiekosten des Gebäudes/des Gebäudepools, das/der Beratungsgegenstand ist, sollen wenigstens 100.000 Euro pro Jahr (netto) betragen. Mehrere Gebäude können innerhalb einer Orientierungsberatung betrachtet und innerhalb eines Antrags zusammengefasst werden, um insbesondere die geforderten Mindestenergiekosten zu erreichen. Im Einzelfall können auch Gebäude mit geringeren Energiekosten zugelassen werden, sofern deren potentielle Eignung für ein Contracting-Modell mit vertraglicher Einspargarantie durch den Contracting-Berater dargelegt werden kann.&lt;/p&gt;&lt;p&gt;Eine geförderte Contracting-Orientierungsberatung kann ein Antragsteller mehrfach, jeweils für ein anderes Gebäude oder einen anderen Gebäudepool, in Anspruch nehmen.&lt;/p&gt;&lt;h3&gt;5.4 Für jede dieser Maßnahmen gilt:&lt;/h3&gt;&lt;p&gt;Die nach dieser Richtlinie förderfähigen Energieberatungen (vgl. die Nummern 5.1, 5.2 und 5.3 der Richtlinie) können voneinander unabhängig in Anspruch genommen werden. Die Förderung einer Energieberatung für denselben Antragsteller und Beratungsgegenstand kann frühestens vier Jahre nach Auszahlung einer zuvor nach dieser Richtlinie oder der jeweiligen Vorgängerrichtlinie erfolgten Förderung erneut beantragt werden.&lt;/p&gt;&lt;p&gt;Im Rahmen aller in dieser Richtlinie geförderten Energieberatungen müssen die Beratungsempfänger zu verschiedenen Umsetzungsvarianten umfassend informiert und auf entsprechende Fördermöglichkeiten hingewiesen werden. Gleiches gilt für die Möglichkeit der Einrichtung eines Energiemanagementsystems.&lt;/p&gt;&lt;p&gt;Die inhaltlichen Anforderungen an die Förderfähigkeit der Maßnahmen im Einzelnen regeln mit dem Richtliniengeber abgestimmte Merkblätter der Bewilligungsbehörde.&lt;/p&gt;&lt;p&gt;Nicht gefördert werden folgende Maßnahmen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bereits begonnene Vorhaben;&lt;/li&gt;&lt;li&gt;Baubegleitungsleistungen;&lt;/li&gt;&lt;li&gt;die Erstellung eines Energieausweises;&lt;/li&gt;&lt;li&gt;Beratungsleistungen, die sich auf überwiegend dem Wohnen dienende Gebäude beziehen, einschließlich Wohn-, Alten- und Pflegeheime (siehe hierzu: Bundesförderung für Energieberatung für Wohngebäude);&lt;/li&gt;&lt;li&gt;Leistungen, deren Durchführung auf einer gesetzlichen Verpflichtung oder behördlichen Anordnung beruhen; dazu gehören insbesondere Leistungen, die zur Erfüllung der gesetzlichen Pflicht zur Durchführung eines Energieaudits nach den §§ 8 ff. des Gesetzes über Energiedienstleistungen und andere Energieeffizienzmaßnahmen (EDL-G) erbracht werden;&lt;/li&gt;&lt;li&gt;Beratungsleistungen in Form eines Energieaudits für Unternehmen, wenn der Energieauditbericht nach DIN EN 16247 als Nachweis für die Erlangung einer Steuerentlastung nach dem Strom- oder Energiesteuergesetz (Spitzenausgleich) oder für eine Begrenzung der Umlage nach dem Erneuerbare-Energien-Gesetz (Besondere Ausgleichsregelung) dienen soll.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;6 Fördermittelempfänger&lt;/h2&gt;&lt;p&gt;Antragsberechtigt sind (bei gegebener Rechtsfähigkeit):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;kommunale Gebietskörperschaften (Gemeinden, Städte, Kreise);&lt;/li&gt;&lt;li&gt;kommunale Zweckverbände nach dem jeweiligen Zweckverbandsrecht. Die Mitglieder dürfen ausschließlich inländische kommunale Gebietskörperschaften sein;&lt;/li&gt;&lt;li&gt;gemeinnützige Organisationen, Religionsgemeinschaften mit Körperschaftsstatus sowie deren Einrichtungen und Stiftungen im Sinne des § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes;&lt;/li&gt;&lt;li&gt;soziale und gesundheitliche Einrichtungen;&lt;/li&gt;&lt;li&gt;Kultureinrichtungen;&lt;/li&gt;&lt;li&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; mit Sitz und Geschäftsbetrieb in Deutschland;&lt;/li&gt;&lt;li&gt;Nicht-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; mit Sitz und Geschäftsbetrieb in Deutschland, deren Gesamtenergieverbrauch gemäß § 8 Absatz 4 EDL-G über alle Energieträger hinweg im Jahr höchstens 500.000 Kilowattstunden beträgt;&lt;/li&gt;&lt;li&gt;freiberuflich Tätige mit Sitz und Geschäftsbetrieb in Deutschland;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nicht antragsberechtigt sind Unternehmen,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;über deren Vermögen ein Insolvenzverfahren beantragt oder eröffnet worden ist;&lt;/li&gt;&lt;li&gt;die in den letzten drei Jahren (rollierender Zeitraum, Berechnung gemäß Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3. Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine – Artikel 3 Absatz 1 Unterabsatz 2 und Absatz 2 Buchstabe c) einschließlich der Förderung nach dieser Richtlinie De-minimis-Beihilfen nach Verordnung (EU) 2023/2831 in einem Gesamtumfang von mindestens 300 000 Euro (im Fall von Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse nach Verordnung (EU) 2023/2832 erbringen, 750 000 Euro) erhalten haben;&lt;/li&gt;&lt;li&gt;die nach den oben genannten De-minimis-Verordnungen von deren Geltungsbereich ausgeschlossen sind (beispielsweise Beihilfen an Unternehmen, die in der Primärproduktion landwirtschaftlicher Erzeugnisse und/oder von Erzeugnissen der Fischerei und der Aquakultur tätig sind);&lt;/li&gt;&lt;li&gt;die auf eigenes Personal mit der für eine Zulassung nach dieser Richtlinie erforderlichen Qualifikation zurückgreifen könnten.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;7 Fördervoraussetzungen&lt;/h2&gt;&lt;h3&gt;7.1 Allgemeine Fördervoraussetzungen&lt;/h3&gt;&lt;p&gt;Gefördert werden ausschließlich Beratungsleistungen für Beratungsobjekte, die sich auf dem Gebiet der Bundesrepublik Deutschland befinden.&lt;/p&gt;&lt;h3&gt;7.2 Anforderung an Energieberater&lt;/h3&gt;&lt;p&gt;Förderfähig ist eine Beratung nur, wenn eine von der Bewilligungsbehörde für dieses Förderprogramm zugelassene Energieberaterin/ein zugelassener Energieberater (im Folgenden Berater genannt) sie durchführt.&lt;/p&gt;&lt;p&gt;Die Zulassung der Berater erfolgt im elektronischen Verfahren. Die Voraussetzungen für eine Zulassung sind abhängig von der Art der zu erbringenden Beratungsleistung; sie sind mit dem Richtliniengeber abgestimmten Merkblättern der Bewilligungsbehörde zu entnehmen.&lt;/p&gt;&lt;p&gt;Der Berater verpflichtet sich durch eine Selbsterklärung, seine Kunden hersteller-, anbieter-, produkt- und vertriebsneutral zu beraten. Er darf von einem Dritten, der ein wirtschaftliches Interesse an der Umsetzung der von dem Berater empfohlenen Maßnahmen haben kann, weder eine Provision noch einen sonstigen geldwerten Vorteil fordern oder annehmen. Lohnzahlungen an den Berater, die keinen Zusammenhang zu etwaigen Investitionsentscheidungen des Beratungsempfängers aufweisen, sind keine geldwerten Vorteile im vorgenannten Sinne.&lt;/p&gt;&lt;h3&gt;7.3 Verfügbarkeit von Haushaltsmitteln&lt;/h3&gt;&lt;p&gt;Ein Rechtsanspruch des Antragstellers auf die Förderung besteht nicht. Die Gewährung der Förderung erfolgt aufgrund pflichtgemäßen Ermessens. Die Gewährung der Förderung steht unter dem Vorbehalt der Verfügbarkeit der veranschlagten Haushaltsmittel.&lt;/p&gt;&lt;h2&gt;8 Förderung&lt;/h2&gt;&lt;h3&gt;8.1 Art der Förderung&lt;/h3&gt;&lt;p&gt;Die Förderung erfolgt jeweils als Projektförderung in Form der Anteilfinanzierung auf Ausgabenbasis und wird als nicht rückzahlbarer Zuschuss gewährt.&lt;/p&gt;&lt;h3&gt;8.2 Spezielle Fördervoraussetzungen, Umfang und Höhe der Förderung&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Die Höhe der Förderung einer Energieberatung in Form eines Energieaudits nach DIN EN 16247 nach Nummer 8.2.1 beträgt bei jährlichen Energiekosten des Antragstellers von mehr als 10 000 Euro (netto) 50 % des förderfähigen Beratungshonorars, jedoch maximal 3 000 Euro und bei jährlichen Energiekosten des Antragstellers von nicht mehr als 10 000 Euro (netto) 50 % des förderfähigen Beratungshonorars, jedoch maximal 600 Euro.&lt;/li&gt;&lt;li&gt;Die Höhe der Förderung einer Energieberatung für Nichtwohngebäude nach DIN V 18599 nach Nummer 8.2.2 beträgt 50 % des förderfähigen Beratungshonorars, jedoch maximal 4 000 Euro. Die genaue Höhe hängt von der Nettogrundfläche des betreffenden Gebäudes ab.&lt;/li&gt;&lt;li&gt;Die Höhe der Förderung einer Contracting-Orientierungsberatung nach Nummer 8.2.3 beträgt bei jährlichen Energiekosten von nicht mehr als 300 000 Euro (netto) 50 % des förderfähigen Beratungshonorars, jedoch maximal 3 500 Euro. Übersteigen die jährlichen Energiekosten des betrachteten Gebäudes bzw. Gebäudepools 300 000 Euro (netto), beträgt die Förderung 50 % des förderfähigen Beratungshonorars, jedoch maximal 5 000 Euro.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;8.2.1 Energieberatung in Form eines Energieaudits nach DIN EN 16247&lt;/h4&gt;&lt;p&gt;Übersteigen die jährlichen Energiekosten des Antragstellers 10.000 Euro (netto), beträgt die Förderung 80% des förderfähigen Beratungshonorars, jedoch maximal 6.000 Euro.&lt;/p&gt;&lt;p&gt;Bei jährlichen Energiekosten von nicht mehr als 10.000 Euro (netto) beträgt die Förderung 80% des förderfähigen Beratungshonorars, jedoch maximal 1.200 Euro.&lt;/p&gt;&lt;h4&gt;8.2.2 Energieberatung für Nichtwohngebäude nach DIN V 18599&lt;/h4&gt;&lt;p&gt;Die Förderhöhe beträgt 80% des förderfähigen Beratungshonorars, maximal jedoch 8.000 Euro. Die genaue Höhe hängt von der Nettogrundfläche des betreffenden Gebäudes ab.&lt;/p&gt;&lt;p&gt;Näheres regelt das mit dem Richtliniengeber abgestimmte Merkblatt der Bewilligungsbehörde.&lt;/p&gt;&lt;h4&gt;8.2.3 Contracting-Orientierungsberatung&lt;/h4&gt;&lt;p&gt;Bei jährlichen Energiekosten von nicht mehr als 300.000 Euro (netto) beträgt die Förderung 80% des förderfähigen Beratungshonorars, jedoch maximal 7.000 Euro.&lt;/p&gt;&lt;p&gt;Übersteigen die jährlichen Energiekosten des betrachteten Gebäudes bzw. Gebäudepools 300.000 Euro (netto), beträgt die Förderung 80% des förderfähigen Beratungshonorars, jedoch maximal 10.000 Euro.&lt;/p&gt;&lt;h3&gt;8.3 Kumulierungsverbot, Kombination mit anderen Förderprogrammen&lt;/h3&gt;&lt;p&gt;Die Förderung nach dieser Richtlinie schließt die Inanspruchnahme von öffentlichen Mitteln anderer Förderprogramme des Bundes für dieselben Maßnahmen aus. Eine Förderung der vorgeschlagenen Investitionen ist hiervon nicht betroffen. Bei einer zusätzlichen Förderung mit Mitteln anderer Beratungsprogramme als denen des Bundes (z.B. der Kommunen oder Länder) dürfen die gesamten Fördermittel 90% der förderfähigen Ausgaben nicht übersteigen.&lt;/p&gt;&lt;p&gt;Sofern es sich bei dem Antragsteller um eine finanzschwache Kommune handelt, die nach dem jeweiligen Landesrecht ein Haushaltssicherungskonzept aufzustellen hat, kann der Finanzierungsanteil aus Mitteln dieses Förderprogramms und Dritter (d.h. anderer Förderprogramme) maximal 95% der förderfähigen Ausgaben betragen. Die Verpflichtung zur Aufstellung eines Haushaltssicherungskonzepts ist der Bewilligungsbehörde durch den Antragsteller nachzuweisen.&lt;/p&gt;&lt;h2&gt;9 Verfahren&lt;/h2&gt;&lt;h3&gt;9.1 Zuständige Behörde&lt;/h3&gt;&lt;p&gt;Bewilligungsbehörde ist das&lt;/p&gt;&lt;p&gt;Bundesamt für Wirtschaft und Ausfuhrkontrolle (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BAFA&lt;/abbr&gt;)&lt;br /&gt;Frankfurter Straße 29–35&lt;br /&gt;65760 Eschborn&lt;br /&gt;Internet: &lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/B/bafa-de" xlink:show="new"&gt;www.bafa.de&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;9.2 Antragstellung, De-minimis-Erklärung und -Bescheinigung&lt;/h3&gt;&lt;p&gt;Für die Antragstellung ist das von der Bewilligungsbehörde bereit gestellte Online-Portal zu nutzen. Den Antrag stellt der Beratungsempfänger; er kann sich unter Erteilung einer Vollmacht durch das Energieberatungsunternehmen vertreten lassen.&lt;/p&gt;&lt;p&gt;Mit dem Vorhaben darf nicht vor Antragstellung begonnen werden. Als Vorhabenbeginn gilt der rechtsgültige Abschluss eines der Ausführung zuzurechnenden Leistungsvertrags. Ein Vertragsabschluss ist vor Antragstellung zulässig, wenn die Wirksamkeit des Vertrags von der Förderzusage der Bewilligungsbehörde abhängig gemacht wird.&lt;/p&gt;&lt;p&gt;Der Bewilligungsbehörde ist bei der Antragstellung mitzuteilen, welche De-minimis-Beihilfen der Antragsteller, sofern es sich um ein Unternehmen handelt, in der Vergangenheit erhalten hat. Die Zuwendung darf nur bewilligt werden, wenn dadurch nicht der in Nummer 6 der Richtlinie für De-minimis-Beihilfen genannte Höchstbetrag überschritten wird. Die Bewilligungsbehörde ist berechtigt, bei Bedarf weitere Unterlagen zu verlangen.&lt;/p&gt;&lt;p&gt;Handelt es sich bei dem Antragsteller um ein Unternehmen, erhält dieses eine De-minimis-Bescheinigung über die gewährte Beihilfe. Die Bescheinigung ist zehn Jahre aufzubewahren und auf Anforderung der Europäischen Kommission, der Bundesregierung, Landesverwaltung oder bewilligenden Stelle innerhalb einer Woche oder einer in der Anforderung festgesetzten längeren Frist vorzulegen. Wird die Bescheinigung innerhalb der Frist nicht vorgelegt, entfällt rückwirkend die Bewilligungsvoraussetzung und es kann für den Antragsteller zu einer Rückforderung in Höhe des durch die Förderung gewährten Vorteils, zuzüglich Zinsen, kommen. Die Bescheinigung ist bei zukünftigen Beantragungen als Nachweis für die vergangenen De-minimis-Beihilfen vorzulegen.&lt;/p&gt;&lt;h3&gt;9.3 Zuwendungsbescheid, Bewilligungszeitraum&lt;/h3&gt;&lt;p&gt;Für die Bewilligung, Auszahlung und Abrechnung der Förderung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheids und die Rückforderung der gewährten Förderung gelten die §§ 48 bis 49a des Verwaltungsverfahrensgesetzes, die §§ 23, 24 BHO und die hierzu erlassenen Allgemeinen Verwaltungsvorschriften, soweit nicht in dieser Förderrichtlinie Abweichungen von den Allgemeinen Verwaltungsvorschriften zugelassen worden sind. Der Bundesrechnungshof ist gemäß den §§ 91, 100 BHO zur Prüfung berechtigt.&lt;/p&gt;&lt;p&gt;Die bewilligte Energieberatung muss spätestens 12 Monate nach Zugang des Zuwendungsbescheids beendet sein (Bewilligungszeitraum). In begründeten Einzelfällen kann die Bewilligungsbehörde den Bewilligungszeitraum auf schriftlichen Antrag verlängern.&lt;/p&gt;&lt;h3&gt;9.4 Auszahlung und Verwendungsnachweisverfahren&lt;/h3&gt;&lt;p&gt;Die Auszahlung des Zuschusses erfolgt nach Vorlage aller Verwendungsnachweisunterlagen und der positiven Prüfung durch die Bewilligungsbehörde. Informationen zu Art, Umfang und Inhalten der erforderlichen Verwendungsnachweisunterlagen sind im Zuwendungsbescheid sowie in einem mit dem Richtliniengeber abgestimmten Merkblatt der Bewilligungsbehörde zu finden.&lt;/p&gt;&lt;p&gt;Sämtliche Unterlagen müssen spätestens innerhalb von drei Monaten nach Ablauf des Bewilligungszeitraums in der Bewilligungsbehörde eingegangen sein (Vorlagefrist).&lt;/p&gt;&lt;p&gt;In begründeten Einzelfällen kann die Bewilligungsbehörde die Vorlagefrist auf schriftlichen Antrag verlängern.&lt;/p&gt;&lt;h3&gt;9.5 Subventionserheblichkeit&lt;/h3&gt;&lt;p&gt;Die nach dieser Richtlinie gewährten Förderungen sind Subventionen im Sinne des § 264 des Strafgesetzbuches. Im Antragsverfahren wird der Antragsteller daher bereits vor der Antragstellung auf die Strafbarkeit des Subventionsbetrugs und auf die bestehenden Mitteilungspflichten nach § 3 des Subventionsgesetzes hingewiesen; ferner werden, entsprechend Nummer 3.4.6 der Verwaltungsvorschriften zu § 44 BHO, die im konkreten Fall subventionserheblichen Tatsachen benannt.&lt;/p&gt;&lt;h3&gt;9.6 Auskunft&lt;/h3&gt;&lt;p&gt;Der Fördermittelempfänger hat dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt;, der Bewilligungsbehörde oder einem von diesen beauftragten Dritten zur Überprüfung der Mittelverwendung auf Verlangen Einsicht in die die Förderung betreffenden Unterlagen zu gestatten.&lt;/p&gt;&lt;p&gt;Die Bewilligung erfolgt unter der Auflage, dass der Fördermittelempfänger – unter Beachtung der datenschutzrechtlichen Regelungen – alle für die Evaluation des Förderprogramms und für die Weiterentwicklung des Energiedienstleistungsmarkts benötigten Daten dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt; und der Bewilligungsbehörde zur Verfügung stellt und an notwendigen Befragungen teilnimmt.&lt;/p&gt;&lt;p&gt;Der Fördermittelempfänger ist verpflichtet, alle für die Förderung erheblichen Unterlagen mindestens fünf Jahre lang vorzuhalten und im Fall einer Überprüfung vorzulegen. Kommt er dieser Verpflichtung nicht nach, entfällt rückwirkend die Bewilligungsvoraussetzung und die Förderung zuzüglich Zinsen kann zurückgefordert werden.&lt;/p&gt;&lt;h2&gt;10 Geltungsdauer&lt;/h2&gt;&lt;h3&gt;10.1 Inkrafttreten&lt;/h3&gt;&lt;p&gt;Die Richtlinie tritt am 1. Januar 2021 in Kraft. Die Richtlinie endet am 31. Dezember 2024.&lt;/p&gt;&lt;p&gt;Mit Inkrafttreten ersetzt sie die Richtlinie – Energieberatung für Nichtwohngebäude von Kommunen und gemeinnützigen Organisationen vom 24. Februar 2017 (BAnz AT 06.03.2017 B1) und die Richtlinie über die Förderung von Energieberatung im Mittelstand vom 11. Oktober 2017 (BAnz AT 07.11.2017 B1).&lt;/p&gt;&lt;h3&gt;10.2 Übergangsbestimmungen&lt;/h3&gt;&lt;p&gt;Für die Anwendbarkeit dieser Richtlinie ist der Zeitpunkt der Antragstellung entscheidend. Für Förderanträge, die vor Inkrafttreten dieser Richtlinie gestellt wurden, gelten die vor Inkrafttreten dieser Richtlinie geltenden Fassungen (Richtlinie über die Förderung von Energieberatungen im Mittelstand vom 11. Oktober 2017, BAnz AT 07.11.2017 B1) und Richtlinie für Energieberatung für Nichtwohngebäude von Kommunen und gemeinnützigen Organisationen vom 24. Februar 2017, BAnz AT 06.03.2017 B1), auch wenn die Entscheidung über den Antrag erst nach Inkrafttreten dieser Richtlinie erfolgt.&lt;/p&gt;&lt;p&gt;&amp;#xa0;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/B/bafa-ref-515-30134"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/B/bafa-nichtwohngebaeude-anlagen-systeme-30134"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/B/bafa-nichtwohng-ebn-antragsportal-30134"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/_bundesweit"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/bund"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/kommune"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/verband_vereinigung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/oeffentliche_einrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/dienstleistungen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/freie_berufe"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/energieeffizienz_erneuerbare_energien"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/beratung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bmwk-bundesministerium_wirtschaft_klimaschutz"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Beratung/energieeffizienz_erneuerbare_energien"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_EnergieeffizienzErneuerbareEnergien/beratung_schulung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;30134&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2020-12-14T13:31:33.976+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Sanierung Neubau Energie Effizienz Audit EBN Energieberatung </value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Richtlinie des Bundesministeriums für Wirtschaft und Energie (BMWi) vom 13.11.2020, Bundesanzeiger Amtlicher Teil vom 11.12.20, B2, zuletzt geändert durch die Bekanntmachung der Richtlinie „Energieberatung für Nichtwohngebäude, Anlagen und Systeme“ (EBN) vom 6. August 2024 (BAnz AT 08.08.2024 B1)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind bei gegebener Rechtsfähigkeit:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;kommunale Gebietskörperschaften (Gemeinden, Städte, Kreise),&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;kommunale Zweckverbände nach dem jeweiligen Zweckverbandsrecht. Die Mitglieder dürfen ausschließlich inländische kommunale Gebietskörperschaften sein,&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;gemeinnützige Organisationen, &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Religionsgemeinschaften mit Körperschaftsstatus sowie deren Einrichtungen und Stiftungen im Sinne des § 5 Absatz&amp;#xa0;1 Nummer&amp;#xa0;9 des Körperschaftsteuergesetzes,&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;soziale und gesundheitliche Einrichtungen,&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Kultureinrichtungen,&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;kleine und mittlere Unternehmen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;) mit Sitz und Geschäftsbetrieb in Deutschland,&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Nicht-&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; mit Sitz und Geschäftsbetrieb in Deutschland, deren Gesamtenergieverbrauch gemäß §&amp;#xa0;8 Absatz&amp;#xa0;4 EDL-G über alle Energieträger hinweg im Jahr höchstens 500.000 Kilowattstunden beträgt,&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;freiberuflich Tätige mit Sitz und Geschäftsbetrieb in Deutschland.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nicht antragsberechtigt sind Unternehmen,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;über deren Vermögen ein Insolvenzverfahren beantragt oder eröffnet worden ist, &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;die in den letzten drei Jahren (rollierender Zeitraum, Berechnung gemäß Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3. Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine – Artikel 3 Absatz 1 Unterabsatz 2 und Absatz 2 Buchstabe c) einschließlich der Förderung nach dieser Richtlinie De-mini-mis-Beihilfen nach Verordnung (EU) 2023/2831 in einem Gesamtumfang von mindestens 300 000 Euro (im Fall von Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse nach Verordnung (EU) 2023/2832 erbringen, 750 000 Euro) erhalten haben,&lt;/span&gt;&lt;/li&gt;&lt;li&gt;die nach den De-minimis-Verordnungen von deren Geltungsbereich ausgeschlossen sind (beispielsweise Beihilfen an Unternehmen, die in der Primärproduktion landwirtschaftlicher Erzeugnisse und/oder von Erzeugnissen der Fischerei und der Aquakultur tätig sind);&lt;/li&gt;&lt;li&gt;die auf eigenes Personal mit der erforderlichen Qualifikation für die Energieberatung zurückgreifen könnten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Förderung ist an weitere Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Die Beratungsleistungen müssen für Beratungsobjekte geleistet werden, die sich auf dem Gebiet der Bundesrepublik Deutschland befinden.&lt;/li&gt;&lt;li&gt;Ihre Beratung führt eine zugelassene Energieberaterin/ein zugelassener Energieberater durch.&lt;/li&gt;&lt;li&gt;Ihre Berater/Ihr Berater verpflichtet sich durch eine Selbsterklärung, Sie hersteller-, anbieter-, produkt- und vertriebsneutral zu beraten. Sie oder er darf weder eine Provision verlangen noch einen sonstigen geldwerten Vorteil fordern oder annehmen.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Das Bundesministerium für Wirtschaft und Klimaschutz (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWK&lt;/abbr&gt;) unterstützt Sie bei Ihrem Vorhaben durch Zuschüsse zu einer Energieberatung für Nichtwohngebäude, Anlagen und Systeme (EBN).&lt;/p&gt;&lt;p&gt;Sie erhalten die Förderung für folgende Energieberatungen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Energieberatung in Form eines Energieaudits nach dem D&lt;span&gt;eutschen Institut für Normung&lt;/span&gt; (DIN) &lt;span&gt;Europäische Norm&lt;/span&gt; (EN) 16247:&lt;ul&gt;&lt;li&gt;Systematische Inspektion und Analyse des Energieeinsatzes und des Energieverbrauchs einer Anlage, eines Gebäudes, eines Systems oder einer Organisation.&lt;/li&gt;&lt;li&gt;Der IST-Zustand wird ermittelt und Potenziale für Energieeffizienzverbesserungen werden identifiziert.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Energieberatung für Nichtwohngebäude nach DIN Vornorm (V) 18599: &lt;br /&gt;Sanierungskonzept für Nichtwohngebäude oder Neubauberatung für Nichtwohngebäude mit dem Ziel eines bundesgeförderten &lt;abbr&gt;&lt;abbr&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KfW&lt;/abbr&gt;&lt;/abbr&gt;&lt;/abbr&gt;-Effizienzgebäudes&lt;/li&gt;&lt;li&gt;Contracting-Orientierungsberatung:&lt;ul&gt;&lt;li&gt;Eignungsprüfung und Vorbereitung für die Umsetzung eines Contracting-Modells mit vertraglicher Einspargarantie (Contracting-Orientierungsberatung).&amp;#xa0;&lt;/li&gt;&lt;li&gt;Zudem kann die Beratung zur &lt;span&gt;Vorbereitung von Ausschreibungsunterlagen und&lt;/span&gt; zur &lt;span&gt;Unterstützung bei der Erarbeitung von Vorlagen für Entscheidungsträger oder -gremien genutzt werden.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Durch die EBN sollen jährliche Energieeinsparungen von durchschnittlich 140 Megawattstunden (MWh) pro Unternehmen und bei Kommunen und gemeinnützigen Organisationen von durchschnittlich bis 90 MWh pro Kommune erreicht werden.&lt;/p&gt;&lt;p&gt;Sie erhalten die Förderung als Zuschuss. Die Höhe des Zuschusses beträgt 50 Prozent des förderfähigen Beratungshonorars. Je nach gewähltem Beratungsmodul erhalten Sie folgende Zuschüsse:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Energieberatung in Form eines Energieaudits nach dem DIN EN 16247:&lt;ul&gt;&lt;li&gt;bei jährlichen Energiekosten von mehr als EUR 10.000 (netto) maximal EUR 3.000&lt;/li&gt;&lt;li&gt;&lt;p&gt;bei jährlichen Energiekosten von weniger als EUR 10.000 (netto) maximal EUR 600&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Energieberatung für Nichtwohngebäude nach DIN V 18599:&lt;ul&gt;&lt;li&gt;maximal EUR 4.000, die genaue Höhe hängt von der Nettogrundfläche des betreffenden Gebäudes ab&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Contracting-Orientierungsberatung:&lt;ul&gt;&lt;li&gt;bei jährlichen Energiekosten von weniger als EUR 300.000 (netto) maximal EUR 3.500&lt;/li&gt;&lt;li&gt;bei jährlichen Energiekosten von mehr als EUR 300.000 (netto) maximal EUR 5.000&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Das Bruttoberaterhonorar ist förderfähig, wenn Sie nicht zum Vorsteuerabzug berechtigt sind. Wenn Sie abzugsberechtigt sind, ist nur das Nettoberaterhonorar förderfähig.&lt;/p&gt;&lt;p&gt;Anträge stellen Sie bitte vor Beginn der Maßnahme beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (&lt;abbr&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BAFA&lt;/abbr&gt;&lt;/abbr&gt;). Bitte nutzen Sie das Online-Portal. Die Energieberater können die Beantragung für den Beratungsempfänger übernehmen. Dann müssen Sie den Berater für das Förderverfahren bevollmächtigten.&lt;/p&gt;&lt;p&gt;Für die Durchführung der Beratung haben Sie 12 Monate Zeit. Nach Abschluss der Beratung müssen Sie innerhalb von 3 Monaten&amp;#xa0;die entsprechenden Verwendungsnachweisunterlagen einreichen. Dann wird der Zuschuss ausgezahlt.&lt;/p&gt;&lt;p&gt;Die Förderung schließt die Inanspruchnahme anderer Förderprogramme des Bundes für dieselbe Maßnahme aus. Die vorgeschlagenen Investitionen nach der Beratung sind davon ausgenommen. Wenn Sie Mittel anderer Beratungsprogramme beispielsweise der Kommunen oder Länder erhalten, dürfen diese Fördermittel 90 Prozent der förderfähigen Ausgaben nicht übersteigen.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie eine Energieberatung in Ihren Planungs- und Entscheidungsprozess für eine Investitionsentscheidung einbeziehen möchten, können Sie unter bestimmten Voraussetzungen einen Zuschuss erhalten.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Energieberatung für Nichtwohngebäude, Anlagen und Systeme (EBN)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

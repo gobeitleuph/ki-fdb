@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="wipano-foerderung" path="/BMWI/FDB/Content/DE/Foerderprogramm/Bund/BMWi" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Richtlinie zur Förderung des Technologie- und Wissenstransfers durch Patente, Normung und Standardisierung zur wirtschaftlichen Verwertung innovativer Ideen von Unternehmen und Hochschulen „WIPANO – Wissens- und Technologietransfer durch Patente und Normen“ vom 08.01.2024, zuletzt geändert durch die Änderung der Richtlinie zur Förderung des Technologie- und Wissenstransfers durch Patente, Normung und Standardisierung zur wirtschaftlichen Verwertung innovativer Ideen von Unternehmen und Hochschulen „WIPANO – Wissens- und Technologietransfer durch Patente und Normen“ vom 19.06.2024&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/R/rgl-wipano-foerderung-1-861061" xlink:show="replace"&gt;Weblink zur Förderrichtlinie&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/R/rgl-wipano-foerderung-2-861061" xlink:show="replace"&gt;Weblink zur Änderung der Förderrichtlinie&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/P/pt-juelich-berlin-wipano"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/W/wipano-bmwk-12778"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/W/wipano-foerderung-12778"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/F/foerderportal-bund-de-easyonline-3"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/_bundesweit"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/bund"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/hochschule"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/forschungseinrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/dienstleistungen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/produzierendes_gewerbe"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/kultur_kreativwirtschaft"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handwerk"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handel"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/gastgewerbe_tourismus"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/forschung_innovation_themenoffen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/beratung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bmwk-bundesministerium_wirtschaft_klimaschutz"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Beratung/forschung_innovation"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenoffen/patentierung_verwertung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenoffen/beratung_schulung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;#861061&lt;/p&gt;&lt;p&gt;WKD-ID: 12778&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfExpiration" type="Date">
+        <value>2015-11-27T01:00:00.000+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Zuschuss Patente Normen Wissenschaft Technologietransfer Wissenstransfer Normung Standardisierung </value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Richtlinie des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK) vom 8.1.2024, Bundesanzeiger Amtlicher Teil vom 2.2.2024, B1., zuletzt geändert durch die Änderung der Richtlinie zur Förderung des Technologie- und Wissenstransfers durch Patente, Normung und Standardisierung zur wirtschaftlichen Verwertung innovativer Ideen von Unternehmen und Hochschulen „WIPANO – Wissens- und Technologietransfer durch Patente und Normen“ vom 19.06.2024&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Ihre Anträge können Sie fortlaufend bis zu folgenden Terminen stellen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Förderschwerpunkt „Patentierung – Unternehmen“ bis zum 31.10.2027&lt;/li&gt;&lt;li&gt;Förderschwerpunkt „Normung – Unternehmen“ bis zum 31.05.2027&lt;/li&gt;&lt;li&gt;Förderschwerpunkt „Wissenstransfer durch Normung und Standardisierung“ Skizzeneinreichung bis zum 31.05.2026 und Antragseinreichung bis zum 31.05.2027&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind&lt;/p&gt;&lt;ul&gt;&lt;li&gt;im Rahmen von Patentierung „Patentierung – Unternehmen“: kleine und mittlere Unternehmen der gewerblichen Wirtschaft gemäß &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;-Definition der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;, die im Hauptgewerbe betrieben werden und eine Niederlassung oder Betriebsstätte in Deutschland haben,&lt;/li&gt;&lt;li&gt;im Rahmen von Normung und Standardisierung „Normung – Unternehmen“: Unternehmen der gewerblichen Wirtschaft mit bis zu 1.000 Mitarbeiterinnen und Mitarbeitern, einem Jahresumsatz von bis zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 100 Millionen, Sitz, Betriebsstätte oder Niederlassung in Deutschland und Förderfähigkeit nach der De-minimis-Verordnung,&lt;/li&gt;&lt;li&gt;im Rahmen von Normung und Standardisierung „Wissenstransfer durch Normung und Standardisierung“: Unternehmen der gewerblichen Wirtschaft, gemeinnützige Unternehmen und Vereine, insbesondere regelsetzende Institutionen oder deren Ausschüsse mit Betriebsstätte oder Niederlassung in Deutschland sowie staatliche und staatlich anerkannte Hochschulen und öffentlich grundfinanzierte Forschungseinrichtungen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Für jeden Bereich gelten außerdem eigene Voraussetzungen:&lt;/p&gt;&lt;p&gt;Patentierung „Patentierung – Unternehmen“:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Antragstellende dürfen in den letzten 3 Jahren vor Antragstellung kein Patent oder Gebrauchsmuster angemeldet haben.&lt;/li&gt;&lt;li&gt;Alle förderfähigen Leistungen müssen kostenpflichtig durch externe Dienstleisterinnen oder Dienstleister erbracht werden, soweit bereits durchgeführt schriftlich vorliegen und dürfen nicht älter als 6 Monate sein.&lt;/li&gt;&lt;li&gt;Modul 2 kann nur genutzt werden, wenn Modul 1 vollständig durchgeführt wurde.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Normung und Standardisierung „Normung – Unternehmen“&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Antragstellende dürfen in den letzten 3 Jahren vor Antragstellung nicht aktiv in nationalen, europäischen und internationalen Normungs- und Standardisierungsgremien mitgearbeitet haben.&lt;/li&gt;&lt;li&gt;Nach Bewilligung des Förderantrags müssen Sie aktiv als Mitglied in einem Normen- beziehungsweise Standardisierungsausschuss mitarbeiten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Normung und Standardisierung „Wissenstransfer durch Normung und Standardisierung“&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An dem Kooperationsprojekt müssen mindestens eine Hochschule oder eine öffentlich grundfinanzierte Forschungseinrichtung und ein Unternehmen der gewerblichen Wirtschaft beteiligt sein.&lt;/li&gt;&lt;li&gt;Die Partnerinnen und Partner eines Verbundprojekts haben ihre Zusammenarbeit in einer schriftlichen Kooperationsvereinbarung zu regeln.&lt;/li&gt;&lt;li&gt;Antragstellende müssen prüfen, ob eine ausschließliche oder ergänzende Förderung aus dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Forschungsrahmenprogramm möglich ist.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Das Bundesministerium für Wirtschaft und Klimaschutz (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWK&lt;/abbr&gt;) unterstützt Sie als Unternehmen, Hochschule oder Forschungseinrichtung bei der effizienten Nutzung von geistigem Eigentum sowie beim Transfer von neuesten Forschungsergebnissen in die Normung.&lt;/p&gt;&lt;p&gt;Sie erhalten die Förderung in 2 Bereichen.&lt;/p&gt;&lt;p&gt;Gefördert werden im Bereich der Patentierung im Förderschwerpunkt „Patentierung – Unternehmen“&lt;/p&gt;&lt;ul&gt;&lt;li&gt;in Modul 1 der gesamte Prozess der Schutzrechtsanmeldung inklusive der dafür erforderlichen Beratungsleistungen sowie&lt;/li&gt;&lt;li&gt;in Modul 2 eine auf die Erfindung bezogene Kosten-Nutzen-Analyse hinsichtlich der Verwertung und erster Aktivitäten zur Verwertung.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Gefördert werden im Bereich der Normung und Standardisierung&lt;/p&gt;&lt;ul&gt;&lt;li&gt;im Förderschwerpunkt „Normung – Unternehmen“ die aktive Beteiligung von Unternehmen in nationalen, europäischen und internationalen Normungs- und Standardisierungsgremien sowie&lt;/li&gt;&lt;li&gt;im Förderschwerpunkt „Wissenstransfer durch Normung und Standardisierung“ Kooperationsprojekte zwischen Hochschulen, Forschungseinrichtungen und Unternehmen, die neueste Erkenntnisse der Forschung in Normen und Standards überführen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Im Bereich der Normung und Standardisierung werden folgende weiteren Leistungspakete gefördert:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Normungsrecherchen sowie Aufbau und Umsetzung eines Normenmanagements,&lt;/li&gt;&lt;li&gt;Erstellung einer &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;DIN&lt;/abbr&gt; SPEC (PAS)/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VDE&lt;/abbr&gt; SPEC (PAS)/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VDE&lt;/abbr&gt;-Anwenderregel oder einer internationalen Entsprechung.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie erhalten die Förderung als Zuschuss. Die Höhe der Förderung ist in den verschiedenen Bereichen unterschiedlich.&lt;/p&gt;&lt;p&gt;Patentierung „Patentierung – Unternehmen“:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bis zu 50 Prozent der zuwendungsfähigen Ausgaben,&lt;/li&gt;&lt;li&gt;in Modul 1 bis zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 10.000,&lt;/li&gt;&lt;li&gt;in Modul 2 bis zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 6.000.&lt;/li&gt;&lt;li&gt;Ihr Förderzeitraum beträgt maximal 24 Monate.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Normung und Standardisierung „Normung – Unternehmen“:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bis zu 70 Prozent der zuwendungsfähigen Ausgaben,&lt;/li&gt;&lt;li&gt;bis zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 45.000 in Form einer De-minimis-Beihilfe.&lt;/li&gt;&lt;li&gt;Der Förderzeitraum beträgt maximal 36 Monate.&lt;/li&gt;&lt;li&gt;Beratung und aktive Teilnahme in Normengremien: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 25.000,&lt;/li&gt;&lt;li&gt;Normungsrecherchen und Normenmanagement: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 5.000,&lt;/li&gt;&lt;li&gt;Erstellung einer &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;DIN&lt;/abbr&gt; SPEC (PAS)/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VDE&lt;/abbr&gt; SPEC (PAS)/&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VDE&lt;/abbr&gt;-Anwenderregel oder einer internationalen Entsprechung: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 10.000.&lt;/li&gt;&lt;li&gt;Für die Teilnahme an Gremiensitzungen erhalten Sie Personalkostenpauschalen:&lt;ul&gt;&lt;li&gt;nationale Gremiensitzungen: &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 1.000 (in Präsenz), &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 500,00 (virtuell),&lt;/li&gt;&lt;li&gt;europäische Gremiensitzungen: &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 1.500 (in Präsenz), &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 750,00 (virtuell),&lt;/li&gt;&lt;li&gt;internationale Gremiensitzungen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 2.000 (in Präsenz), &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 1.000 (virtuell).&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Normung und Standardisierung „Wissenstransfer durch Normung und Standardisierung“:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;für Unternehmen der gewerblichen Wirtschaft in der Regel bis zu 50 Prozent, für &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; bis zu 80 Prozent der zuwendungsfähigen Kosten,&lt;/li&gt;&lt;li&gt;für Hochschulen und außeruniversitäre Forschungseinrichtungen bis zu 85 Prozent der zuwendungsfähigen Ausgaben,&lt;/li&gt;&lt;li&gt;und maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 200.000 je Verbundpartner und Projekt für eine Laufzeit von maximal 24 Monaten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Je nachdem, welchen Förderschwerpunkt Sie für Ihren Antrag wählen, ist das Verfahren ein- oder zweistufig. Ansprechpartner ist der Projektträger Jülich (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;PtJ&lt;/abbr&gt;). Bitte reichen Sie Ihre Projektskizzen und förmlichen Anträge über das elektronische Antragssystem easy-Online ein.&lt;/p&gt;&lt;p&gt;Anträge können fortlaufend bis zum Ablauf einzelner Termine je Förderschwerpunkt gestellt werden.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie neueste Forschungsergebnisse umsetzen, patentieren lassen oder für die Verwertung vorbereiten wollen, können Sie unter bestimmten Voraussetzungen einen Zuschuss erhalten.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Förderung des Technologie- und Wissenstransfers durch Patente, Normung und Standardisierung zur wirtschaftlichen Verwertung innovativer Ideen von Hochschulen und Unternehmen (WIPANO)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

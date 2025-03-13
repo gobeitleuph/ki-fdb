@@ -19,6 +19,7 @@ app.add_middleware(
 class QueryRequest(BaseModel):
     query: str
     limit: Optional[int] = 3
+    vector_store_path: Optional[str] = "./chroma_db"
 
 class ResultItem(BaseModel):
     title: str
@@ -30,7 +31,11 @@ class ResultItem(BaseModel):
 async def suche(request: QueryRequest):
     try:
         # Query the vector store
-        results = query_vector_store(request.query, k=request.limit)
+        results = query_vector_store(
+            question=request.query, 
+            k=request.limit, 
+            persist_dir=request.vector_store_path
+        )
         
         # Format the results
         formatted_results = []
@@ -46,7 +51,7 @@ async def suche(request: QueryRequest):
         
         return formatted_results
     except Exception as e:
-        raise HTTPException(status_code=500, detail="Ein interner Serverfehler ist aufgetreten")
+        raise HTTPException(status_code=500, detail=f"Ein interner Serverfehler ist aufgetreten: {str(e)}")
 
 @app.get("/api/status")
 async def status_prüfung():

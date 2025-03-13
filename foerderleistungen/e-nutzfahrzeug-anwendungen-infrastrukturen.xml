@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="e-nutzfahrzeug-anwendungen-infrastrukturen" path="/BMWI/FDB/Content/DE/Foerderprogramm/Bund/BMWi" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Förderrichtlinie Technologiewettbewerb „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; für Elektromobilität: wirtschaftliche E-Nutzfahrzeug-Anwendungen und Infrastrukturen“&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Vom 18. November 2021&lt;br /&gt;[geändert durch Bekanntmachung vom 20. Dezember 2023]&lt;/p&gt;&lt;h2&gt;I. Förderziel und Zuwendungszweck&lt;/h2&gt;&lt;p&gt;Mit der Änderung des Bundes-Klimaschutzgesetzes hat sich Deutschland verpflichtet, die Treibhausgasemissionen sektorübergreifend bis 2030 um 65 Prozent und im Verkehr um fast 50 Prozent gegenüber 1990 zu verringern. Während in fast allen Sektoren, insbesondere in der Energiewirtschaft und im Industriesektor, die Treibhausgasemissionen in den letzten drei Jahrzehnten stark zurückgegangen sind&lt;sup&gt;1)&lt;/sup&gt;, hat der Verkehrsbereich bisher kaum zum Rückgang der Emissionen beigetragen. Ein wesentlicher Treiber verkehrsbedingter Treibhausgasemissionen ist der Straßengüterverkehr. Er ist derzeit für rund ein Drittel der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Emissionen des Verkehrssektors verantwortlich. Die Gesamtfahrleistung in diesem Bereich wird bisher fast ausschließlich durch Nutzfahrzeuge mit konventionellen, auf Dieselkraftstoff basierenden Antrieben erbracht.&lt;sup&gt;2)&lt;/sup&gt; Daher sieht das Klimaschutzprogramm 2030 der Bundesregierung vor, dass bis 2030 etwa ein Drittel der Fahrleistung im schweren Straßengüterverkehr elektrisch oder auf Basis strombasierter Kraftstoffe erbracht werden soll&lt;sup&gt;3)&lt;/sup&gt;. Weiterer Handlungsdruck entsteht durch europäische Vorgaben, wonach bis 2030 die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Emissionen bei Nutzfahrzeugen im Vergleich zu 2019 um 30 Prozent sinken müssen&lt;sup&gt;4)&lt;/sup&gt;.&lt;/p&gt;&lt;p&gt;Um diese ehrgeizigen Ziele zu erreichen, sind erhebliche Anstrengungen erforderlich. Während im &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Pkw&lt;/abbr&gt;-Bereich 2020 der Anteil von Elektrofahrzeugen in Deutschland von drei Prozent im Jahr 2019 auf 14 Prozent im Jahr 2020 sprunghaft angewachsen ist&lt;sup&gt;5)&lt;/sup&gt;, hinkt der Nutzfahrbereich bei der Elektrifizierung noch deutlich hinterher. Zum einen gibt es bis heute nur ein sehr geringes Angebot an serienreifen Nutzfahrzeugen. Zum anderen sind entsprechende Fahrzeuge, insbesondere mittelschwere und schwere Nutzfahrzeuge der Klassen N2 und N3, aufgrund der benötigten großen Batterien in Verbindung mit hohen Batteriekosten kaum wettbewerbsfähig. Auch fehlt es an einer bedarfsgerechten Ladeinfrastruktur sowie an wirtschaftlichen Betriebskonzepten, mit denen die Gesamtkostenbilanz von elektrischen Nutzfahrzeugen verbessert werden kann.&lt;/p&gt;&lt;p&gt;Um der Antriebswende im Nutzfahrzeugsegment weiteren Schub zu verleihen, sind daher weitere erhebliche Forschungsanstrengungen erforderlich. So fordert zum Beispiel die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AG&lt;/abbr&gt; 1 der Nationalen Plattform Zukunft der Mobilität (NPM) in ihrem Werkstattbericht Antriebswechsel von 12/2020 ein Höchstmaß an Geschwindigkeit und Konsequenz, um einen notwendigen Technologiemix für Mitte der 2020er-Jahre marktfähig zu machen. Als einen der wesentlichen Hebel nennt der Bericht unter anderem die Intensivierung von Forschung und Entwicklung und bezieht dabei neben rein batterieelektrischen Fahrzeugen auch Wasserstoff-Brennstoffzellen-Antriebe mit ein.&lt;sup&gt;6)&lt;/sup&gt;&lt;/p&gt;&lt;p&gt;Neben der Schaffung eines breiteren Angebots an batterie-elektrischen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Wasserstoff-Brennstoffzellen-Fahrzeugen für den gewerblichen Einsatz kommt es darüber hinaus für die Beschleunigung der Antriebswende in diesem Bereich entscheidend darauf an, wirtschaftliche E-Nutzfahrzeuganwendungen zu identifizieren, weiterzuentwickeln und in zukünftige Energie-, Logistik-, Verkehrs- und Gebäudeinfrastrukturen einzubinden. Hierfür soll die vorliegende Förderrichtlinie neue Impulse setzen.&lt;/p&gt;&lt;p&gt;Einen Schlüsselfaktor spielen dabei leistungsfähige Informations- und Kommunikationstechnologien (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;). Sie sind nicht nur für die meisten Innovationen im Elektrofahrzeug verantwortlich, sondern sorgen auch dafür, die vorhandenen Infrastrukturen besser zu vernetzen und effizienter zu nutzen.&lt;/p&gt;&lt;p&gt;Auch schaffen sie die Grundlage für die netzverträgliche Einbindung von E-Fahrzeugen in Energienetze, Wohn- und Gewerbebauten sowie fortgeschrittene Verkehrs- und Logistikkonzepte. Das schließt auch hochautomatisierte und autonome Personen- und Güterbeförderungskonzepte sowie auf Methoden der künstlichen Intelligenz basierende Konzepte mit ein.&lt;/p&gt;&lt;p&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; sorgen insgesamt für einen höheren Digitalisierungsgrad der Mobilität und eine stärkere Vernetzung und Kommunikation der bisher überwiegend eigenständigen Systeme Fahrzeug, Energie, Gebäude, Verkehr und Logistik. Beim erforderlichen Datenaustausch zwischen dem Fahrzeug und seiner Umgebung müssen Fragestellungen von Datensicherheit und -schutz, Standardisierung, Datenhoheit und Dateneigentum berücksichtigt werden. Sie bilden die Basis für neue Geschäftsmodelle, von denen alle Beteiligte – Nutzer, Hersteller, Dienstleister und Betreiber – profitieren können.&lt;/p&gt;&lt;p&gt;Mit dem Gesetz zur Digitalisierung der Energiewende hat der Gesetzgeber die Einführung von intelligenten Messsystemen mit hohen Anforderungen an Datenschutz und Datensicherheit beschlossen. Nach dem Leitbild des Gesetzgebers sind mit Vorliegen der technischen Möglichkeit energiewirtschaftlich relevante Anwendungsfälle zur Sicherung von Wettbewerb und Versorgungssicherheit zwingend über &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BSI&lt;/abbr&gt;-zertifizierte Smart-Meter-Gateways abzuwickeln.&lt;/p&gt;&lt;p&gt;Energiewirtschaftlich relevant sind dabei insbesondere Mess- und Steuerungsvorgänge, welche im Sinne des einschlägigen energiewirtschaftlichen Fachrechts zum Zweck der Netz- und Marktintegration von Ladeeinrichtungen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Elektrofahrzeugen bilanzierungs-, abrechnungs- oder netzrelevant sind. Solange und soweit nicht energiewirtschaftlich relevante Mess- und Steuerungsvorgänge beim Laden am Ladepunkt selbst vorgenommen werden, muss nach dem Messstellenbetriebsgesetz der einzelne Ladepunkt nicht direkt mit einem Smart-Meter-Gateway verbunden oder ein Smart-Meter-Gateway im Ladepunkt verbaut sein und muss die notwendige Authentifizierung von Fahrern von elektrisch betriebenen Fahrzeugen nicht über das Smart-Meter-Gateway erfolgen. In solchen Fällen ist der Netzanschlusspunkt der richtige Einbauort für das Smart-Meter-Gateway.&lt;/p&gt;&lt;p&gt;Die vorliegende Förderrichtlinie soll einen Lösungsbeitrag zu den dargestellten Herausforderungen im Nutzfahrzeugsegment leisten. Ziel ist es, auf &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; basierende wirtschaftliche E-Nutzfahrzeug-Anwendungen und Systemlösungen und ihre infrastrukturelle Einbindung beispielhaft zu entwickeln und in Feldversuchen zu testen.&lt;/p&gt;&lt;p&gt;Mit der Umsetzung der unter II. genannten Forschungsthemen soll ein Beitrag zu den übergeordneten Zielen des Klimaschutzes und den notwendigen Veränderungen in Richtung einer umwelt- und nutzerfreundlichen vernetzten Mobilität und Weiterentwicklung der Verkehrs- und Logistiksysteme mit Hilfe von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; geleistet werden. Gesucht werden Lösungen, die helfen, die oben beschriebenen Herausforderungen an der Schnittstelle von Fahrzeug, Verkehr, Logistik, Gebäude und Energienetzen mit Hilfe des Einsatzes von neuen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;-basierten Elektromobilitätslösungen zu bewältigen. Die einschlägigen Vorgaben der Digitalisierung der Energiewende sind dabei zu beachten.&lt;/p&gt;&lt;p&gt;Für die Umsetzung der Förderziele gewährt der Bund Zuwendungen nach Maßgabe dieser Richtlinien und der Allgemeinen Verwaltungsvorschriften zu den §§ 23, 44 der Bundeshaushaltsordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt;). Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Der Zuwendungsgeber entscheidet aufgrund seines pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.&lt;/p&gt;&lt;h2&gt;II. Gegenstand der Förderung&lt;/h2&gt;&lt;p&gt;Beispielhaft sind folgende Forschungsthemen zu nennen, die Gegenstand dieser Förderrichtlinie sind.&lt;/p&gt;&lt;p&gt;Entwicklung von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;-basierten Systemansätzen und Anwendungen für:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;die Verknüpfung gewerblicher Elektromobilität mit fortschrittlichen Energie-, Logistik- und Liegenschaftsinfrastrukturen, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt;:&lt;ul&gt;&lt;li&gt;neue Liefer- und Logistikkonzepte, die zur Entlastung des öffentlichen Verkehrs oder als kombinierter Verkehr (Personen- und Cargo-Transport) zur Erhöhung der Auslastung und Effizienz bestehender Verkehrsmittel und Infrastrukturen beitragen,&lt;/li&gt;&lt;li&gt;technische Lösungen auf Wohnungs-, Haus- oder Quartiersebene, die netzverträgliche Lademöglichkeiten für Mieter/Eigentümer vor Ort ohne eigenen Stellplatz ermöglichen. Hierbei sind Lösungen anzustreben, die eine herstellerübergreifende Steuerung erlauben,&lt;/li&gt;&lt;li&gt;Kopplung von E-Nutzfahrzeugflotten mit Energiemanagementsystemen von Industrie und Gewerbe (vehicle-to-business),&lt;/li&gt;&lt;li&gt;Steuerungs-, Mess- und Sicherheitsmechanismen zur Nutzung von E-Fahrzeugbatterien als Puffer und Speicher.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Hochautomatisierte und autonome Personenbeförderungs- und Cargo-Konzepte im City-, ländlichen und suburbanen Bereich, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt;:&lt;ul&gt;&lt;li&gt;unter Einbeziehung bisher wenig verbreiteter oder neuer Transportmittel wie Drohnen oder Transportroboter,&lt;/li&gt;&lt;li&gt;in Kombination mit anderen Verkehrsmitteln, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; als Anschlusslösung an den Öffentlichen Personennahverkehr (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ÖPNV&lt;/abbr&gt;) oder Güterverteilzentren zur Feinverteilung auf der letzten Meile,&lt;/li&gt;&lt;li&gt;als kombinierter autonomer Verkehr (Personen- und Cargo-Transport in einem Fahrzeug) oder Platooning-Lösung,&lt;/li&gt;&lt;li&gt;zur Entwicklung und Erprobung technischer Lösungen, die die Sicherheit autonomer Fahrzeuge ohne Sicherheitsfahrer gewährleisten, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; durch Fernüberwachung (Teleoperation) über das Mobilfunknetz,&lt;/li&gt;&lt;li&gt;unter Nutzung von Methoden der Künstlichen Intelligenz und des Maschinellen Lernens.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Fahrzeugkommunikation und Daten sowie Plattform-/App-basierte Anwendungen, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt;:&lt;ul&gt;&lt;li&gt;zur Verknüpfung der Fahrzeuge mit ihrer Umgebung (Car2X, Car2Grid, Car2Company, Car2Car, Car2User, Car2Home) und Fusion der dabei entstehenden Daten,&lt;/li&gt;&lt;li&gt;Erhöhung des Digitalisierungsgrades der Mobilität im öffentlichen und individuellen Verkehr mit dem Ziel einer effizienteren Auslastung, Optimierung und Steuerung bestehender Verkehrssysteme,&lt;/li&gt;&lt;li&gt;App-basierte Anwendungen und Plattform-Lösungen, die die Information und Kommunikation zwischen Anbietern und Nutzenden, Systemen und Angeboten verbessern. Dabei soll – soweit möglich – auf vorhandene, am Markt verfügbare Teilkomponenten aufgesetzt werden. Eine Anknüpfung an neue Entwicklungen und Infrastrukturen, wie &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; GAIA-X, wird begrüßt.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Neue Ladeinfrastruktur-Lösungen&lt;/li&gt;&lt;li&gt;zur Bereitstellung einer bedarfsgerechten Ladeinfrastruktur speziell für schwere E-Nutzfahrzeuge unter Berücksichtigung der Netzrestriktionen. Hierbei sind auch Batteriewechselsysteme, Smart Grids, regenerative Stromerzeugungsanlagen und Speicherlösungen als Lösungsbeitrag ausdrücklich erwünscht.&lt;/li&gt;&lt;li&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;-basierte Wasserstoff-/Brennstoffzellen-Anwendungen im Nutzfahrzeugsegment&lt;/li&gt;&lt;li&gt;In Frage kommen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;-Lösungen für neue Anwendungen in Verbindung mit mittelschweren und schweren Lkw der Klassen N2 und N3, Busse, Bau-, landwirtschaftliche oder sonstige, für den gewerblichen Einsatz vorgesehene Nutzfahrzeuge. Ausdrücklich nicht im Fokus stehen Anwendungen für &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Pkw&lt;/abbr&gt; der Fahrzeugklassen M1 sowie die reine Fahrzeug-Entwicklung und vorgelagerte Wertschöpfungsstufen der Wasserstofferzeugung.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Umsetzung zu den vorgenannten Themen ist mit Herausforderungen und ungelösten Fragestellungen verbunden, die sich nur durch gezielte Forschung, Entwicklung und Erprobung lösen lassen. Offene Standards, Modularität und Datensicherheit sind dabei unabdingbare Voraussetzungen.&lt;/p&gt;&lt;p&gt;Anknüpfend an Erfahrungen aus den vorangegangenen vier Förderrunden des Technologieprogramms „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; für Elektromobilität“ (www.ikt-em.de) will dieser Technologiewettbewerb die globale Wettbewerbsfähigkeit und Systemkompetenz der deutschen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;-Wirtschaft, der Automobilbranche und der Energiewirtschaft einschließlich der Energiedienstleister und Mobilitätsanbieter sowie der Wissenschaft in Deutschland verbessern. Besonderer Wert wird auf die Mitwirkung von kleinen und mittleren Unternehmen gelegt. Gleiches gilt für Regionen und Kommunen, die sich als Wegbereiter der Elektromobilität profilieren.&lt;/p&gt;&lt;p&gt;Im Rahmen von Modellprojekten sollen ganzheitliche Lösungskonzepte und beispielhafte Systemlösungen – von den Technologien über Dienstleistungen bis hin zu neuen Geschäftsszenarien – entstehen, die auch die neu entstehenden Wertschöpfungsnetzwerke widerspiegeln. Durch diese Pilotprojekte sollen Nachahmungseffekte, neue Geschäftsideen und Folgeinvestitionen angeregt und neue Tätigkeitsfelder und Märkte im In- und Ausland erschlossen werden. Die übergreifende Beherrschung der Integration von gewerblicher Elektromobilität in die urbane und ländliche Umgebung soll die Standort-Attraktivität steigern.&lt;/p&gt;&lt;p&gt;Die Förderrichtlinie unterstützt mit ihren Forschungszielen die in Kapitel I beschriebenen Zielsetzungen und Emissionsziele.&lt;/p&gt;&lt;p&gt;Erfolgskriterien&lt;/p&gt;&lt;p&gt;Der Erfolg wird anhand der in der Anlage aufgeführten Kriterien evaluiert.&lt;/p&gt;&lt;h2&gt;III. Zuwendungsempfänger&lt;/h2&gt;&lt;p&gt;Antragsberechtigt sind Unternehmen der gewerblichen Wirtschaft mit Sitz, einer Niederlassung oder Betriebsstätte in Deutschland. Eine wesentliche Zielsetzung des Bundesministeriums für Wirtschaft und Energie (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt;) ist hier die Unterstützung von kleinen und mittleren Unternehmen. Die Beteiligung von mittelständischen Unternehmen ist daher ausdrücklich erwünscht und wird bei der Projektbegutachtung positiv berücksichtigt. Zuwendungsempfänger können ebenfalls staatliche und nicht staatliche Hochschulen, Forschungseinrichtungen&lt;sup&gt;7)&lt;/sup&gt; sowie sonstige Einrichtungen mit Forschungs- und Entwicklungsinteresse sein. Öffentliche Einrichtungen und Verbände sind ebenfalls förderfähig, können sich aber auch als assoziierte Partner einbringen.&lt;/p&gt;&lt;p&gt;Von der Förderung ausgeschlossen sind Unternehmen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Sektoren in den Fällen des Artikels 1 Absatz 2 bis 5 der Allgemeinen Gruppenfreistellungsverordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;). Einem Unternehmen, das einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer von demselben Mitgliedstaat gewährten Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen ist, darf keine Förderung nach dieser Richtlinie gewährt werden (Artikel 1 Absatz 4a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;).&lt;/p&gt;&lt;h2&gt;IV. Besondere Zuwendungsvoraussetzungen&lt;/h2&gt;&lt;p&gt;Mit den Arbeiten am Projekt darf vor Stellung des Förderantrags noch nicht begonnen worden sein.&lt;/p&gt;&lt;p&gt;Zwingende Voraussetzung für die Gewährung einer Zuwendung ist der Nachweis der Sicherung der Gesamtfinanzierung des Projekts. Im Rahmen des späteren Bewilligungsverfahrens hat der Antragsteller gegebenenfalls nachzuweisen, dass er in der Lage ist, den nicht durch Bundesmittel gedeckten Eigenanteil an den gesamten Projektkosten aufzubringen und dass dies seine wirtschaftlichen Möglichkeiten nicht übersteigt (Bonitätsnachweis).&lt;/p&gt;&lt;p&gt;Das Projekt ist in der Bundesrepublik Deutschland durchzuführen, die Ergebnisse des geförderten Projekts müssen vorrangig in der Bundesrepublik Deutschland oder dem Europäischen Wirtschaftsraum (EWR) genutzt werden, zu marktwirksamen Innovationen beitragen und über ein großes Marktpotenzial für Deutschland und Europa verfügen.&lt;/p&gt;&lt;p&gt;Es wird darauf hingewiesen, dass Informationen gemäß Anhang III der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; über jede Einzelbeihilfe von über 100 000 Euro in der Regel binnen sechs Monaten nach dem Tag der Gewährung der Beihilfe in der Beihilfentransparenzdatenbank der Europäischen Kommission&lt;sup&gt;8)&lt;/sup&gt; veröffentlicht werden.&lt;/p&gt;&lt;p&gt;Die finanzielle Abwicklung der Förderprojekte ist über Profi-Online vorzunehmen.&lt;/p&gt;&lt;h2&gt;V. Art und Umfang, Höhe der Zuwendungen&lt;/h2&gt;&lt;h3&gt;V.1 Art der Förderung&lt;/h3&gt;&lt;p&gt;Die Projektförderung erfolgt durch eine nicht rückzahlbare Anteilsfinanzierung in Form eines Zuschusses. Infrastrukturinvestitionen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; in Standard-Software und -Hardware, firmeneigene EDV, Ladeinfrastruktur oder Fahrzeugflotten) werden nicht in die Förderung einbezogen.&lt;/p&gt;&lt;p&gt;Bei den Zuwendungen könnte es sich um Subventionen im Sinne § 264 Absatz 7 des Strafgesetzbuches handeln. Vor der Vorlage der förmlichen Förderanträge werden den Antragstellern die subventionserheblichen Tatsachen gesondert mitgeteilt.&lt;/p&gt;&lt;p&gt;Der geförderte Teil des Forschungs- und Entwicklungsvorhabens muss vollständig einer oder mehreren der folgenden Kategorien zuzuordnen sein: industrielle Forschung, experimentelle Entwicklung, Durchführbarkeitsstudien.&lt;/p&gt;&lt;p&gt;Die beihilfefähigen Kosten von Forschungs- und Entwicklungsvorhaben sind einer dieser Forschungs- und Entwicklungskategorien zuzuordnen. Dabei handelt es sich um&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) Personalkosten: Kosten für Forscher, Techniker und sonstiges Personal, soweit diese für das Vorhaben eingesetzt werden;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) Kosten für Instrumente und Ausrüstung, soweit und solange sie für das Vorhaben genutzt werden. Wenn diese Instrumente und Ausrüstungen nicht während ihrer gesamten Lebensdauer für das Vorhaben verwendet werden, gilt nur die nach den Grundsätzen ordnungsgemäßer Buchführung ermittelte Wertminderung während der Dauer des Vorhabens als beihilfefähig;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;c) Kosten für Gebäude und Grundstücke, soweit und solange sie für das Vorhaben genutzt werden. Bei Gebäuden gilt nur die nach den Grundsätzen ordnungsgemäßer Buchführung ermittelte Wertminderung während der Dauer des Vorhabens als beihilfefähig. Bei Grundstücken sind die Kosten des wirtschaftlichen Übergangs oder die tatsächlich entstandenen Kapitalkosten beihilfefähig;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;d) Kosten für Auftragsforschung, Wissen und für unter Einhaltung des Arm’s-length-Prinzips von Dritten direkt oder in Lizenz erworbene Patente sowie Kosten für Beratung und gleichwertige Dienstleistungen, die ausschließlich für das Vorhaben genutzt werden;&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;e) zusätzliche Gemeinkosten und sonstige Betriebskosten (unter anderem für Material, Bedarfsartikel und dergleichen), die unmittelbar durch das Vorhaben entstehen; unbeschadet des Artikels 7 Absatz 1 Satz 3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; können diese Kosten von Forschungs- und Entwicklungsvorhaben alternativ anhand eines vereinfachten Kostenansatzes in Form eines pauschalen Aufschlags von bis zu 20 % auf den Gesamtbetrag der beihilfefähigen Kosten des Forschungs- und Entwicklungsvorhabens nach Artikel 25 Absatz 3 Buchstabe a bis d berechnet werden. In diesem Fall werden die für die Bestimmung der indirekten Kosten herangezogenen Kosten des Forschungs- und Entwicklungsvorhabens anhand der üblichen Rechnungslegungsverfahren ermittelt und umfassen ausschließlich die beihilfefähigen Kosten des Forschungs- und Entwicklungsvorhabens nach den Buchstaben a bis d.&lt;/p&gt;&lt;p&gt;Die beihilfefähigen Kosten von Durchführbarkeitsstudien sind die Kosten der Studie.&lt;/p&gt;&lt;h3&gt;V.2 Maximale Förderhöhe und Förderquoten; Kumulierung&lt;/h3&gt;&lt;p&gt;Eine Einzelförderung auf Grundlage dieser Förderrichtlinie ist für Projekte, die überwiegend die industrielle Forschung betreffen, auf 35 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Mio.&lt;/abbr&gt; Euro pro Unternehmen und Projekt, für Projekte, die überwiegend die experimentelle Entwicklung betreffen, auf 25 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Mio.&lt;/abbr&gt; Euro pro Unternehmen und Projekt und für Durchführbarkeitsstudien zur Vorbereitung von Forschungstätigkeiten auf 8,25 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Mio.&lt;/abbr&gt; Euro pro Studie begrenzt. Es handelt sich dabei um Förderhöchstsätze, die im Rahmen der vorliegenden Förderrichtlinie nicht ausgeschöpft werden.&lt;/p&gt;&lt;p&gt;Es wird erwartet, dass sich Unternehmen der gewerblichen Wirtschaft angemessen beteiligen. Für Unternehmen der gewerblichen Wirtschaft kann die Förderung je nach Marktnähe der zu entwickelnden Lösungen 25 bis 50 Prozent der zuwendungsfähigen Gesamtkosten betragen. Für kleine und mittlere Unternehmen im Sinne der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Definition (siehe Anhang I der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;) können im Einzelfall höhere Förderintensitäten gewährt werden. Die Beihilfehöchstintensitäten pro Beihilfeempfänger des Artikels 25 Absatz 5 Buchstabe b bis d, Absatz 6 und 7 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; dürfen nicht überschritten werden. Für die Berechnung der Beihilfeintensität und der beihilfefähigen Kosten werden die Beträge vor Abzug von Steuern und sonstigen Abgaben herangezogen. Die beihilfefähigen Kosten sind durch schriftliche Unterlagen zu belegen, die klar, spezifisch und aktuell sein müssen.&lt;/p&gt;&lt;p&gt;Bei der Einhaltung der maximalen Förderintensität sind insbesondere auch die Kumulierungsregeln in Artikel 8 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; zu beachten. Demnach können nach diesem Förderrahmen gewährte Förderungen mit anderen staatlichen Beihilfen kumuliert werden, sofern diese Maßnahmen unterschiedliche bestimmbare beihilfefähige Kosten betreffen, sowie mit anderen staatlichen Beihilfen für dieselben, sich teilweise oder vollständig überschneidenden beihilfefähigen Kosten. Dies gilt jedoch nur, wenn durch diese Kumulierung die höchste nach der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; für diese Beihilfen geltende Beihilfeintensität beziehungsweise der höchste nach der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; für diese Beihilfen geltende Beihilfebetrag nicht überschritten wird.&lt;/p&gt;&lt;p&gt;Forschungseinrichtungen im Sinne Ziffer 1.3 Nummer 15 Doppelbuchstabe ee des Unionsrahmens für staatliche Beihilfen zur Förderung von Forschung und Entwicklung und Innovation (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;FuEuI&lt;/abbr&gt;-UR), die die Voraussetzungen von Ziffer 2.1.1 in Verbindung mit Ziffer 2.2 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;FuEuI&lt;/abbr&gt;-UR erfüllen, können im Rahmen ihrer nichtwirtschaftlichen Tätigkeit in begründeten Ausnahmefällen bis zu 100 Prozent gefördert werden. Eine angemessene Eigenbeteiligung ist erwünscht. Diese muss bei Institutionen, die auf Kostenbasis gefördert werden, mindestens 10 Prozent der zuwendungsfähigen Vorhabenkosten betragen.&lt;/p&gt;&lt;h3&gt;V.3 Projektlaufzeit&lt;/h3&gt;&lt;p&gt;Die Laufzeit der Verbundprojekte beträgt in der Regel 36 Monate.&lt;/p&gt;&lt;h2&gt;VI. Sonstige Zuwendungsbestimmungen&lt;/h2&gt;&lt;h3&gt;VI.1 Verbundstruktur&lt;/h3&gt;&lt;p&gt;Voraussetzung für die Förderung ist grundsätzlich das Zusammenwirken von mehreren unabhängigen Partnern zur gemeinsamen Lösung von Forschungsaufgaben (Verbundprojekte), die den Stand der Technik deutlich übertreffen und neue Anwendungen ermöglichen. Im Verbund sollte mindestens ein mittelständisches Unternehmen beteiligt sein. An den Verbundprojekten müssen zudem Partner beteiligt sein, welche die Forschungsergebnisse zur breiten Anwendung bringen wollen und können. In den Verbundprojekten sollten &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;-Unternehmen und Anwender unter Einbindung der Forschung zusammenarbeiten. Die Antragsteller können weitere Akteure für notwendige, fachliche Zuarbeiten in Form von Unteraufträgen in das Forschungsprojekt einbeziehen.&lt;/p&gt;&lt;h3&gt;VI.2 Konsortialbildung&lt;/h3&gt;&lt;p&gt;Die Verbundprojekte sollten in der Regel aus mindestens drei bis maximal sieben geförderten Partnern aus Wirtschaft und Wissenschaft sowie gegebenenfalls weiteren, nicht geförderten assoziierten Partnern (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Multiplikatoren oder Kommunen) bestehen (Konsortien). Die Verbundprojekte sollen einen Konsortialführer benennen und vor allem mittelständischen Unternehmen eine maßgebliche Beteiligung ermöglichen. Die Konsortialführerschaft sollte nach Möglichkeit ein Unternehmen (Anbieter, Hersteller, Nutzer der angestrebten Lösung) übernehmen. Neben den Konsortialpartnern können Unternehmen, Verbände, Kommunen oder andere Organisationen, die keine Fördermittel beantragen, als assoziierte Partner in den Projektverbund aufgenommen werden. Bei der Zusammenstellung des Konsortiums kann auf das Partnering-Portal des beauftragten Projektträgers für das Auffinden relevanter Partner zurückgegriffen werden.&lt;/p&gt;&lt;h3&gt;VI.3 Anforderungen an das Zusammenspiel der Anwendungsbereiche, der Begleitforschung und der Projekte untereinander&lt;/h3&gt;&lt;p&gt;Im Interesse eines systemischen Ansatzes ist es wünschenswert, die in Kapitel II genannten Themen nicht isoliert zu betrachten. Über die Aktivitäten der einzelnen Verbundprojekte hinaus sind übergreifende Kooperation und Wissenstransfer außerordentlich wichtig. Dazu wurde eine Begleitforschung gesondert durch das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt; beauftragt. Kernaufgabe der Begleitforschung ist es, die Projekte bei der Identifizierung und Überwindung von Innovationshürden, bei der projektübergreifenden Zusammenarbeit mit anderen Partnern und beim Ergebnistransfer zu unterstützen.&lt;/p&gt;&lt;p&gt;Die Zuwendungsempfänger sind verpflichtet, projektübergreifend zusammenzuarbeiten, mit der Begleitforschung zu kooperieren und an anderen vom &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt; durchzuführenden Transfermaßnahmen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Messeteilnahmen) mitzuwirken.&lt;/p&gt;&lt;h3&gt;VI.4 Mitwirkung an der ergebnis-orientierten Ausrichtung und der öffentlichen Darstellung des Technologieprogramms „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; für Elektromobilität“&lt;/h3&gt;&lt;p&gt;Die ausgewählten Projekte sollen am gemeinsamen Erfolg des Förderprogramms „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; für Elektromobilität“ (siehe Förderziele) mitwirken. Dies umfasst auch die Beteiligung an öffentlichkeitswirksamen Messen und Kongressveranstaltungen sowie die Berücksichtigung der Erfolgskriterien des Förderprogramms. Dem wird während und nach Abschluss des Projekts durch eine vollständige Dokumentation von Ergebnissen Rechnung getragen.&lt;/p&gt;&lt;p&gt;Die Projekte verpflichten sich, vor Beginn, während und nach Ende der Projektlaufzeit Informationen und Daten zu den in Kapitel II aufgeführten Erfolgskriterien im Rahmen einer begleitenden und abschließenden Erfolgskontrolle des Technologieprogramms zur Verfügung zu stellen. In der öffentlichen Darstellung müssen die Projektergebnisse adäquat mit der Fördermaßnahme in Verbindung gebracht werden.&lt;/p&gt;&lt;h3&gt;VI.5 Weitere Auskunftspflichten und Mitwirkung, Erfolgskontrolle, Datenschutz&lt;/h3&gt;&lt;p&gt;Im Laufe und nach Beendigung der Förderung der Projekte hat die Zuwendungsempfängerin/der Zuwendungsempfänger dem Projektträger &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt; alle für die haushaltsrechtlich vorgeschriebene Erfolgskontrolle notwendigen Informationen und Daten zur Verfügung zu stellen.&lt;/p&gt;&lt;p&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;DLR&lt;/abbr&gt;-Projektträger speichert die in den Projektskizzen und -anträgen gemachten Angaben in maschinenlesbarer Form. Sie werden zur Auswahl durch die Gutachter und zur Abwicklung des Projekts verarbeitet. Dabei bleiben die Belange des Daten- und Vertrauensschutzes gewahrt. Lediglich die Teilnehmer und die Projekttitel werden öffentlich bekannt gegeben.&lt;/p&gt;&lt;p&gt;Die Antragstellerin/der Antragsteller muss sich im Antrag auf Förderung damit einverstanden erklären, dass&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sämtliche mit dem Antrag oder im weiteren Verfahren beim Projektträger (Ziffer 8.1) eingereichten Unterlagen dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt; zur Verfügung stehen;&lt;/li&gt;&lt;li&gt;die Förderung auf Grundlage von § 44 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt; in Verbindung mit der Verwaltungsvorschrift Nummer 9.1 und 9.2 zu § 44 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt; in einem zentralen System des Bundes erfasst wird (Zuwendungsdatenbank);&lt;/li&gt;&lt;li&gt;alle im Zusammenhang mit der Förderung bekannt gewordenen Daten und Nachweise vom Projektträger, dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt; oder einer von einem der beiden beauftragten Stelle auf Datenträger gespeichert werden können; darüber hinaus dürfen sie von ihnen oder in ihrem Auftrag für Zwecke der Statistik, der Erfolgskontrolle und gegebenenfalls Evaluation der Förderrichtlinie verwendet und ausgewertet werden; die Erklärung beinhaltet ferner das Einverständnis mit der Veröffentlichung der Auswertungsergebnisse und deren Weiterleitung an den Deutschen Bundestag und an Einrichtungen des Bundes und der Europäischen Union;&lt;/li&gt;&lt;li&gt;sie/er auf Nachfrage, insbesondere im Rahmen einer Erfolgskontrolle/Evaluation unter Beachtung datenschutzrechtlicher Regelungen, bis zwei Jahre nach Ende der Förderung weitergehende Auskünfte gibt;&lt;/li&gt;&lt;li&gt;das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt; den Mitgliedern des Deutschen Bundestages im Einzelfall Informationen zur Förderung bekannt gibt.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Den Beauftragten des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt;, dem Bundesrechnungshof und den Prüforganen der Europäischen Union sind auf Verlangen erforderliche Auskünfte zu erteilen, Einsicht in Bücher und Unterlagen sowie Prüfungen zu gestatten.&lt;/p&gt;&lt;p&gt;Es wird darauf hingewiesen, dass Informationen über jede Einzelbeihilfe von über 500.000 Euro auf einer ausführlichen Beihilfe-Internetseite veröffentlicht werden können (Artikel 9 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;).&lt;/p&gt;&lt;h2&gt;VII. Verfahren&lt;/h2&gt;&lt;h3&gt;VII.1 Antragsverfahren&lt;/h3&gt;&lt;p&gt;Projektvorschläge in Form von Skizzen zu den in Kapitel II genannten Themen können vorbehaltlich der tatsächlich zur Verfügung stehenden Haushaltsmittel jeweils zum 15. September eines Jahres, erstmalig zum 15. September 2022, eingereicht werden.&lt;/p&gt;&lt;p&gt;Das &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt; behält sich vor, spätestens drei Monate vor dem jeweiligen Einreichungsstichtag gegebenenfalls weitere für eine Beteiligung am Wettbewerb benötigte Informationen und konkretisierende Hinweise im Hinblick auf priorisierte Bereiche im Internet unter http://www.digitale-technologien.de (Rubrik „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; für Elektromobilität“) zu veröffentlichen. Denkbar ist zum Beispiel ein Hinweis, dass zu einem bestimmten Förderthema bereits ausreichend Skizzen aus vorangegangenen Einreichungsrunden eingereicht wurden und deshalb bestimmte Teil-Themen nicht mehr weiter gefördert werden sollen. Auch sind Konkretisierungen möglich, um auf neue technologische und politische Entwicklungen schnell und flexibel reagieren zu können.&lt;/p&gt;&lt;p&gt;Projektvorschläge sind über das Internet einzureichen. Die für eine Beteiligung am Wettbewerb benötigten Informationen sind unter der vorgenannten Webadresse zu finden. Dort ist auch ein Link auf das elektronische Formular zur Bewerbung und zur Eingabe der Projektskizze hinterlegt. Mit der Projektskizze sind ein grober Projekt- und Arbeitsplan, ein Finanzierungsplan, die Darstellung der Einzelziele und Meilensteine sowie ein grober Verwertungsplan mit Vermarktungspotenzial einzureichen. Mit der Abgabe der Skizzen werden die Teilnahmebedingungen dieses Technologiewettbewerbs anerkannt.&lt;/p&gt;&lt;p&gt;Beauftragt mit der Durchführung ist:&lt;/p&gt;&lt;p&gt;Deutsches Zentrum für Luft- und Raumfahrt &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;e.V.&lt;/abbr&gt; (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;DLR&lt;/abbr&gt;)&lt;br /&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;DLR&lt;/abbr&gt; Projektträger&lt;br /&gt;Gesellschaft, Innovation, Technologie&lt;br /&gt;Abteilung Energie und Mobilität&lt;br /&gt;Heinrich-Konen-Straße 1&lt;br /&gt;53227 Bonn&lt;/p&gt;&lt;p&gt;E-Mail: ikt-em@dlr.de&lt;br /&gt;Telefon: +49 228/3821-1102&lt;/p&gt;&lt;h3&gt;VII.2 Bewilligungsverfahren&lt;/h3&gt;&lt;p&gt;Es handelt sich um ein zweistufiges, wettbewerbliches Auswahlverfahren. Alle bis zum jeweiligen Stichtag eingereichten Skizzen werden in der Regel unter Einbeziehung unabhängiger Gutachter anhand der unten aufgeführten Auswahlkriterien bewertet. Die besten Skizzen werden (unter Berücksichtigung des tatsächlich verfügbaren Haushaltsvolumens) nach pflichtgemäßem Ermessen ausgewählt und zur Antragstellung aufgefordert. Mit den Arbeiten für das Projekt darf vor Einreichung des schriftlichen Förderantrags noch nicht begonnen worden sein. Der Förderantrag muss mindestens folgende Angaben enthalten: Name und Größe des Unternehmens, Beschreibung des Projekts, die Kosten des Projekts, Art der Beihilfe und Höhe der für das Projekt benötigten öffentlichen Finanzierung. Des Weiteren ist im Antrag die Betriebsnummer (sofern vorhanden) anzugeben. Die Antragsteller sind mit der Nutzung der Betriebsnummer für Abfragen bei der Bundesagentur für Arbeit einverstanden.&lt;/p&gt;&lt;p&gt;Zwischen dem Stichtag der Skizzeneinreichung und dem Beginn der Laufzeit liegen in der Regel neun bis zwölf Monate.&lt;/p&gt;&lt;p&gt;Auswahlkriterien&lt;/p&gt;&lt;p&gt;Die Projektskizzen müssen sich an den zuvor beschriebenen Förderzielen und -gegenständen orientieren. Die Auswahl der Projekte erfolgt anhand folgender vier Kriterien, die mit je 25 Prozent bei der Bewertung gewichtet werden und konkret ausgeführt werden müssen. Als Orientierung dienen die aufgeführten Aspekte, die nicht für alle Projektvorschläge einschlägig sein müssen. Weitere Aspekte, die als relevant angesehen werden, können ergänzt werden.&lt;/p&gt;&lt;table data-gsb="true"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td class="td-status--headercol" data-gsb="true"&gt;Kriterien&lt;/td&gt;&lt;td class="td-status--headercol" data-gsb="true"&gt;Aspekte&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Idee&lt;/td&gt;&lt;td&gt;&lt;p&gt;Innovationsgehalt und Originalität des Lösungsansatzes&lt;/p&gt;&lt;p&gt;Wissenschaftlich-technische Qualität&lt;/p&gt;&lt;p&gt;Identifizierung konkreter Prozess- und Wertschöpfungsketten&lt;/p&gt;&lt;p&gt;Kompatibilität und Interoperabilität (Berücksichtigung &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Schaffung von Standards und offenen Plattformen)&lt;/p&gt;&lt;p&gt;Übereinstimmung mit Förderzielen und -gegenständen der Förderrichtlinie&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Umsetzbarkeit&lt;/td&gt;&lt;td&gt;&lt;p&gt;Technische Machbarkeit, Management technischer und wirtschaftlicher Risiken&lt;/p&gt;&lt;p&gt;Klarheit und Ganzheitlichkeit des Forschungs- und Entwicklungsansatzes/Qualität des Arbeitsplans&lt;/p&gt;&lt;p&gt;Angemessenes Verhältnis von Aufwand, Risiken und Nutzen, Wirtschaftlichkeit des Arbeitsplans&lt;/p&gt;&lt;p&gt;Nachweis der Datensicherheit; Berücksichtigung von (internationalen) Sicherheitsstandards&lt;/p&gt;&lt;p&gt;Darstellung der Rechtsverträglichkeit der angestrebten Lösung&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Konsortium&lt;/td&gt;&lt;td&gt;&lt;p&gt;Vollständigkeit, Komplementarität und Eignung des Konsortiums, Abdeckung der Wertschöpfungskette &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; des -netzwerks (speziell: Einbindung von Anwendern)&lt;/p&gt;&lt;p&gt;Potenzial, Kompetenz und Innovationskraft der Forschungs-, Umsetzungs- und Anwendungspartner (Technologie- &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Marktführer oder Position zu diesem)&lt;/p&gt;&lt;p&gt;Existierende Vorarbeiten sowie Bezug zu relevanten nationalen und internationalen Aktivitäten&lt;/p&gt;&lt;p&gt;Berücksichtigung von mittelständischen Akteuren und Start-Ups&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Markt- und Anwendungspotenzial&lt;/td&gt;&lt;td&gt;&lt;p&gt;Qualität des Verwertungskonzepts, inklusive Darstellung der wirtschaftlichen Potenziale, der Marktpositionierung und der Umsetzbarkeit am Markt,&lt;/p&gt;&lt;p&gt;Beitrag zur Stärkung der Innovationskraft der Unternehmen&lt;/p&gt;&lt;p&gt;Ausstrahlungskraft der Pilotanwendung im Sinne der übergeordneten Programmziele (Leuchtturmcharakter),&lt;/p&gt;&lt;p&gt;Verbesserung der Wettbewerbsfähigkeit der deutschen Industrie, Nutzen für die Energiewende, insbesondere die Netz- und Marktintegration der Elektromobilität&lt;/p&gt;&lt;p&gt;Übertragbarkeit und Nachhaltigkeit der Lösung, volkswirtschaftliche Bedeutung, insbesondere Markt- und Arbeitsplatzpotenzial&lt;/p&gt;&lt;p&gt;Offenheit, Kooperationsbereitschaft und Breitenwirkung (Best-Practice oder Multiplikatoreffekte)&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Europäische Dimension&lt;/p&gt;&lt;p&gt;Antragsteller sollen sich – auch im eigenen Interesse – mit dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Forschungsrahmenprogramm vertraut machen. Sie sollen prüfen, ob das beabsichtigte Projekt spezifische europäische Komponenten aufweist und damit eine ausschließliche oder ergänzende &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Förderung möglich ist.&lt;/p&gt;&lt;p&gt;Insbesondere wird auf die geplanten Förderprojekte im Rahmen des fünften Clusters „Klima, Energie und Mobilität“ im neunten Rahmenprogramm von „Horizont Europa“ hingewiesen. Das Ergebnis der Prüfungen soll im nationalen Förderantrag kurz dargestellt werden.&lt;/p&gt;&lt;h3&gt;VII.3 Zu beachtende Vorschriften&lt;/h3&gt;&lt;p&gt;Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheids und die Rückforderung der gewährten Zuwendung nach Maßgabe dieser Richtlinie gelten die §§ 48 bis 49a des Verwaltungsverfahrensgesetzes (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VwVfG&lt;/abbr&gt;), die §§ 23, 44 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt;, die hierzu erlassenen Allgemeinen Verwaltungsvorschriften sowie die jeweils anzuwendenden aktuellen Nebenbestimmungen des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWi&lt;/abbr&gt;.&lt;/p&gt;&lt;p&gt;Der Bundesrechnungshof ist gemäß den §§ 91, 100 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BHO&lt;/abbr&gt; zur Prüfung berechtigt.&lt;/p&gt;&lt;p&gt;Förderungen nach dieser Richtlinie werden auf Grundlage von Artikel 25 der Allgemeinen Gruppenfreistellungsverordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;) - (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 651/2014 der Kommission vom 17. Juni 2014 (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; L 187 vom 26.6.2014, S. 1) in der Fassung der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 2023/1315 der Kommission vom 23. Juni 2023 (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; L 167 vom 30.6.2023, S. 1) gewährt.&lt;/p&gt;&lt;h2&gt;VIII. Geltungsdauer&lt;/h2&gt;&lt;p&gt;Diese Förderrichtlinie tritt am 1. Januar 2022 in Kraft. Die Laufzeit der Förderrichtlinie ist bis zum 30. Juni 2026 befristet. Sollte die zeitliche Anwendung der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; ohne die Beihilferegelung betreffende relevante inhaltliche Veränderungen verlängert werden, verlängert sich die Laufzeit dieser Förderrichtlinie entsprechend, aber nicht über den 30. Juni 2026 hinaus.&lt;/p&gt;&lt;table data-gsb="true"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;&amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0; &amp;#xa0;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;p&gt;1) https://www.umweltbundesamt.de/diagramm/jaehrliche-treibhausgas-emissionen-in-deutschland-0&lt;/p&gt;&lt;p&gt;2) https://www.bmvi.de/SharedDocs/DE/Publikationen/G/gesamtkonzept-klimafreundliche-nutzfahrzeuge.pdf?__blob=publicationFile&lt;/p&gt;&lt;p&gt;3) https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutzprogramm_2030_bf.pdf&lt;/p&gt;&lt;p&gt;4) https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32019R1242&amp;amp;from=de#d1e956-202-1&lt;/p&gt;&lt;p&gt;5) https://www.kba.de/DE/Presse/Pressemitteilungen/Allgemein/2021/pm01_2021_E_Antrieb.html&lt;/p&gt;&lt;p&gt;6) https://www.plattform-zukunft-mobilitaet.de/wp-content/uploads/2020/12/NPM_AG1_Werkstattbericht_Nutzfahrzeuge.pdf&lt;/p&gt;&lt;p&gt;7) Rechtlich unselbstständigen Bundesbehörden und Einrichtungen mit Forschungs- und Entwicklungsaufgaben werden die gewährten Fördermittel im Wege der Zuweisung bereitgestellt.&lt;/p&gt;&lt;p&gt;8) https://webgate.ec.europa.eu/competition/transparency/public?lang=de&lt;/p&gt;&lt;p&gt;&amp;#xa0;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/D/dlr-30665"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/D/digitale-technologien-30665"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/_bundesweit"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/bund"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/forschungseinrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/hochschule"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/oeffentliche_einrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/verband_vereinigung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/dienstleistungen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/produzierendes_gewerbe"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/digitalisierung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/forschung_innovation_themenspezifisch"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/mobilitaet"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bmwk-bundesministerium_wirtschaft_klimaschutz"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/information_kommunikation"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;30665&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2021-12-07T11:27:09.132+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Elektromobilität Forschung Entwicklung FuE IKT Systemansatz Anwendungen Energieinfrastruktur Logistikinfrastrukturen Liegenschaftsinfrastruktur Cargo App Wasserstoff Brennstoffzellen</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Richtlinie des Bundesministeriums für Wirtschaft und Energie (BMWi) vom 18.11.2021, Bundesanzeiger Amtlicher Teil vom 6.12.2021, B1; geändert durch Bekanntmachung des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK) vom 20.12.2023, Bundesanzeiger Amtlicher Teil vom 2.1.2024, B3.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind Unternehmen der gewerblichen Wirtschaft mit Sitz, Betriebsstätte oder Niederlassung in Deutschland.&lt;/p&gt;&lt;p&gt;Förderfähig sind auch Hochschulen, Forschungseinrichtungen sowie sonstige Einrichtungen mit Forschungs- und Entwicklungsinteresse und öffentliche Einrichtungen und Verbände.&lt;/p&gt;&lt;p&gt;Die Förderung ist an bestimmte Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ihr Vorhaben trägt zu marktwirksamen Innovationen bei und verfügt über ein großes Marktpotenzial für Deutschland und Europa.&lt;/li&gt;&lt;li&gt;Sie führen das Projekt in der Bundesrepublik Deutschland durch.&lt;/li&gt;&lt;li&gt;Sie werden die Ergebnisse vorrangig in der Bundesrepublik Deutschland oder dem Europäischen Wirtschaftsraum (EWR) und in der Schweiz nutzen.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Das Bundesministerium für Wirtschaft und Klimaschutz (&lt;abbr&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWK&lt;/abbr&gt;&lt;/abbr&gt;) unterstützt Projekte zu wirtschaftlichen E-Nutzfahrzeug-Anwendungen und Infrastrukturen.&lt;/p&gt;&lt;p&gt;Sie erhalten die Förderung für Projekte zu folgenden Themenschwerpunkten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;-basierte Systemansätze und Anwendungen zur Verknüpfung gewerblicher Elektromobilität mit fortschrittlichen Energie-, Logistik- und Liegenschaftsinfrastrukturen,&lt;/li&gt;&lt;li&gt;hochautomatisierte und autonome Personenbeförderungs- und Cargo-Konzepte im City-, ländlichen und suburbanen Bereich,&lt;/li&gt;&lt;li&gt;Fahrzeugkommunikation und Daten sowie Plattform-/App-basierte Anwendungen,&lt;/li&gt;&lt;li&gt;neue Ladeinfrastruktur-Lösungen speziell für schwere E-Nutzfahrzeuge und&lt;/li&gt;&lt;li&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt;-basierte Wasserstoff- und Brennstoffzellen-Anwendungen im Nutzfahrzeugsegment.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie erhalten die Förderung als Zuschuss für einen Zeitraum von normalerweise 3 Jahren.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Als Unternehmen der gewerblichen Wirtschaft erhalten Sie meistens 50 Prozent Ihrer förderfähigen Kosten als Zuschuss.&lt;/li&gt;&lt;li&gt;Als kleines oder mittleres Unternehmen (&lt;abbr&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;&lt;/abbr&gt;) können Sie unter bestimmten Voraussetzungen einen Bonus erhalten. Hierfür müssen Sie die Kriterien der &lt;abbr&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;&lt;/abbr&gt; für &lt;abbr&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;&lt;/abbr&gt; erfüllen.&lt;/li&gt;&lt;li&gt;Als Hochschule oder außeruniversitäre Einrichtung können Sie bis zu 100 Prozent der zuwendungsfähigen Ausgaben erhalten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Je nach Kategorie ist die Höhe der Förderung festgelegt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;industrielle Forschung: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 35 Millionen,&lt;/li&gt;&lt;li&gt;experimentelle Entwicklung: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 25 Millionen,&lt;/li&gt;&lt;li&gt;Durchführbarkeitsstudien: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 8,25 Millionen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Das Förderverfahren ist zweistufig. In der 1. Stufe reichen Sie bitte Ihre Projektskizzen jeweils zum 15.9. eines Jahres bei dem Projektträger ein.&lt;/p&gt;&lt;p&gt;Das &lt;abbr&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;BMWK&lt;/abbr&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;&lt;/abbr&gt;&lt;/abbr&gt; veröffentlicht, sofern erforderlich, spätestens 3 Monate vor dem jeweiligen Einreichungsstichtag weitere Informationen und Hinweise, die für eine Beteiligung am Wettbewerb erforderlich sind.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie Forschungs- und Entwicklungsvorhaben zu &lt;abbr&gt;IKT&lt;/abbr&gt;-basierten Systemansätzen und Anwendungen im Bereich der Elektromobilität planen, können Sie unter bestimmten Voraussetzungen einen Zuschuss erhalten.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;IKT&lt;/abbr&gt; für Elektromobilität: wirtschaftliche E-Nutzfahrzeug-Anwendungen und Infrastrukturen&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

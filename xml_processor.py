@@ -150,6 +150,6 @@ if __name__ == '__main__':
     else:
         for entry in data:
             print(f"Title: {entry['title']}")
-            print(f"Content: {entry['content'][:100]}...")
+            print(f"Content: {str(entry['content'])[:1000]}...")
             print(f"Links: {entry['links']}")
             print("-" * 50)

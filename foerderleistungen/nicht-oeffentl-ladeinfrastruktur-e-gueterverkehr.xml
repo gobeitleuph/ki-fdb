@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="nicht-oeffentl-ladeinfrastruktur-e-gueterverkehr" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Richtlinie zum Förderprogramm „Nicht öffentlich zugängliche Ladeinfrastruktur für den E-Straßengüterverkehr in Bayern“&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie&lt;br /&gt;vom 27. September 2023, Az. 26-3467/45/6&lt;br /&gt;[geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie&lt;br /&gt;vom 25. März 2024, Az. 26-3467/45&lt;/p&gt;&lt;h2&gt;Präambel&lt;/h2&gt;&lt;p&gt;Der Freistaat Bayern fördert im Rahmen dieser Richtlinie Maßnahmen zum Aufbau einer nicht öffentlich zugänglichen Ladeinfrastruktur für Elektrofahrzeuge im Straßengüterverkehr (E-Gütertransportfahrzeug) in Bayern nach Maßgabe&lt;/p&gt;&lt;ul&gt;&lt;li&gt;dieses Programms, sowie&lt;/li&gt;&lt;li&gt;der allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 23 und 44 der Bayerischen Haushaltsordnung (BayHO) und der dazu erlassenen Verwaltungsvorschriften sowie der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 107 und 108 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AEUV&lt;/abbr&gt; (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ABl.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; L 187 vom 26. Juni 2014) – Allgemeine Gruppenfreistellungsverordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Förderung erfolgt ohne Rechtsanspruch im Rahmen der verfügbaren Haushaltsmittel.&lt;/p&gt;&lt;h2&gt;1. Förderziel und Zuwendungszweck&lt;/h2&gt;&lt;p&gt;Die Elektromobilität leistet einen zentralen Beitrag für den Wandel zu klimaneutraler Mobilität. Aufgrund steigender Güterverkehrsleistung kommt dabei auch der Elektrifizierung des Straßengüterverkehrs eine wachsende Bedeutung zu. Ziel dieses Förderprogramms ist daher der Aufbau von nicht öffentlich zugänglichen Ladepunkten (nach Abschnitt 2g) für E-Gütertransportfahrzeuge (nach Abschnitt 2a). Damit soll für einschlägige Unternehmen, die im Bereich Gütertransport tätig sind, ein Anreiz zur Elektrifizierung von Fahrzeugflotten geschaffen werden. Zugleich wird mit der Förderung ein Beitrag zur Reduktion der energiebedingten &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-Emissionen und zum Klimaschutz im Energie- und Verkehrssektor geleistet, sowie Arbeitsplätze in Bayern gesichert.&lt;/p&gt;&lt;h2&gt;2. Begriffsbestimmungen&lt;/h2&gt;&lt;p&gt;Für diese Förderrichtlinie gelten folgende Begriffsbestimmungen:&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) E-Gütertransportfahrzeug: Reines Batterieelektrofahrzeug, welches zur Beförderung von Gütern und Waren außerhalb des Betriebsgeländes &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; auf öffentlichen Straßen eingesetzt wird. Ein reines Batterieelektrofahrzeug wird ausschließlich über Elektromotoren angetrieben und bezieht die Antriebsenergie ausschließlich aus einer Batterie.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;: Die Definition für &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; (Kleine und mittelständische Unternehmen) richtet sich nach Anhang I &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;c) Ladeort: Räumlich zusammengehörendes Areal (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Parkplatz, Parkhaus, Tiefgarage) mit einer oder mehreren Ladestationen und dazugehörigem Netzanschluss.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;d) Ladepunkt: Vorrichtung, an der zeitgleich nur jeweils ein E-Fahrzeug geladen werden kann.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;e) Ladestation: Lademöglichkeit für Elektrofahrzeuge, die aus einem oder mehreren Ladepunkten bestehen kann. Ein Beispiel für eine Ladestation ist eine Wallbox oder eine Ladesäule (inkl. evtl. abgesetzter Leistungs- oder Autorisierungseinheiten).&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;f) Netzanschluss: Technische Verbindung mit dem Energieversorgungsnetz (Nieder-, Mittel- oder Hochspannungsnetz) zur Versorgung einer Ladeeinrichtung.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;g) Nicht öffentlich zugänglich: An den geförderten Ladepunkten dürfen gem. &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 36a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 8 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; nur E-Gütertransportfahrzeuge des Antragstellers geladen werden.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;h) Schnell-Ladepunkt: Ladepunkt mit einer nominalen Ladeleistung von mehr als 22 Kilowatt.&lt;/p&gt;&lt;h2&gt;3. Fördergegenstand und Zuwendungsempfänger&lt;/h2&gt;&lt;h3&gt;3.1 Gegenstand der Förderung&lt;/h3&gt;&lt;p&gt;Förderfähig ist die Beschaffung, Errichtung oder Modernisierung von stationären, nicht öffentlich zugänglichen konduktiven DC-Schnell-Ladepunkten mit &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CCS&lt;/abbr&gt;-Steckern (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;DIN&lt;/abbr&gt; EN 62196-3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Combo für DC-Laden) oder leistungsstärkeren Steckerstandards mit &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Norm (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; MCS für „Megawatt-Laden“) in Bayern, die zum Laden von E-Gütertransportfahrzeugen bestimmt sind, inklusive des dafür erforderlichen Netzanschlusses und der Montage der Ladestation. Einzelheiten zur Förderfähigkeit ergeben sich aus dieser Förderrichtlinie sowie den jeweils geltenden Förderaufrufen.&lt;/p&gt;&lt;h3&gt;3.2 Antragsberechtigung&lt;/h3&gt;&lt;p&gt;Antragsberechtigt sind wirtschaftlich tätige Unternehmen mit Niederlassung oder Betriebsstätte im Freistaat Bayern, die im Bereich Gütertransport tätig sind. Unternehmen in Schwierigkeiten gemäß &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 1 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 4 Buchst. c &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; in Verbindung mit &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 2 Nr. 18 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; werden nicht gefördert. Dies gilt insbesondere für Antragsteller, über deren Vermögen ein Insolvenzverfahren beantragt oder eröffnet worden ist. Dasselbe gilt für Antragsteller, sofern der Antragsteller eine juristische Person ist, und für dessen gesetzliche Vertreter, die eine eidesstattliche Versicherung nach § 807 ZPO oder § 284 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AO&lt;/abbr&gt; abgegeben haben oder zu deren Abgabe verpflichtet sind. Unternehmen, die einer Rückforderungsanordnung aufgrund einer früheren Kommissionsentscheidung zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit einer Beihilfe mit dem Binnenmarkt nicht Folge geleistet haben, werden ebenfalls nicht gefördert, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;vgl.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 1 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 4 Buchst. a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;.&lt;/p&gt;&lt;h2&gt;4. Zuwendungsvoraussetzungen&lt;/h2&gt;&lt;h3&gt;4.1 Technische Anforderungen&lt;/h3&gt;&lt;p&gt;Aufbau und Inbetriebnahme der Ladeinfrastruktur sind durch Fachunternehmen vorzunehmen; die technischen und rechtlichen Vorgaben sind einzuhalten (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Technische Netzanschlussbedingungen, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VDE&lt;/abbr&gt;).&lt;/p&gt;&lt;h3&gt;4.2 Vorhabenlaufzeit&lt;/h3&gt;&lt;p&gt;Die Vorhabenlaufzeit bis zur Inbetriebnahme der beantragten Ladepunkte soll nicht länger als 18 Monate betragen und beginnt ab dem Erstellungsdatum des entsprechenden Zuwendungsbescheides. Über eine mögliche Verlängerung der bewilligten Vorhabenlaufzeit entscheidet die Bewilligungsstelle auf Antrag nach pflichtgemäßem Ermessen. Auf Abschnitt 6.5 „Verwendungsnachweis und Auszahlung“ wird verwiesen.&lt;/p&gt;&lt;h3&gt;4.3 Betrieb der Ladeinfrastruktur (Mindestbetriebsdauer)&lt;/h3&gt;&lt;p&gt;Der Zuwendungsempfänger stellt sicher, dass die geförderte Ladeinfrastruktur für mindestens drei Jahre im Sinne dieser Richtlinie in Betrieb ist (Mindestbetriebsdauer als Zweckbindungsfrist). Die Mindestbetriebsdauer beginnt ab Inbetriebnahme der beantragten Ladepunkte unter Einhaltung der Vorgaben dieser Richtlinie. Die Sicherstellung des Betriebs kann durch Dritte erfolgen. Der Zuwendungsempfänger muss jedoch über die gesamte Mindestbetriebsdauer Eigentümer der geförderten Ladeinfrastruktur sein und kann seine Verantwortung gem. jeweiligem Zuwendungsbescheid nicht auf Dritte übertragen.&lt;/p&gt;&lt;h3&gt;4.4 Kein vorzeitiger Maßnahmenbeginn&lt;/h3&gt;&lt;p&gt;Vor Bewilligung der Zuwendung &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Erstellungsdatum des Zuwendungsbescheides darf mit dem Vorhaben nicht begonnen worden sein. Als Vorhabenbeginn ist grundsätzlich der Abschluss eines dem Vorhaben zuzurechnenden Lieferungs- oder Leistungsvertrags zu werten. Planung, unverbindliche Einholung von Angeboten, Genehmigungsverfahren &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;etc.&lt;/abbr&gt; gelten nicht als Beginn des Vorhabens. Die im Rahmen eines Fördervorhabens angefallenen Ausgaben sind nur dann förderfähig, wenn diese gem. Beauftragungs- &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Rechnungsdatum innerhalb der Vorhabenlaufzeit nach Abschnitt 4.2 angefallen sind.&lt;/p&gt;&lt;h2&gt;5. Art und Umfang der Förderung&lt;/h2&gt;&lt;h3&gt;5.1 Art der Förderung&lt;/h3&gt;&lt;p&gt;Die Förderung erfolgt im Wege der Anteilfinanzierung als Zuschuss (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;vgl.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 5 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 2 Buchst. a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;) im Rahmen einer Projektförderung nach &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 36a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;. Ein Anspruch auf Förderung ist ausgeschlossen.&lt;/p&gt;&lt;h3&gt;5.2 Zuwendungsfähige Ausgaben&lt;/h3&gt;&lt;p&gt;Es sind ausschließlich die Ausgaben für die Anschaffung, den Aufbau, die Installation, die Modernisierung oder die Erweiterung von Ladeinfrastruktur für E-Gütertransportfahrzeuge förderfähig. Soweit nachfolgend bestimmte Ausgaben als nicht zuwendungsfähig definiert werden, obwohl nach &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 36a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; insoweit eine Beihilfe zulässig wäre, sind für die Zwecke dieser Richtlinie ausschließlich die nachfolgenden Definitionen maßgeblich. Die Förderung erfolgt als Investitionszuschuss, der sich auf der Grundlage der jeweiligen zuwendungsfähigen Ausgaben für Ladepunkte und Netzanschluss berechnet. Zuwendungsfähige Ausgaben für Ladepunkte oder einschlägige technische Ausrüstung, sofern diese explizit zum Aufbau oder Anschluss der Ladeinfrastruktur nötig sind, sind zum Beispiel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ladestation und angeschlagenes Kabel&lt;/li&gt;&lt;li&gt;Leistungselektronik und abgesetzte Leistungs- oder Autorisierungseinheit&lt;/li&gt;&lt;li&gt;Kennzeichnung, Parkplatzmarkierung und Parkplatzsensoren&lt;/li&gt;&lt;li&gt;Anfahrschutz, Beleuchtung und Wetterschutz (im sinnvollen Verhältnis zu den Gesamtkosten, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Regendach)&lt;/li&gt;&lt;li&gt;Tiefbau und Fundament&lt;/li&gt;&lt;li&gt;Installation und Inbetriebnahme&lt;/li&gt;&lt;li&gt;Datentechnische Anbindung (LAN, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;WLAN&lt;/abbr&gt;, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;etc.&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;Lade- und Lastmanagement&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Zuwendungsfähige Ausgaben für den Netzanschluss sind zum Beispiel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Neuer Netzanschluss oder Ertüchtigung eines bestehenden Netzanschlusses&lt;/li&gt;&lt;li&gt;Integration in ein bestehendes Energiemanagementsystem&lt;/li&gt;&lt;li&gt;Baukostenzuschuss für den Netzanschluss&lt;/li&gt;&lt;li&gt;Pufferspeicher, die explizit in das Lastmanagement der Ladepunkte integriert sind&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Ausgaben von verbundenen Unternehmen sind nur dann förderfähig, wenn diese nach wettbewerblichen Kriterien zu wirtschaftlichen Bedingungen beauftragt wurden. Die Umsatzsteuer ist nur zuwendungsfähig, soweit keine Berechtigung zum Vorsteuerabzug besteht. Die zuwendungsfähigen Ausgaben können in den jeweiligen Förderaufrufen eingeschränkt werden.&lt;/p&gt;&lt;h3&gt;5.3 Nicht zuwendungsfähige Ausgaben&lt;/h3&gt;&lt;p&gt;Abweichend von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 36a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; sind Ausgaben nicht förderfähig, die nicht explizit zum Aufbau oder Anschluss der Ladeinfrastruktur nötig sind. Insbesondere sind folgende Ausgaben nicht förderfähig:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Neubau, Umbau oder Gestaltung von Stellplätzen, Wegen, Zufahrten oder Gebäuden&lt;/li&gt;&lt;li&gt;Erwerb, Nutzung oder Erschließung von Grundstücken&lt;/li&gt;&lt;li&gt;Leasing oder Miete von Ladeinfrastruktur&lt;/li&gt;&lt;li&gt;Planung und Genehmigungen&lt;/li&gt;&lt;li&gt;Betrieb, Wartung oder sonstige laufende Kosten&lt;/li&gt;&lt;li&gt;Eigenleistungen, insbesondere eigene Personalkosten&lt;/li&gt;&lt;li&gt;Lokale (erneuerbare) Stromerzeugung&lt;/li&gt;&lt;li&gt;Lokale Energiemanagement-Anlagen, die nicht explizit und ausschließlich der Ladeinfrastruktur dienen (Hausenergiemanagement, Pufferspeicher für die Gebäudeversorgung &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;etc.&lt;/abbr&gt;)&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;5.4 Höhe und Deckelung der Förderung&lt;/h3&gt;&lt;p&gt;Die Förderung für Maßnahmen nach Abschnitt 3.1 beträgt 40 Prozent der zuwendungsfähigen Ausgaben (Fördersatz), sofern in den Förderaufrufen kein abweichender Fördersatz festgeschrieben wird. Für &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; wird der Fördersatz um 10 Prozentpunkte erhöht. Die maximale Zuwendungssumme pro Ladepunkt (nach Abschnitt 3.1) richtet sich nach der maximal möglichen Ladeleistung des Ladepunktes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mögliche Ladeleistung kleiner 100 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kW&lt;/abbr&gt;: maximal 10.000 Euro pro Ladepunkt&lt;/li&gt;&lt;li&gt;Mögliche Ladeleistung ab 100 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kW&lt;/abbr&gt; und kleiner 500 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kW&lt;/abbr&gt;: maximal 20.000 Euro pro Ladepunkt&lt;/li&gt;&lt;li&gt;Mögliche Ladeleistung 500 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kW&lt;/abbr&gt; und höher: maximal 100.000 Euro pro Ladepunkt&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die maximale Zuwendungssumme für den Netzanschluss pro Antrag &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Ladeort ist limitiert:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bei Anschluss an das Niederspannungsnetz auf maximal 10.000 Euro&lt;/li&gt;&lt;li&gt;Bei Anschluss an das Niederspannungsnetz in Verbindung mit einem zusätzlichen Pufferspeicher (in der Ladesäule integriert oder extern) von mindestens 100 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kWh&lt;/abbr&gt; wird die gleiche maximale Zuwendungssumme zugrunde gelegt, wie beim Anschluss an das Mittel-/Hochspannungsnetz. Der aufgebaute Pufferspeicher ist explizit in das Lade- und Lastmanagement der Ladepunkte zu integrieren.&lt;/li&gt;&lt;li&gt;Bei Anschluss an das Mittel-/Hochspannungsnetz auf maximal 100.000 Euro&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sofern im Fördervorhaben ein innovatives Zusatzkriterium nach Abschnitt 5.5 umgesetzt werden soll, kann dies zusätzlich mit 10 Prozent der förderfähigen Ausgaben, maximal jedoch mit 20.000 Euro gefördert werden. Die gesamte Zuwendungssumme pro Antrag (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Ladeort) ist auf maximal 250.000 Euro begrenzt. Die Zuwendungssumme ist pro Antragsteller in einem Förderaufruf auf maximal 500.000 Euro begrenzt. Die im Abschnitt 5.4 aufgeführten Maximalwerte und Fördersätze können in den jeweiligen Förderaufrufen niedriger festgelegt werden.&lt;/p&gt;&lt;h3&gt;5.5 Innovatives Zusatzkriterium&lt;/h3&gt;&lt;p&gt;Aufgrund hoher Ladeleistungen, großer Strommengen und stark variierender Nutzungsszenarien im Bereich E-Gütertransportfahrzeuge eröffnen sich verschiedene Optimierungspotenziale, um beispielsweise über intelligente oder Prognosen gesteuerte Ladekonzepte Netzspitzen zu reduzieren, Netzüberlastungen zu vermeiden, den Einsatz regenerativer Energien zu steigern oder das Flotten-Lademanagement zu optimieren. Derartige Konzepte können im Rahmen eines Fördervorhabens als ein „innovatives Zusatzkriterium“ nach Abschnitt 5.4 Satz 5 zusätzlich gefördert werden, sofern ein ausreichend innovativer Ansatz vorliegt und eine Optimierung des Ladeprozesses, Steigerung der Energieeffizienz oder Vermeidung von Umweltbelastungen in Verbindung mit der Reduzierung von Kosten, verfolgt wird. Weitere Rahmenbedingungen können in den jeweiligen Förderaufrufen definiert werden. Im Rahmen der Antragstellung müssen das innovative Zusatzkriterium sowie die zu erwartenden Auswirkungen nachvollziehbar skizziert werden. Auf dieser Basis bewertet die Bewilligungsstelle das innovative Zusatzkriterium nach Verwaltungsermessen und kann eine zusätzliche Förderung gewähren. Ein Anspruch des Antragstellers hierauf ist ausgeschlossen.&lt;/p&gt;&lt;p&gt;Die Umsetzung eines innovativen Zusatzkriteriums muss während der Mindestbetriebsdauer nach Abschnitt 4.3 durch eine unabhängige und thematisch geeignete Einrichtung/Organisation (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Forschungseinrichtung, Ingenieurbüro, Hochschule) mindestens für ein Jahr fachlich begleitet und ausgewertet werden. Ein entsprechender aussagekräftiger Abschlussbericht ist in fachüblicher Form spätestens drei Monate nach Ende der fachlichen Begleitung der Bewilligungsstelle vorzulegen. Die Bewilligungsstelle ist zur Einholung von Zwischenergebnissen sowie zur Veröffentlichung von Projektergebnissen in statistischer &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; anonymisierter Form berechtigt. Abschluss- und Zwischenberichte sind mindestens in deutscher Sprache anzufertigen.&lt;/p&gt;&lt;h3&gt;5.6 Einnahmen&lt;/h3&gt;&lt;p&gt;Einnahmen, die sich aus der Nutzung der im Rahmen der vorliegenden Förderrichtlinie geförderten Ladeinfrastruktur ergeben, werden nicht zuwendungsmindernd verrechnet. Die Regelung aus Nr. 1.2 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P bezüglich Einnahmen findet in diesem Fall keine Anwendung.&lt;/p&gt;&lt;h3&gt;5.7 Mehrfachförderung&lt;/h3&gt;&lt;p&gt;Eine Kumulierung der Förderung mit anderen öffentlichen Mitteln ist ausgeschlossen. Daher darf für Maßnahmen, die nach diesen Richtlinien gefördert werden, keine Förderung aus anderen öffentlichen Mitteln, insbesondere Haushaltsmitteln des Freistaats Bayern, anderer Länder, des Bundes, der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; oder Fördermitteln eines sonstigen Dritten beantragt oder in Anspruch genommen worden sein. Das gilt nicht für öffentliche Darlehen und Bürgschaften der Kreditanstalt für Wiederaufbau und der LfA Förderbank Bayern.&lt;/p&gt;&lt;h2&gt;6. Verfahren und Fristen&lt;/h2&gt;&lt;h3&gt;6.1 Bewilligungsstelle&lt;/h3&gt;&lt;p&gt;Die Bewilligungsstelle ist ein durch das Bayerische Staatsministerium für Wirtschaft, Landesentwicklung und Energie beliehener Projektträger. Dieser wird durch die jeweiligen Förderaufrufe benannt.&lt;/p&gt;&lt;h3&gt;6.2 Antragstellung&lt;/h3&gt;&lt;p&gt;Die Zuwendung wird im Rahmen von Förderaufrufen gewährt; eine Antragstellung außerhalb der Förderaufrufe ist nicht möglich. Das Antragsverfahren ist einstufig ausgestaltet. Die Antragstellung erfolgt über das elektronische Formularsystem der Bewilligungsstelle. Gültigkeit hat das Datum der elektronischen Einreichung des Antrags. Für die Bewilligung eines Antrags muss eine Standortfestlegung durch den Antragsteller erfolgen. Für eine vollständig digitale Antragseinreichung ist ein Elster-Zertifikat nötig. Ohne Elster-Authentifizierung müssen digital eingereichte Anträge ausgedruckt und innerhalb von vier Wochen gem. Poststempel rechtsverbindlich unterschrieben in schriftlicher Form bei der Bewilligungsstelle eingereicht werden. Anträge, die unter Verwendung anderer Formulare oder Antragswege gestellt werden und/oder unvollständig sind, können nicht bearbeitet und für eine Förderung berücksichtigt werden.&lt;/p&gt;&lt;h3&gt;6.3 Reihung der Anträge eines Förderaufrufes&lt;/h3&gt;&lt;p&gt;Nach Ende des Antragsfensters werden alle formal richtig und vollständig eingereichten Anträge eines Förderaufrufes gem. &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 36a &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 4 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; nach „prognostizierter Umweltentlastung pro Ladepunkt“ absteigend gereiht und im Rahmen der verfügbaren Fördermittel bearbeitet. Dabei bedeutet Umweltentlastung die Menge an Treibstoff, die durch den Betrieb von E-Gütertransportfahrzeugen eingespart wird. Die eingesparte Treibstoffmenge während der Mindestbetriebsdauer der Ladepunkte nach Abschnitt 4.3 wird auf die Anzahl der beantragten Ladepunkte aufgeteilt, so dass eine Umweltentlastung pro Ladepunkt kalkuliert werden kann. Die für die Kalkulation benötigten Kennzahlen werden im Rahmen der Antragstellung abgefragt. Diese vom Antragsteller getätigten Angaben sind bindend.&lt;/p&gt;&lt;h3&gt;6.4 Fördernebenbedingungen&lt;/h3&gt;&lt;p&gt;Die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P) in der zum Zeitpunkt der Bewilligung geltenden Fassung sind Bestandteil der Förderbedingungen. Darüber hinaus sind folgende besondere Nebenbestimmungen zu berücksichtigen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;die bei Umsetzung des Vorhabens zu beachtenden Zuwendungsvoraussetzungen nach Abschnitt. 4,&lt;/li&gt;&lt;li&gt;die Zustimmung zur Zurverfügungstellung von Daten über die Auswirkungen der Förderungen an Dritte zum Zwecke der Evaluation der Maßnahmen entsprechend Abschnitt 6.6,&lt;/li&gt;&lt;li&gt;die Auflage zur Mitwirkung an der Erfolgskontrolle entsprechend Abschnitt 6.9.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;6.5 Verwendungsnachweis und Auszahlung&lt;/h3&gt;&lt;p&gt;Der Nachweis der Verwendung, der auch den Antrag auf Auszahlung beinhaltet, ist frühestens nach Inbetriebnahme der geförderten Ladepunkte, spätestens jedoch sechs Monate danach digital bei der Bewilligungsstelle einzureichen. In begründeten Einzelfällen kann die Bewilligungsstelle auf Anfrage des Zuwendungsempfängers eine Fristverlängerung zulassen. Nach Vorgabe der Bewilligungsstelle sind dem Verwendungsnachweis eine Dokumentation über den Aufbau der Ladeinfrastruktur sowie wesentliche Belege und Rechnungen digital beizufügen; die Anforderung weiterer Unterlagen bleibt vorbehalten. Am Ladepunkt ist ein Förderhinweis anzubringen; ein entsprechender Aufkleber wird mit dem Zuwendungsbescheid verschickt. Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheids und die Rückforderung der gewährten Zuwendung gelten die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 48 bis 49a des Bayerischen Verwaltungsverfahrensgesetzes (BayVwVfG), die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 23 und 44 BayHO und die hierzu erlassenen Verwaltungsvorschriften, soweit nicht in dieser Förderrichtlinie Abweichungen von den Allgemeinen Verfahrensvorschriften zugelassen wurden. Die Bewilligungsstelle wird mindestens 10 Prozent der Verwendungsnachweise vertieft prüfen. Abweichend von den „Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung“ (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P)“ erfolgt die Auszahlung in einer Rate nach Eingang und Prüfung des Verwendungsnachweises. Bei nicht sachgerechter Umsetzung eines Vorhabens kann die Bewilligungsstelle nach pflichtgemäßem Ermessen die auszuzahlende Fördersumme kürzen. Bei nicht fristgerechter Umsetzung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;vgl.&lt;/abbr&gt; Nr. 4.2) kann die Bewilligungsstelle den Zuwendungsbescheid nach pflichtgemäßem Ermessen widerrufen. Die Europäische Kommission hat das Recht, diese Zuwendungen auf Grundlage dieser Richtlinie zu überprüfen. Daher müssen alle für die Förderung relevanten Unterlagen 10 Jahre lang ab der Gewährung dieser Zuwendung aufbewahrt werden (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 12 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt;).&lt;/p&gt;&lt;h3&gt;6.6 Evaluation und Datenverarbeitung&lt;/h3&gt;&lt;p&gt;Die im Zusammenhang mit der beantragten Zuwendung stehenden Daten werden auf Datenträgern gespeichert und im automatisierten Verfahren im zuständigen Ministerium und bei der Bewilligungsstelle gespeichert, verarbeitet und im Rahmen eines Projekt- und Programmcontrollings ausgewertet. Soweit andere Stellen mit der Antragsbearbeitung und Projektverwaltung beauftragt sind, werden die Daten dort gespeichert und verarbeitet sowie an das zuständige Ministerium weitergeleitet. Gleiches gilt für die Europäische Kommission und/oder die mit der Evaluierung des Förderprogramms beauftragten Einrichtungen. Eine Löschung der Daten erfolgt, sobald und soweit sie für die Zwecke, zu denen sie gespeichert wurden, nicht mehr benötigt werden. Das zuständige Ministerium sowie die Bewilligungsstelle sind berechtigt, im Falle der Bewilligung den Namen/die Bezeichnung der zuwendungsempfangenden Personen/Organisationen, die Projektbezeichnung, die Gesamtausgaben der Maßnahme, die bewilligte Zuwendung sowie den Standort und die technischen Angaben der Ladepunkte zu veröffentlichen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; über Dritte veröffentlichen zu lassen. 6Die in Anhang III der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; genannten Informationen werden gemäß &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 9 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 1 lit. c &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; bei Förderungen über 100.000 Euro veröffentlicht. Die Bewilligungsstelle kann im Zuwendungsbescheid die Zurverfügungstellung von Daten über die Auswirkungen der Förderungen regeln, um eine Evaluation der Maßnahmen zu ermöglichen.&lt;/p&gt;&lt;h3&gt;6.7 Subventionserhebliche Tatsachen&lt;/h3&gt;&lt;p&gt;Die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VV&lt;/abbr&gt; Nr. 3.4 zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 44 BayHO (Verweis auf das Bayerische Subventionsgesetz) sind, soweit einschlägig zu beachten.&lt;/p&gt;&lt;h3&gt;6.8 Strafrecht&lt;/h3&gt;&lt;p&gt;Bei der im Rahmen dieser Förderrichtlinie gewährten Zuwendung kann es sich um eine Subvention im Sinne des § 264 des Strafgesetzbuches (StGB) handeln. Einige der im Antragsverfahren sowie im laufenden Projekt zu machenden Angaben sind deshalb gegebenenfalls subventionserheblich im Sinne des § 264 StGB in Verbindung mit § 2 des Subventionsgesetzes (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;SubvG&lt;/abbr&gt;). In diesem Fall wird der Antragsteller vor der Bewilligung der Zuwendung über die subventionserheblichen Tatsachen in Kenntnis gesetzt und hat über die Kenntnisnahme eine zwingend erforderliche schriftliche Bestätigung abzugeben. Des Weiteren ist der Zuwendungsempfänger auf die Offenbarungspflicht nach § 3 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;SubvG&lt;/abbr&gt; hinzuweisen.&lt;/p&gt;&lt;h3&gt;6.9 Erfolgskontrolle&lt;/h3&gt;&lt;p&gt;Zur Bewertung der Wirksamkeit des Förderprogramms ist eine begleitende und anschließende Erfolgskontrolle vorgesehen. Die Zuwendungsempfänger werden daher verpflichtet, unter Beachtung datenschutzrechtlicher Regelungen alle für die Erfolgskontrolle des Förderprogramms benötigten und vom Zuwendungsgeber benannten Daten bereitzustellen, sowie an Befragungen, Interviews und sonstigen Datenerhebungen teilzunehmen und sonstige erforderliche Auskünfte zu geben.&lt;/p&gt;&lt;h3&gt;6.10 Geltungsdauer&lt;/h3&gt;&lt;p&gt;Diese Bekanntmachung tritt am 1. November 2023 in Kraft. Sofern nicht aufgrund einer Änderung der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AGVO&lt;/abbr&gt; eine frühere Anpassung geboten ist, tritt sie mit Ablauf des 31. Dezember 2025 außer Kraft.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/B/bayern-innovativ-projekttraeger-bayern-31730"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/B/bayern-innovativ-de-31730"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/L/lkw-laden-bayern-innovativ"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/dienstleistungen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/energieeffizienz_erneuerbare_energien"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/infrastruktur"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/mobilitaet"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/S/stmwi-bayerisches_staatsministerium_fuer_wirtschaft_landesentwicklung_und_energie"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_EnergieeffizienzErneuerbareEnergien/betriebliche_private_investitionen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Infrastruktur/energie_umwelt"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;31730&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2023-12-14T12:03:20.786+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Speditionen Straßengüterverkehr E-Mobilität Ladepunkt Netzanschluss Güterverkehr Lkw</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie vom 27. September 2023, Bayerisches Ministerialblatt Nr. 493 vom 11. Oktober 2023; geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie vom 25. März 2024, Bayerisches Ministerialblatt Nr. 165 vom 10. April 2024.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind Unternehmen mit Niederlassung oder Betriebsstätte im Freistaat Bayern, die im Bereich Gütertransport tätig sind.&lt;/p&gt;&lt;p&gt;Die Förderung ist an folgende Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fachunternehmen müssen den Aufbau und Inbetriebnahme der Ladeinfrastruktur vornehmen.&lt;/li&gt;&lt;li&gt;Die technischen und rechtlichen Vorgaben sind einzuhalten (beispielsweise technische Netzanschlussbedingungen, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VDE&lt;/abbr&gt;).&lt;/li&gt;&lt;li&gt;Sie müssen die Ladepunkte spätestens nach 18 Monaten – ab dem Erstellungsdatum des entsprechenden Zuwendungsbescheids gerechnet – in Betrieb nehmen.&lt;/li&gt;&lt;li&gt;Sie sind verpflichtet, die geförderte Ladeinfrastruktur für mindestens 3 Jahre zu betreiben.&lt;/li&gt;&lt;li&gt;Vor Bewilligung der Zuwendung dürfen Sie nicht mit dem Vorhaben beginnen.&lt;/li&gt;&lt;li&gt;Weitere Details und Rahmenbedingungen werden in den Förderaufrufen mit ergänzenden Hinweisen zur Förderrichtlinie festgelegt.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Von der Förderung ausgeschlossen sind unter anderem&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Unternehmen in Schwierigkeiten im Sinne der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;,&lt;/li&gt;&lt;li&gt;Neubau, Umbau oder Gestaltung von Stellplätzen, Wegen, Zufahrten oder Gebäude,&lt;/li&gt;&lt;li&gt;Leasing oder Miete von Ladeinfrastruktur,&lt;/li&gt;&lt;li&gt;Betrieb, Wartung oder sonstige laufende Kosten.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Der Freistaat Bayern unterstützt Maßnahmen zum Aufbau einer nicht öffentlich zugänglichen Ladeinfrastruktur für Elektrofahrzeuge im Straßengüterverkehr (E-Gütertransportfahrzeug) im Rahmen separater Aufrufe.&lt;/p&gt;&lt;p&gt;Wenn Sie als Unternehmen im Bereich Gütertransport tätig sind, bekommen Sie die Förderung für&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Anschaffung, Aufbau, Installation, Modernisierung oder Erweiterung von stationären, nicht öffentlich zugänglichen konduktiven DC-Schnell-Ladepunkten mit &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CCS&lt;/abbr&gt;-Steckern (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;DIN&lt;/abbr&gt; EN 62196-3 beziehungsweise Combo für DC-Laden) oder leistungsstärkeren Steckerstandards mit &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Norm (beispielsweise MCS für „Megawatt-Laden“) in Bayern, die zum Laden von E-Gütertransportfahrzeugen bestimmt sind, sowie&lt;/li&gt;&lt;li&gt;den dafür erforderlichen Netzanschluss und die Montage der Ladestation.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie bekommen die Förderung als Zuschuss.&lt;/p&gt;&lt;p&gt;Sofern in den Förderaufrufen kein abweichender Fördersatz oder Maximalwert festgeschrieben wird, beträgt die Höhe des Zuschusses 40 Prozent der zuwendungsfähigen Ausgaben. Für kleine und mittlere Unternehmen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;) wird der Fördersatz um 10 Prozent erhöht.&lt;/p&gt;&lt;p&gt;Der Zuschusshöchstbetrag je Ladepunkt richtet sich nach der maximal möglichen Ladeleistung des Ladepunkts:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;mögliche Ladeleistung kleiner 100 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kW&lt;/abbr&gt;: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 10.000 pro Ladepunkt,&lt;/li&gt;&lt;li&gt;mögliche Ladeleistung ab 100 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kW&lt;/abbr&gt; und kleiner 500 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kW&lt;/abbr&gt;: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 20.000 pro Ladepunkt,&lt;/li&gt;&lt;li&gt;mögliche Ladeleistung 500 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kW&lt;/abbr&gt; und höher: maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 100.000 pro Ladepunkt.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Der Zuschusshöchstbetrag für den Netzanschluss je Antrag beziehungsweise Ladeort ist begrenzt auf&lt;/p&gt;&lt;ul&gt;&lt;li&gt;höchstens &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 10.000 bei Anschluss an das Niederspannungsnetz,&lt;/li&gt;&lt;li&gt;höchstens &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 100.000 bei Anschluss an das Mittel-/Hochspannungsnetz und bei Anschluss an das Niederspannungsnetz in Verbindung mit einem zusätzlichen Pufferspeicher (in der Ladesäule integriert oder extern) von mindestens 100 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;kWh&lt;/abbr&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Erfüllt Ihr Vorhaben innovative Zusatzkriterien, ist&lt;/p&gt;&lt;ul&gt;&lt;li&gt;eine Erhöhung des Fördersatzes um 10 Prozent der förderfähigen Ausgaben möglich,&lt;/li&gt;&lt;li&gt;der Höchstbetrag auf &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 20.000 begrenzt.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die gesamte Zuschusssumme pro Antrag (beziehungsweise Ladeort) ist auf maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 250.000 beziehungsweise pro Unternehmen in einem Förderaufruf auf maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 500.000 begrenzt.&lt;/p&gt;&lt;p&gt;Reichen Sie Ihren Antrag bitte zu den in den jeweiligen Förderaufrufen festgelegten Terminen über das elektronische Formularsystem des zuständigen Projektträgers Bayern Innovativ – Bayerische Gesellschaft für Innovation und Wissenstransfer mbH ein.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie als Unternehmen im Bereich Gütertransport tätig sind und in die Elektrifizierung Ihrer Fahrzeugflotte investieren möchten, können Sie unter bestimmten Voraussetzungen einen Zuschuss bekommen.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Nicht öffentlich zugängliche Ladeinfrastruktur für den E-Straßengüterverkehr in Bayern&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

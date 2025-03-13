@@ -7,6 +7,7 @@ export default function ChatInterface() {
   const [query, setQuery] = useState('');
   const [messages, setMessages] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [vectorStorePath, setVectorStorePath] = useState('./chroma_db');
   const messagesEndRef = useRef(null);
 
   // Auto-scroll to bottom when messages change
@@ -32,7 +33,10 @@ export default function ChatInterface() {
       const response = await fetch('/api/search', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: currentQuery })
+        body: JSON.stringify({ 
+          query: currentQuery,
+          vector_store_path: vectorStorePath 
+        })
       });
       
       if (!response.ok) {
@@ -57,115 +61,129 @@ export default function ChatInterface() {
     }
   };
 
+  // Handler für Änderungen am Vector Store Pfad
+  const handleVectorStorePathChange = (e) => {
+    setVectorStorePath(e.target.value);
+  };
+
   return (
     <div className="min-h-screen bg-[#F2F2F2] p-4">
-      <div className="max-w-2xl mx-auto bg-white rounded-xl shadow-lg h-[90vh] flex flex-col">
-        {/* Header */}
-        <div className="p-4 border-b border-[#646464]/20 bg-[#1E466E] text-white rounded-t-xl">
-          <h1 className="text-xl font-bold">
-            Fördermittel-Finder
-          </h1>
-          <p className="text-sm mt-1 opacity-80">
-          </p>
+      <div className="max-w-4xl mx-auto">
+        <header className="text-center mb-8">
+          <h1 className="text-3xl font-bold text-[#1A1A1A] mb-2">Fördermittel-Finder</h1>
+          <p className="text-[#4D4D4D]">Stellen Sie eine Frage zu Förderprogrammen</p>
+        </header>
+
+        {/* Vector Store Pfad Eingabe */}
+        <div className="bg-white rounded-lg shadow-md p-4 mb-4">
+          <label htmlFor="vectorStorePath" className="block text-sm font-medium text-[#4D4D4D] mb-2">
+            Vector Store Pfad:
+          </label>
+          <input
+            type="text"
+            id="vectorStorePath"
+            value={vectorStorePath}
+            onChange={handleVectorStorePathChange}
+            className="w-full p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            placeholder="./chroma_db"
+          />
         </div>
 
-        {/* Messages Area */}
-        <div className="flex-1 overflow-y-auto p-4 space-y-4">
-          {messages.length === 0 && (
-            <div className="h-full flex items-center justify-center text-[#646464]/50">
-              <p>Stellen Sie eine Frage zu Förderprogrammen</p>
-            </div>
-          )}
-          
-          {messages.map((msg, i) => (
-            <motion.div
-              key={i}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              className={`flex ${msg.type === 'user' ? 'justify-end' : 'justify-start'}`}
-            >
-              <div className={`max-w-[80%] p-3 rounded-lg ${
-                msg.type === 'user' 
-                  ? 'bg-[#1E466E] text-white'
-                  : msg.type === 'error'
-                    ? 'bg-[#DC3545] text-white'
-                    : 'bg-[#F2F2F2] border border-[#646464]/10'
-              }`}
-              >
-                {msg.type === 'user' && (
-                  <p>{msg.content}</p>
-                )}
-                
-                {msg.type === 'error' && (
-                  <p>{msg.content}</p>
-                )}
-                
-                {msg.type === 'bot' && msg.results && (
-                  <div className="space-y-4">
-                    {msg.results.map((result, idx) => (
-                      <div key={idx} className="border-b border-[#646464]/10 pb-3 last:border-b-0 last:pb-0">
-                        <div className="flex items-center gap-2 mb-1">
-                          <span className="text-[#1E466E] font-bold">
-                            {idx + 1}. {result.title}
-                          </span>
+        {/* Chat Container */}
+        <div className="bg-white rounded-lg shadow-md p-4 mb-4">
+          <div className="h-[60vh] overflow-y-auto mb-4">
+            {messages.length === 0 ? (
+              <div className="h-full flex flex-col items-center justify-center text-center text-[#4D4D4D]">
+                <p className="mb-2">Willkommen beim Fördermittel-Finder!</p>
+                <p className="text-sm">Stellen Sie eine Frage zu verfügbaren Förderprogrammen.</p>
+              </div>
+            ) : (
+              <div className="space-y-4">
+                {messages.map((message, index) => (
+                  <div key={index}>
+                    {message.type === 'user' && (
+                      <div className="flex justify-end">
+                        <div className="bg-blue-500 text-white rounded-lg py-2 px-4 max-w-[80%]">
+                          {message.content}
                         </div>
-                        
-                        <div className="flex items-center gap-2 mb-2 text-xs">
-                          <a
-                            href={result.source}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-[#05C3DC] underline"
-                          >
-                            Quelle
-                          </a>
-                          <span className="text-[#646464]">
-                            Übereinstimmung: {result.match}%
-                          </span>
-                        </div>
-                        
-                        <p className="text-[#646464] text-sm">
-                          {result.content}...
-                        </p>
                       </div>
-                    ))}
+                    )}
                     
-                    {msg.results.length === 0 && (
-                      <p className="text-[#646464] italic">Keine passenden Programme gefunden</p>
+                    {message.type === 'bot' && (
+                      <div className="flex justify-start">
+                        <div className="bg-gray-100 rounded-lg py-3 px-4 max-w-[80%]">
+                          {message.results.length > 0 ? (
+                            <div>
+                              <p className="font-medium mb-2">Hier sind einige relevante Förderprogramme:</p>
+                              <div className="space-y-4">
+                                {message.results.map((result, idx) => (
+                                  <div key={idx} className="border-b pb-2 last:border-b-0">
+                                    <p className="font-medium">{result.title}</p>
+                                    <p className="text-sm text-[#4D4D4D] mb-1">
+                                      Übereinstimmung: {result.match}%
+                                    </p>
+                                    {result.source && (
+                                      <a 
+                                        href={result.source} 
+                                        target="_blank" 
+                                        rel="noopener noreferrer"
+                                        className="text-xs text-blue-500 hover:underline block mb-1"
+                                      >
+                                        Mehr Informationen
+                                      </a>
+                                    )}
+                                    <p className="text-sm">{result.content}...</p>
+                                  </div>
+                                ))}
+                              </div>
+                            </div>
+                          ) : (
+                            <p>Leider wurden keine passenden Förderprogramme gefunden.</p>
+                          )}
+                        </div>
+                      </div>
+                    )}
+                    
+                    {message.type === 'error' && (
+                      <div className="flex justify-start">
+                        <div className="bg-red-100 text-red-700 rounded-lg py-2 px-4 max-w-[80%]">
+                          {message.content}
+                        </div>
+                      </div>
                     )}
                   </div>
-                )}
+                ))}
+                <div ref={messagesEndRef} />
               </div>
-            </motion.div>
-          ))}
-          <div ref={messagesEndRef} />
-        </div>
-
-        {/* Input Area */}
-        <form onSubmit={handleSearch} className="p-4 border-t border-[#646464]/20">
-          <div className="flex gap-2">
+            )}
+          </div>
+          
+          <form onSubmit={handleSearch} className="flex items-center">
             <input
               type="text"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Beispiel: Ich möchte maritime Forschung betrieben..."
-              className="flex-1 p-2 border border-[#646464]/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#05C3DC] text-sm"
+              className="flex-grow p-3 border border-gray-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              placeholder="Frage zu Förderprogrammen eingeben..."
               disabled={isLoading}
             />
             <button
               type="submit"
-              disabled={isLoading}
-              className="bg-[#1E466E] text-white p-2 rounded-lg hover:bg-[#0F2A45] disabled:opacity-50 transition-colors flex items-center gap-2"
+              disabled={isLoading || !query.trim()}
+              className="bg-blue-500 text-white p-3 rounded-r-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:bg-blue-300"
             >
               {isLoading ? (
-                <div className="w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin"></div>
+                <div className="w-6 h-6 border-2 border-white border-t-transparent rounded-full animate-spin"></div>
               ) : (
-                <PaperAirplaneIcon className="w-5 h-5" />
+                <PaperAirplaneIcon className="w-6 h-6" />
               )}
-              <span className="hidden sm:inline">Senden</span>
             </button>
-          </div>
-        </form>
+          </form>
+        </div>
+        
+        <footer className="text-center text-sm text-[#4D4D4D]">
+          <p> 2025 Fördermittel-Finder</p>
+        </footer>
       </div>
     </div>
   );

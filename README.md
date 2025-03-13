@@ -92,6 +92,58 @@ The system will:
 python api.py
 ```
 
+## Vector Store Verwendung
+
+Der Vector Store kann mit verschiedenen Pfaden verwendet werden. Dies ermöglicht es, mehrere Vector Stores für verschiedene Datensätze zu erstellen und zu verwenden.
+
+### Vector Store erstellen
+
+```bash
+python vector_store.py create --input foerderungen.json --dir ./chroma_db
+```
+
+Parameter:
+- `--input` oder `-i`: Pfad zur JSON-Datei (Standard: foerderungen.json)
+- `--dir` oder `-d`: Verzeichnis für den Vector Store (Standard: ./chroma_db)
+
+### Vector Store abfragen
+
+```bash
+python vector_store.py query --question "Ihre Frage hier" --dir ./chroma_db
+```
+
+Parameter:
+- `--question` oder `-q`: Die Frage oder Suchanfrage (erforderlich)
+- `--count` oder `-k`: Anzahl der Ergebnisse (Standard: 3)
+- `--dir` oder `-d`: Verzeichnis des Vector Stores (Standard: ./chroma_db)
+
+### Interaktiven Abfragemodus starten
+
+```bash
+python vector_store.py interactive --dir ./chroma_db
+```
+
+Parameter:
+- `--dir` oder `-d`: Verzeichnis des Vector Stores (Standard: ./chroma_db)
+
+### API-Verwendung
+
+Die API unterstützt ebenfalls die Angabe eines benutzerdefinierten Vector Store Pfades:
+
+```json
+POST /api/suche
+{
+  "query": "Ihre Frage hier",
+  "limit": 3,
+  "vector_store_path": "./chroma_db"
+}
+```
+
+Parameter:
+- `query`: Die Frage oder Suchanfrage (erforderlich)
+- `limit`: Anzahl der Ergebnisse (optional, Standard: 3)
+- `vector_store_path`: Pfad zum Vector Store (optional, Standard: ./chroma_db)
+
 ## Frontend Setup (Manuelle Installation)
 1. Navigate to the frontend directory:
 ```bash
@@ -132,3 +184,22 @@ npm run dev
 - **API**: FastAPI for backend services
 - **Frontend**: Next.js with Tailwind CSS for styling
 - **UI Components**: Framer Motion for animations, Heroicons for icons
+
+```bash
+python xml_processor.py foerderleistungen --output foerderungen.json
+```
+
+```bash
+python vector_store.py
+```
+
+```bash
+python vector_store.py create --input foerderungen.json --dir ./chroma_db
+```
+
+```bash
+python vector_store.py query --question "Ihre Frage hier"       
+```
+
+```bash
+python vector_store.py interactive --dir ./chroma_db

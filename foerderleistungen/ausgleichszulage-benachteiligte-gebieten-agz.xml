@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="ausgleichszulage-benachteiligte-gebieten-agz" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Gewährung der Ausgleichszulage in benachteiligten Gebieten (AGZ)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Richtlinie des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft, Forsten und Tourismus&lt;br /&gt;vom 23. November 2023, Az. G3-7275-1/273&lt;/p&gt;&lt;p&gt;Grundlagen dieser Richtlinie sind:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2021/2115 inklusive der darauf basierenden Delegierten Verordnungen und Durchführungsverordnungen der Kommission&lt;/li&gt;&lt;li&gt;Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2021/2116 inklusive der darauf basierenden Delegierten Verordnungen und Durchführungsverordnungen der Kommission (insbesondere Delegierte Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/1172 und Durchführungsverordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/1173)&lt;/li&gt;&lt;li&gt;Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1305/2013&lt;/li&gt;&lt;li&gt;GAP-Strategieplan für die Bundesrepublik Deutschland&lt;/li&gt;&lt;li&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GAK&lt;/abbr&gt;-Gesetz&lt;/li&gt;&lt;li&gt;Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“ (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GAK&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;GAP-Konditionalitäten-Gesetz (GAPKondG) und GAP-Konditionalitäten-Verordnung (GAPKondV)&lt;/li&gt;&lt;li&gt;GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz (GAPInVeKoSG) und Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung)&lt;/li&gt;&lt;li&gt;GAP-Direktzahlungen-Gesetz (GAPDZG) und GAP-Direktzahlungen-Verordnung (GAPDZV)&lt;/li&gt;&lt;li&gt;Verordnung zur Umsetzung der Gemeinsamen Agrarpolitik (BayGAPV)&lt;/li&gt;&lt;li&gt;Bekanntmachung des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF) über das Gebietsverzeichnis der benachteiligten landwirtschaftlichen Gebiete im Sinne des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 32 der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1305/2013 vom 18. Oktober 2018 (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AllMBl.&lt;/abbr&gt; 2018 Nr. 16)&lt;/li&gt;&lt;li&gt;Richtlinie zur Anerkennung von Almen und Alpen (AnerkAlm/AlpRL)&lt;/li&gt;&lt;li&gt;Bayerische Haushaltsordnung (BayHO) sowie die hierzu erlassenen Verwaltungsvorschriften (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VV&lt;/abbr&gt;)&lt;/li&gt;&lt;li&gt;Lose-Blatt-Sammlungen (LBS) – Verwaltungsvorschrift des StMELF – für den Verwaltungsvollzug&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die nationalen Regelungen zur 1. Säule (GAPDZG, GAPDZV, GAPInVeKoSG, GAPInVeKoSV) werden, soweit dies für ein einheitliches Vorgehen erforderlich ist, auf die Ausgleichszulage entsprechend angewendet. Gleiches gilt für die Regelungen in der BayGAPV. Die Förderung erfolgt als freiwillige Leistung ohne Rechtsanspruch im Rahmen der verfügbaren Haushaltsmittel als Zuwendung &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;i.S.d.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 23 und 44 BayHO. Es gelten die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VV&lt;/abbr&gt; zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 44 BayHO, soweit sich aus dieser Richtlinie nichts Abweichendes ergibt.&lt;/p&gt;&lt;h2&gt;1. Zuwendungszweck&lt;/h2&gt;&lt;p&gt;Ziel ist die Förderung tragfähiger landwirtschaftlicher Einkommen sowie der Widerstandsfähigkeit des Agrarsektors zur Verbesserung der langfristigen Ernährungssicherheit und der landwirtschaftlichen Vielfalt sowie Absicherung der wirtschaftlichen Tragfähigkeit der landwirtschaftlichen Erzeugung. Darüber hinaus soll die Förderung zur Eindämmung und Umkehr des Verlusts an Biodiversität, Verbesserung der Ökosystemleistungen und Erhaltung von Lebensräumen und Landschaften beitragen.&lt;/p&gt;&lt;h2&gt;2. Gegenstand der Förderung&lt;/h2&gt;&lt;p&gt;Gefördert wird die Bewirtschaftung landwirtschaftlicher Flächen in den benachteiligten Gebieten Bayerns, indem die Einkommensverluste und zusätzlichen Kosten, die in benachteiligten Gebieten wirtschaftenden Landwirten im Vergleich mit Landwirten in nicht benachteiligten Gebieten entstehen, teilweise ausgeglichen werden.&lt;/p&gt;&lt;p&gt;Die benachteiligten Gebiete wurden mit Bekanntmachung des StMELF über das Gebietsverzeichnis der benachteiligten landwirtschaftlichen Gebiete im Sinne des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 32 der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) Nr. 1305/2013 vom 29. November 2018 gemarkungsscharf festgelegt.&lt;/p&gt;&lt;p&gt;Die Flächendaten des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS) enthalten die entsprechenden Informationen zur Gebietszugehörigkeit.&lt;/p&gt;&lt;h2&gt;3. Zuwendungsempfänger&lt;/h2&gt;&lt;p&gt;Zuwendungsempfänger sind natürliche oder juristische Personen oder Vereinigungen natürlicher oder juristischer Personen unabhängig von der Rechtsform, die eine landwirtschaftliche Tätigkeit&lt;sup&gt;1)&lt;/sup&gt; auf Flächen, deren Nutzung überwiegend landwirtschaftlichen Zwecken dient, in benachteiligten Gebieten ausüben, die Flächen selbst bewirtschaften und aktiver Betriebsinhaber im Sinne des § 8 GAPDZV sind.&lt;/p&gt;&lt;h2&gt;4. Förderkriterien&lt;/h2&gt;&lt;p&gt;Der Zuwendungsempfänger muss&lt;/p&gt;&lt;ul&gt;&lt;li&gt;eine landwirtschaftlich genutzte Fläche (LF) von mindestens 3 ha in benachteiligten Gebieten in Bayern bewirtschaften,&lt;/li&gt;&lt;li&gt;seinen Betriebssitz im Sinne von § 2 GAPInVeKoSV in Bayern haben;&lt;br /&gt;unterliegt der Betriebsinhaber in Deutschland nicht der Festsetzung der Einkommensteuer &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; befindet sich im Falle von Körperschaften, Personenvereinigungen und Vermögensmassen die Geschäftsleitung nicht in Deutschland, so muss der überwiegende Anteil der vom Betriebsinhaber in Deutschland bewirtschafteten LF in Bayern liegen,&lt;/li&gt;&lt;li&gt;eine Kapitalbeteiligung der öffentlichen Hand von weniger als 25% des Eigenkapitals des Unternehmens aufweisen.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;5. Art, Umfang und Höhe der Zuwendung&lt;/h2&gt;&lt;h3&gt;5.1 Art der Zuwendung&lt;/h3&gt;&lt;p&gt;Die Zuwendung wird als Projektförderung in Form eines Zuschusses (Festbetragsfinanzierung) gewährt.&lt;/p&gt;&lt;h3&gt;5.2 Umfang der Zuwendung&lt;/h3&gt;&lt;p&gt;Die AGZ wird entsprechend dem Umfang der im Antragsjahr bewirtschafteten LF einschließlich beihilfefähiger Landschaftselemente in den benachteiligten Gebieten Bayerns (förderfähige Fläche (2)) gewährt. Bei Almen/Alpen ist bei der Ermittlung der förderfähigen Fläche grundsätzlich auf die Lichtweidefläche abzustellen.&lt;/p&gt;&lt;h3&gt;5.3 Höhe der Förderung&lt;/h3&gt;&lt;p&gt;Die Höhe der AGZ je ha LF richtet sich nach dem Grad der Benachteiligung der förderfähigen Flächen des jeweiligen Betriebes und wird nach dem Bewirtschaftungssystem des jeweiligen Betriebes differenziert.Darüber hinaus kann ein ergänzender Zuschlag für Flächen mit einer hohen Hangneigung gemäß Nr. 5.3.4 gewährt werden. Die Höhe der Förderung einschließlich des Zuschlags ist auf maximal 200 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha begrenzt.&lt;/p&gt;&lt;p&gt;Unabhängig vom Grad der Benachteiligung und dem Bewirtschaftungssystem werden für die Bewirtschaftung anerkannter Almen/Alpen und Flächen über 1.000 m Höhe 200 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha gewährt.&lt;/p&gt;&lt;h4&gt;5.3.1 Grad der Benachteiligung&lt;/h4&gt;&lt;p&gt;Der Grad der Benachteiligung richtet sich nach der Durchschnitts-EMZ (Ertragsmesszahl) der förderfähigen Flächen des jeweiligen Betriebes. Die Durchschnitts-EMZen werden jährlich aus den Feldstücks-EMZen der förderfähigen Flächen errechnet. Alm-/Alpflächen und Flächen über 1.000 m Höhe bleiben bei dieser Berechnung außer Ansatz.&lt;/p&gt;&lt;p&gt;Liegen für Feldstücke keine EMZen vor, wird jeweils die Durchschnitts-EMZ der Gemarkung, in der die jeweilige Fläche liegt, verwendet.&lt;/p&gt;&lt;p&gt;Die Feldstücks-EMZen ergeben sich aus den Bodenschätzungs-Ergebnissen. Maßgeblich für die Höhe der Förderung sind die Bodenschätzungs-Ergebnisse und die Durchschnitts-EMZ der Gemarkungen, die von der Finanzverwaltung jährlich zur Verfügung gestellt werden.&lt;/p&gt;&lt;h4&gt;5.3.2 Bewirtschaftungssystem&lt;/h4&gt;&lt;p&gt;Die Einstufung in ein Bewirtschaftungssystem richtet sich nach dem Anteil der Dauergrünlandflächen an der LF. Dabei wird unterschieden in&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bewirtschaftungssystem „Dauergrünlandanteil ab 65% der LF“,&lt;/li&gt;&lt;li&gt;Bewirtschaftungssystem „Dauergrünlandanteil unter 65% der LF“.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Betrachtet werden hierbei nur die in Bayern gelegenen Flächen.&lt;/p&gt;&lt;h4&gt;5.3.3 Zuschussstaffelung&lt;/h4&gt;&lt;p&gt;Die Höhe der Förderung beträgt für alle förderfähigen Flächen (keine Almen/Alpen und Flächen über 1.000 m Höhe) in allen benachteiligten Gebieten einheitlich&lt;/p&gt;&lt;ul&gt;&lt;li&gt;für Betriebe im Bewirtschaftungssystem „Dauergrünlandanteil ab 65% der LF“ für alle förderfähigen Flächen bei einer Durchschnitts-EMZ von&lt;ul&gt;&lt;li&gt;3.100/ha und darunter den Höchstbetrag: 200 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha&lt;/li&gt;&lt;li&gt;3.700/ha und darüber den Grundbetrag: 50 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha&lt;/li&gt;&lt;li&gt;3.101/ha bis 3.699/ha nach folgender Formel&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fördersatz (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha) = 200 – [(maßgebliche EMZ/100 – 31,00) * 25,0]&lt;/p&gt;&lt;p&gt;Die Staffelung nach abnehmender EMZ beträgt je 100 EMZ-Punkte 25,0 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;für Betriebe im Bewirtschaftungssystem „Dauergrünlandanteil unter 65% der LF“ für alle förderfähigen Flächen bei einer Durchschnitts-EMZ von&lt;ul&gt;&lt;li&gt;2.850/ha und darunter den Höchstbetrag: 100 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha&lt;/li&gt;&lt;li&gt;3.850/ha und darüber den Grundbetrag: 25 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha&lt;/li&gt;&lt;li&gt;2.851/ha bis 3.849/ha nach folgender Formel&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fördersatz (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha) = 200 – [(maßgebliche EMZ/100 – 28,50) * 7,5]&lt;/p&gt;&lt;p&gt;Die Staffelung nach abnehmender EMZ beträgt je 100 EMZ-Punkte 7,5 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha.&lt;/p&gt;&lt;p&gt;Grafische Darstellung der Zuschussstaffelung&lt;/p&gt;&lt;p&gt;[Abbildung nicht abgedruckt]&lt;/p&gt;&lt;h4&gt;5.3.4 Ergänzender Hangzuschlag&lt;/h4&gt;&lt;p&gt;Steilflächen (ab 100 qm) eines Nutzungsschlages mit einer Hangneigung &amp;gt; 20% werden zusätzlich mit 50 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt;/ha förderfähige Fläche gefördert.&lt;/p&gt;&lt;h4&gt;5.3.5 Kürzung der Zahlungen in Abhängigkeit der Betriebsgröße (Degression)&lt;/h4&gt;&lt;p&gt;Die Zahlungen werden in Abhängigkeit von der gesamten LF des Betriebs wie folgt gekürzt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bis zum 75. ha: Keine Kürzung,&lt;/li&gt;&lt;li&gt;über dem 75. ha bis zum 150. ha: Kürzung der Zahlung je ha um 35%,&lt;/li&gt;&lt;li&gt;über dem 150. ha bis zum 250. ha: Kürzung der Zahlung je ha um 65%,&lt;/li&gt;&lt;li&gt;über dem 250. ha: Kürzung der Zahlung je ha um 100%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Betrachtet werden hierbei nur die in Bayern gelegenen Flächen.&lt;/p&gt;&lt;p&gt;Bei gemeinschaftlich bewirtschafteten Almen/Alpen erfolgt die Kürzung der Zahlungen auf Ebene der einzelnen aktiven Mitglieder, wenn&lt;/p&gt;&lt;ul&gt;&lt;li&gt;für die gemeinschaftlich bewirtschaftete Alm/Alpe auf der Basis einer eigenen InVeKoS-Betriebsnummer ein eigener Zahlungsantrag gestellt wird,&lt;/li&gt;&lt;li&gt;die Alm/Alpe die Bedingungen der AnerkAlm/AlpRL erfüllt,&lt;/li&gt;&lt;li&gt;die Alm/Alpe in der Adressdatenbank im iBALIS als Gemeinschaftsalm/Gemeinschaftsalpe geführt wird und dieser dort auch die aktiven Mitglieder mit Tierhaltung zugeordnet werden und&lt;/li&gt;&lt;li&gt;die Rechte und Pflichten der Mitglieder/des Geschäftsführers schriftlich niedergelegt sind (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Satzung).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Aktive Mitglieder müssen jeweils im Antragsjahr die Voraussetzungen gemäß Nr. 3 erfüllen, in eigenem Namen einen Mehrfachantrag (MFA) stellen, über Weiderechte &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; über Anteile an der Alm/Alpe verfügen und Beschläger der Alm/Alpe mit Rindern, Schafen oder Ziegen sein, die auch im eigenen Betrieb gehalten werden.&lt;/p&gt;&lt;p&gt;Bei Begünstigten, die einen Einzelbetrieb bewirtschaften und gleichzeitig aktives Mitglied einer gemeinschaftlich bewirtschafteten Alm/Alpe sind, erfolgt die Kürzung der Zahlungen getrennt.&lt;/p&gt;&lt;h2&gt;6. Verfahren&lt;/h2&gt;&lt;h3&gt;6.1 Zuständige Behörde&lt;/h3&gt;&lt;p&gt;Antrags- und Bewilligungsbehörde ist das für den Betriebssitz zuständige Amt für Ernährung, Landwirtschaft und Forsten (AELF), das auch die Betriebsnummer führt.&lt;/p&gt;&lt;h3&gt;6.2 Antragstellung&lt;/h3&gt;&lt;p&gt;Die jährliche Antragstellung erfolgt mit dem MFA bis zum 15. Mai.&lt;/p&gt;&lt;p&gt;Im Rahmen von Veröffentlichungen und in öffentlicher Kommunikation im Zusammenhang mit dem Förderprogramm sowie in direkter Kommunikation mit Antragstellern ist ausdrücklich darauf hinzuweisen, dass Zuwendungen aus dem Programm freiwillige Leistungen darstellen und nur insoweit bewilligt werden können, als dafür Haushaltsmittel zur Verfügung stehen, und deshalb unter Umständen wegen Überzeichnung des Förderprogramms nur eine reduzierte Zuwendung gewährt werden kann.&lt;/p&gt;&lt;p&gt;Grundlage für die Bemessung der Zuwendung sind die aktuellen Daten des MFA. Der Antragsteller ist verpflichtet, die gesamte von ihm bewirtschaftete LF im Flächen- und Nutzungsnachweis inklusive der konkreten Nutzung anzugeben. Der Verwendungsnachweis (einfacher Verwendungsnachweis) nach &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VV&lt;/abbr&gt; Nr. 10.2 zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 44 BayHO gilt mit der Stellung des Mehrfachantrages als erbracht.&lt;/p&gt;&lt;p&gt;Die Feststellung, ob und in welchem Umfang sich die gemeldeten Flächen innerhalb des benachteiligten Gebiets befinden, erfolgt durch die Verwaltung.&lt;/p&gt;&lt;p&gt;Die Feststellung, welchem Bewirtschaftungssystem (Dauergrünlandanteil unter 65% der LF &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Dauergrünlandanteil ab 65% der LF) ein Begünstigter zuzuordnen ist, erfolgt durch die Verwaltung. Das Gleiche gilt für die Entscheidung, ob &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; in welchem Umfang der unter Nr. 5.3.4 aufgeführte Hangzuschlag gewährt wird.&lt;/p&gt;&lt;p&gt;Die Entscheidung erfolgt jeweils auf Basis der festgestellten Flächen.&lt;/p&gt;&lt;p&gt;Die Flächen werden jeweils zu folgenden Kulturgruppen zusammengefasst:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Flächen im „Bewirtschaftungssystem Standard“ (unter 65% Dauergrünlandanteil der LF),&lt;/li&gt;&lt;li&gt;Flächen im „Bewirtschaftungssystem Dauergrünland“ (ab 65% Dauergrünlandanteil der LF),&lt;/li&gt;&lt;li&gt;Alm-/Alpflächen und Flächen über 1.000 m Höhe.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;6.3 Antragsbearbeitung&lt;/h3&gt;&lt;p&gt;Die zuständige Bewilligungsbehörde prüft die Antragsangaben und bewilligt &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ggf.&lt;/abbr&gt; die Zuwendung.&lt;/p&gt;&lt;p&gt;&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VV&lt;/abbr&gt; 1.3 zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 44 BayHO findet keine Anwendung.&lt;/p&gt;&lt;p&gt;Die für die Berechnung und Auszahlung der Zuwendungen sowie die für die Erstellung der für die Europäischen Kommission bestimmten Berichte erforderlichen Daten werden von der Bewilligungsbehörde vor der Bewilligung der Zuwendung im zentralen EDV-System (iBALIS) erfasst. Der Bewilligungsbescheid wird i.d.R. zentral gedruckt und an den Zuwendungsempfänger versandt. Die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P) werden abweichend von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VV&lt;/abbr&gt; Nr. 5.1 zu &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 44 BayHO nicht zum Bestandteil des Bescheids gemacht. Entsprechende Regelungen zu Nr. 1.1, 5.2, 5.6 und 7 der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P werden im Bewilligungsbescheid neben den anderen maßnahmenspezifischen Nebenbestimmungen aufgenommen. Zudem wird entsprechend Nr. 8 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P im Bescheid auf die Erstattung der Zuwendung sowie die Verzinsung hingewiesen. Darüber hinaus findet Nr. 6 der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P keine Anwendung.&lt;/p&gt;&lt;p&gt;Erst nach Durchführung der Kontrollen durch die zuständige Bewilligungsbehörde werden die Zuwendungen zentral ausbezahlt. Die Antragsbearbeitung erfolgt entsprechend den einschlägigen Regelungen und Vollzugshinweisen.&lt;/p&gt;&lt;h3&gt;6.4 Kontrollen&lt;/h3&gt;&lt;p&gt;Die Kontrollen bestehen aus Verwaltungskontrollen, Kontrollen im Rahmen des Flächenmonitorings sowie Vor-Ort-Kontrollen im Rahmen des InVeKoS und der Konditionalität gemäß den einschlägigen Regelungen und Vollzugshinweisen entsprechend den Regelungen des/der GAPInVeKoSG &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;i.V.m.&lt;/abbr&gt; GAPInVeKoSV sowie GAPKondG &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;i. V. m.&lt;/abbr&gt; GAPKondV.&lt;/p&gt;&lt;p&gt;Die Kontrolle der Voraussetzungen gemäß AnerkAlm/AlpRL erfolgt durch die Fachzentren für Alm- und Alpwirtschaft des jeweils zuständigen AELF.&lt;/p&gt;&lt;p&gt;Die Kontrolle der Konditionalität erfolgt neben den InVeKoS-Kontrollen der Zahlstelle gemäß § 2 BayGAPV auch durch die im jeweiligen Fachrecht zuständigen benannten Behörden und Institutionen.&lt;/p&gt;&lt;h3&gt;6.5 Ahndung von Abweichungen und Verstößen&lt;/h3&gt;&lt;p&gt;Bei Abweichungen zwischen der angemeldeten und der ermittelten Fläche einer Kulturgruppe werden § 42, § 43, § 44 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 1 und 2 und § 47 GAPInVeKoSV analog angewendet.&lt;/p&gt;&lt;p&gt;Eine Übererklärung wird in Anlehnung an § 48 GAPInVeKoSV und § 14 GAPInVeKoSG erst ab dem Schwellenwert von 0,1 ha über alle Kulturgruppen berücksichtigt.&lt;/p&gt;&lt;p&gt;Bei einer Einreichung des Mehrfachantrags nach dem 15. Mai des Antragsjahres findet § 46 GAPInVeKoSV entsprechend Anwendung.&lt;/p&gt;&lt;p&gt;Die Nichteinhaltung von Förderkriterien hat die Ablehnung des Antrags &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; die Aufhebung des Bewilligungsbescheides zur Folge.&lt;/p&gt;&lt;p&gt;Wird festgestellt, dass der Antragsteller falsche Nachweise vorgelegt hat, um die Zuwendung zu erhalten, oder hat er versäumt, die erforderlichen Informationen zu liefern, so wird die Zuwendung abgelehnt oder vollständig zurückgenommen. Das Gleiche gilt, wenn der Antragsteller falsche Angaben gemacht hat, um die Zuwendung zu erhalten.&lt;/p&gt;&lt;p&gt;Unbeschadet davon ist beim Verdacht auf Subventionsbetrug entsprechend den internen Vorgaben zu verfahren.&lt;/p&gt;&lt;p&gt;Bei Verstößen gegen die Vorgaben der Konditionalität kommen die Regelungen zur Berechnung der Verwaltungssanktion nach GAPKondV und GAPKondG &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;i.V.m.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 84 und 85 Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2021/2116 zur Anwendung.&lt;/p&gt;&lt;p&gt;In Fällen höherer Gewalt oder außergewöhnlicher Umstände im Sinne von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 3 Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2021/2116, behält der Begünstigte nach &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 59 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 5 Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2021/2116 seinen Anspruch auf Erhalt der AGZ.&lt;/p&gt;&lt;p&gt;Die Aufhebung (Rücknahme oder Widerruf) von Bescheiden sowie die Rückforderung und Verzinsung richten sich nach &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 48, 49 und 49a Bayerisches Verwaltungsverfahrensgesetz &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;i.V.m.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 17 des Gesetzes über Zuständigkeiten und den Vollzug von Rechtsvorschriften im Bereich der Land- und Forstwirtschaft. Die Erhebung von Kosten richtet sich nach dem Kostengesetz.&lt;/p&gt;&lt;h2&gt;7. Inkrafttreten, Außerkrafttreten&lt;/h2&gt;&lt;p&gt;Diese Richtlinie tritt mit Wirkung vom 23. November 2023 in Kraft und tritt am 31. Dezember 2027 außer Kraft.&lt;/p&gt;&lt;table data-gsb="true"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;&amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0; &amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0;&amp;#xa0; &amp;#xa0;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;&lt;p&gt;1) Definition s. § 3 GAPDZV&amp;#xa0;&lt;/p&gt;&lt;p&gt;2) Definition s. § 11 GAPDZV, ausgenommen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 1 Nr. 3 c) und d)&amp;#xa0;&lt;/p&gt;&lt;p&gt;&amp;#xa0;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/A/aemter-fuer-ernaehrung-und-forsten-bayern"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/S/stmelf-bayern-de-agrarpolitik-foerderung-000962"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/land_forst_fischwirtschaft"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/landwirtschaft_laendliche_entwicklung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_LandwirtschaftLaendlicheEntwicklung/besondere_formen_der_landbewirtschaftung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;13031-a&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2020-04-02T21:50:31.476+02:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Landwirtschaft Nachteilsausgleich Einkommensnachteil Kulturlandschaft Kompensation</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Richtlinie des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten vom 1. März 2019, Bayerisches Ministerialblatt Nr. 143 vom 17. April 2019; geändert durch Bekanntmachung des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten vom 4. Februar 202, Bayerisches Ministerialblatt Nr. 186 vom 10. März 2021.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind Inhaberinen und Inhaber landwirtschaftlicher Unternehmen mit Sitz in Bayern, die in benachteiligten Gebieten in Bayern mindestens 3 Hektar landwirtschaftlich genutzte Flächen (LF) selbst bewirtschaften.&lt;/p&gt;&lt;p&gt;Die Förderung ist an folgende Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ihre landwirtschaftlich genutzte Fläche muss in benachteiligten Gebieten liegen. Maßgeblich für die Abgrenzung der Ausgleichszulagengebiete ist das Gebietsverzeichnis in der aktuell geltenden Fassung.&lt;/li&gt;&lt;li&gt;Sie müssen die obligatorischen Grundanforderungen der Cross-Compliance-Vorschriften zu erfüllen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Von der Förderung ausgeschlossen sind landwirtschaftliche Betriebe, an denen die öffentliche Hand mit mehr als 25 Prozent des Eigenkapitals beteiligt ist.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Der Freistaat Bayern gewährt mit Unterstützung des Bundes und der Europäischen Union landwirtschaftlichen Betrieben in&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Berggebieten,&lt;/li&gt;&lt;li&gt;Gebieten, die aus erheblichen naturbedingten Gründen benachteiligt sind, sowie&lt;/li&gt;&lt;li&gt;Gebieten, die aus anderen Gründen benachteiligt sind,&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;einen anteiligen Ausgleich für Einkommensverluste und zusätzliche Kosten, die Landwirtinnen und Landwirten in nicht benachteiligten Gebieten nicht entstehen.&lt;/p&gt;&lt;p&gt;Sie bekommen die Förderung als Flächenprämie.&lt;/p&gt;&lt;p&gt;Die Höhe der Ausgleichszulage hängt vom Grad der Benachteiligung und vom Bewirtschaftungssystem (Dauergrünlandanteil ab 65 Prozent beziehungsweise unter 65 Prozent der Landfläche) ab. Sie beträgt maximal EUR 200,00 pro Hektar.&lt;/p&gt;&lt;p&gt;Der Grad der Benachteiligung wird anhand der Durchschnitts-EMZ (Ertragsmesszahl) der förderfähigen Flächen des Betriebes ermittelt.&lt;/p&gt;&lt;p&gt;Für die historisch benachteiligte Agrarzone gelten in den Antragsjahren 2019 bis einschließlich 2022 besondere Übergangszahlungen.&lt;/p&gt;&lt;p&gt;Anträge reichen Sie bitte mit dem Mehrfachantrag zu den festgelegten Terminen beim zuständigen Amt für Ernährung, Landwirtschaft und Forsten (AELF) ein.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie einen landwirtschaftlichen Betrieb in einem benachteiligten Gebiet betreiben und wegen der natürlichen ungünstigen Standortbedingungen Einkommensverluste und zusätzliche Kosten haben, können Sie unter bestimmten Voraussetzungen eine Ausgleichszulage erhalten.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Ausgleichszulage in benachteiligten Gebieten (AGZ)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

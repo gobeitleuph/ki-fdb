@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="e-lastenfahrrad-richtlinie" path="/BMWI/FDB/Content/DE/Foerderprogramm/Bund/BMWi" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Rechtsgrundlage&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Richtlinie für die Bundesförderung von E-Lastenfahrrädern für den fahrradgebundenen Lastenverkehr in der Wirtschaft im Rahmen der Nationalen Klimaschutzinitiative (E-Lastenfahrrad-Richtlinie) vom 29.08.2024&lt;/p&gt;&lt;p&gt;Die Förderung kann innerhalb der Geltungsdauer der Förderrichtlinie beantragt werden.&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/R/richtlinie-e-lastenfahrrad" xlink:show="replace"&gt;Weblink zur Förderrichtlinie&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/B/bafa-ref525-30256"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/B/bafa-de"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/elastenfahrrad-antrag"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/_bundesweit"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/energieeffizienz_erneuerbare_energien"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/mobilitaet"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/unternehmensfinanzierung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/umwelt_naturschutz"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bmwk-bundesministerium_wirtschaft_klimaschutz"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Unternehmensfinanzierung/betriebliche_investitionen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_EnergieeffizienzErneuerbareEnergien/betriebliche_private_investitionen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_UmweltNaturschutz/betriebliche_private_investitionen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;#861161&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;h6&gt;Erforderliche Unterlagen&lt;/h6&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Folgende Unterlagen sind zusammen mit dem elektronischen Antragsformular der Bewilligungsbehörde zu übermitteln:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;unverbindliches Angebot, aus dem die geplante Anschaffung (Hersteller und Typ des E-Lastenfahrrades bzw. E-Lastenanhängers) hervorgehen,&lt;/li&gt;&lt;li&gt;Projektbeschreibung und&lt;/li&gt;&lt;li&gt;ggf. Nachweis zur Gewerbe- oder freiberuflichen Tätigkeit.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nach der Anschaffung des E-Lastenfahrrades bzw. des E-Lastenanhängers hat der Antragstellende den sog. Verwendungsnachweis über ein von der Bewilligungsbehörde zur Verfügung gestelltes elektronisches Formular zu führen. Im Rahmen des Verwendungsnachweises sind mindestens folgende Unterlagen und Nachweise zu erbringen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Rechnung(en),&lt;/li&gt;&lt;li&gt;­Lieferungs- und Leistungsvertrag (Auftrag- oder Bestellbestätigung) und&lt;/li&gt;&lt;li&gt;­Fotographie des angeschafften E-Lastenfahrrades bzw. E-Lastenanhängers.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2024-09-27T16:13:46.667+02:00</value>
+    </property>
+    <property name="gsb:externalID" type="String">
+        <value>99400162017000</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Die Förderung kann innerhalb der Geltungsdauer der Förderrichtlinie beantragt werden (siehe Rechtsgrundlage).&lt;/p&gt;&lt;p&gt;Der (Bewilligungs-) Zeitraum, innerhalb dessen das E-Lastenfahrrad oder der E Lastenanhänger angeschafft werden muss, beträgt 12 Monate, beginnend ab Zugang des Bewilligungsbescheides der Bewilligungsbehörde.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Die Förderung / der Zuschuss muss bei der Bewilligungsbehörde über ein elektronisches Formular beantragt werden, das auf Webseite der Bewilligungsbehörde (www.bafa.de) aufgerufen werden kann.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Nach Prüfung des Antrages sowie der erforderlichen Unterlagen und sofern alle Fördervoraussetzungen erfüllt sind, erteilt die Bewilligungsbehörde einen Zuwendungsbescheid.&lt;/li&gt;&lt;li&gt;Nach Erhalt des Zuwendungsbescheides darf der Antragsteller den Kaufvertrag für das E-Lastenrad bzw. den E-Lastenanhänger abschließen.&lt;/li&gt;&lt;li&gt;Nach der Anschaffung des E-Lastenrades bzw. des E-Lastenradanhängers führt der Antragsteller den sog. Verwendungsnachweis über ein von der Bewilligungsbehörde zur Verfügung gestelltes elektronisches Formular.&lt;/li&gt;&lt;li&gt;Der Zuschuss wird nach Prüfung der sachgerechten Verwendung an den Antragsteller unbar ausgezahlt.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;1 bis 5 Wochen&lt;/p&gt;&lt;p&gt;Die durchschnittliche Bearbeitungsdauer beträgt&lt;/p&gt;&lt;ul&gt;&lt;li&gt;2 Wochen bis zur Erteilung des Bewilligungsbescheides und&lt;/li&gt;&lt;li&gt;5 Wochen bis zur Auszahlung des Zuschusses.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Diese Angaben verstehen sich einschließlich der erforderlichen Rückfragen an den Antragsteller zur Aufklärung unklarer Sachverhalte und zur Vervollständigung unvollständiger Unterlagen&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Förderfähige E-Lastenfahrräder sowie E-Lastenanhänger müssen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;serienmäßig und fabrikneu sein,&lt;/li&gt;&lt;li&gt;jeweils ein zulässiges Gesamtgewicht von mindestens 170 kg aufweisen und&lt;/li&gt;&lt;li&gt;Transportmöglichkeiten bieten, die unlösbar mit dem Fahrrad verbunden sind und mehr Volumen aufnehmen können als ein herkömmliches Fahrrad.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie müssen für den gewerblichen Transport von Gütern eingesetzt werden. Die private Nutzung und der Transport von Personen sind ausgeschlossen.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Der Bund gewährt auf Antrag über das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) nicht rückzahlbare Zuschüsse für die Anschaffung von E-Lastenfahrrädern (Lastenpedelecs) und Lastenanhängern mit elektrischer Antriebsunterstützung für den fahrradgebundenen Lastenverkehr in Industrie, Gewerbe, Handel und Dienstleistungen.&lt;/p&gt;&lt;p&gt;Zuschüsse müssen über ein elektronisches Formular beantragt werden. Das BAFA stellt das elektronische Formular auf seiner Webseite (www.bafa.de) zur Verfügung.&lt;/p&gt;&lt;p&gt;Förderfähig sind alle in der Positivliste der Bewilligungsbehörde (BAFA) aufgelisteten E-Lastenfahrräder und Lastenanhänger mit elektrischer Antriebsunterstützung.&lt;/p&gt;&lt;p&gt;Nicht förderfähig sind E-Lastenfahrräder und Lastenanhänger mit elektrischer Antriebsunterstützung, die für den Personentransport konzipiert sind (z.B. Rikschas) oder die für private Einsatzzwecke (z.B. Einkäufe, Arbeitswege) angeschafft werden.&lt;/p&gt;&lt;p&gt;Antragsberechtigt sind:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;private Unternehmen&lt;/li&gt;&lt;li&gt;Körperschaften / Anstalten des öffentlichen Rechts&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Förderung wird als nicht rückzahlbarer Zuschuss gewährt. Der Zuschuss beträgt 25 Prozent der Ausgaben für die Anschaffung, maximal jedoch 3.500 Euro pro E-Lastenfahrrad bzw. Lastenanhänger mit E-Antrieb.&lt;/p&gt;&lt;p&gt;Die Auszahlung des Zuschusses erfolgt unbar nach Abschluss der Prüfung sämtlicher im Antrags- und Verwendungsnachweisverfahren vorzulegenden Unterlagen.&lt;/p&gt;&lt;p&gt;Der Antragsteller muss Eigentümer der angeschafften Gegenstände (E-Lastenfahrrad bzw. Lastenanhänger mit E-Antrieb) werden.&lt;/p&gt;&lt;p&gt;Die Förderung kann nicht gewährt werden, wenn der Antragsteller zum Zeitpunkt der Bewilligung mit dem Vorhaben bereits begonnen hat, d.h. wenn er bereits vor Zugang des Bewilligungsbescheides ein Lieferungsvertrag abgeschlossen hat.&lt;/p&gt;&lt;p&gt;Der (Bewilligungs-) Zeitraum, innerhalb dessen das E-Lastenfahrrad oder der E Lastenfahrradanhänger angeschafft werden muss, beträgt zwölf Monate, beginnend ab Zugang des Bewilligungsbescheides der Bewilligungsbehörde.&lt;/p&gt;&lt;p&gt;Die geförderten Gegenstände (Rad bzw. Anhänger) müssen sich auf dem Gebiet der Bundesrepublik Deutschland befinden. Sie sind nach der Anschaffung mindestens drei Jahre im Sinne der Förderrichtlinie zu betreiben. Innerhalb dieses Zeitraums darf ein geförderter Gegenstand nicht stillgelegt werden. Die vorzeitige Stilllegung (Außerbetriebnahme) führt regelmäßig zum Widerruf der Zuwendung.&lt;/p&gt;&lt;p&gt;Die Veräußerung eines geförderten Gegenstandes bedarf der vorherigen Zustimmung der Bewilligungsbehörde. Die Zustimmung kann grundsätzlich nur erteilt werden, wenn der neue Eigentümer vollständig in die aus der Förderung resultierenden Rechte und Pflichten eintritt und sofern sich aus der Übertragung / Veräußerung keine Nachteile für den Bund und/oder Verstöße gegen das Beihilfe- oder Zuwendungsrecht ergeben.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Die Anschaffung von E-Lastenfahrrädern und Lastenanhängern mit elektrischer Antriebsunterstützung wird mit einem nicht rückzahlbaren Zuschuss gefördert. Förderfähig sind 25 Prozent der Ausgaben für die Anschaffung, maximal jedoch 3.500 Euro pro E-Lastenfahrrad bzw. Lastenanhänger mit E-Antrieb.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Förderung von E-Lastenfahrrädern und E-Lastenanhängern&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

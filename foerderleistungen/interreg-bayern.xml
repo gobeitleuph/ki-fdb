@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="interreg-bayern" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Europäische territoriale Zusammenarbeit (INTERREG V) in Bayern&lt;/strong&gt;&lt;/p&gt;&lt;h2&gt;Ziel und Gegenstand&lt;/h2&gt;&lt;p&gt;Im Rahmen des Ziels „Europäische territoriale Zusammenarbeit“ (INTERREG V) fördert die Europäische Union aus Mitteln des Europäischen Fonds für regionale Entwicklung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EFRE&lt;/abbr&gt;) die grenzübergreifende, transnationale und interregionale Zusammenarbeit zwischen den Regionen.&lt;/p&gt;&lt;p&gt;Der Freistaat Bayern ist in der Förderperiode 2021 bis 2027 an folgenden INTERREG-V-Programmen beteiligt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Grenzübergreifende Zusammenarbeit Bayern – Tschechien (INTERREG V A)&lt;br /&gt;Förderschwerpunkte sind Projekte in den Bereichen „Forschung und Wissenstransfer“ (Prioritätsachse 1), „Anpassung an den Klimawandel und Umweltschutz“ (Prioritätsachse 2), „allgemeine und berufliche Bildung sowie lebenslanges Lernen“ (Prioritätsachse 3), „Kultur und nachhaltiger Tourismus“ (Prioritätsachse 4) sowie „bessere Interreg &lt;span class="xmllang--en-GB" data-gsb="true"&gt;Governance&lt;/span&gt;“ (Prioritätsachse 5).&lt;/li&gt;&lt;li&gt;Grenzübergreifende Zusammenarbeit Bayern – Österreich (INTERREG V A)&lt;br /&gt;Förderschwerpunkte sind Projekte in den Bereichen „zukunftsfähige Wirtschaft“ (Prioritätsachse 1), „resiliente Umwelt“ (Prioritätsachse 2), „nachhaltiger Tourismus“ (Prioritätsachse 3), „integrierte Regionalentwicklung“ (Prioritätsachse 4) sowie „grenzüberschreitende &lt;span class="xmllang--en-GB" data-gsb="true"&gt;Governance&lt;/span&gt;“ (Prioritätsachse 5).&lt;/li&gt;&lt;li&gt;Grenzübergreifende Zusammenarbeit Alpenrhein – Bodensee – Hochrhein (INTERREG V A)&lt;br /&gt;Förderschwerpunkte sind grenzschreitende Projekte in den Bereichen „Digitalisierung und Innovation“ (Prioritätsachse 1), „Umwelt, Natur- und Klimaschutz“ (Prioritätsachse 2), „Gesundheit, Bildung, Kultur und Tourismus“ (Prioritätsachse 3), „Zusammenarbeit + Bürgerschaftliches Engagement“ (Prioritätsachse 4).&lt;/li&gt;&lt;li&gt;Transnationale Zusammenarbeit Programmraum Alpen (INTERREG V B)&lt;br /&gt;Förderschwerpunkte sind transnationale Projekte in den Bereichen „klimaresilienter und grüner Alpenraum“ (Prioritätsachse 1), „&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;CO2&lt;/abbr&gt;-neutraler und ressourcensensibler Alpenraum“ (Prioritätsachse 2), „Innovation und Digitalisierung für einen grünen Alpenraum“ (Prioritätsachse 3) sowie „bessere Governance in Bezug auf die Verwaltung“ (Prioritätsachse 4).&lt;/li&gt;&lt;li&gt;Transnationale Zusammenarbeit Programmraum Donau (INTERREG V B)&lt;br /&gt;Förderschwerpunkte sind transnationale Projekte in den Bereichen „innovativer und sozial verantwortlicher Donauraum“ (Prioritätsachse 1), „umwelt- und kulturbewusster Donauraum“ (Prioritätsachse 2), „besser vernetzte und energiebewusste Donauregion“ (Prioritätsachse 3), „bessere &lt;span class="xmllang--en-GB" data-gsb="true"&gt;Governance&lt;/span&gt; der Zusammenarbeit im Donauraum“ (Prioritätsachse 4).&lt;/li&gt;&lt;li&gt;Transnationale Zusammenarbeit Programmraum Mitteleuropa (INTERREG V B)&lt;br /&gt;Förderschwerpunkte sind transnationale Kooperationsprojekte in den Bereichen „Zusammenarbeit für ein intelligenteres Mitteleuropa“ (Prioritätsachse 1), „Zusammenarbeit für ein umweltfreundlicheres Mitteleuropa“ (Prioritätsachse 2), „Zusammenarbeit für ein besser vernetztes Europa“ (Prioritätsachse 3) sowie „bessere Governance für die Zusammenarbeit in Mitteleuropa“ (Prioritätsachse 4).&lt;/li&gt;&lt;li&gt;Transnationale Zusammenarbeit Programmraum Nordwesteuropa (INTERREG V B)&lt;br /&gt;Förderschwerpunkte sind transnationale Projekte in den Bereichen in den Bereichen „Klima und Umwelt“ (Prioritätsachse 1), „Energiewende“ (Prioritätsachse 2), „Kreislaufwirtschaft“ (Prioritätsachse 3), „Innovation und Widerstandsfähigkeit“ (Prioritätsachse 4) sowie „inklusive Gesellschaft“ (Prioritätsachse 5).&lt;/li&gt;&lt;li&gt;StartTransnational&lt;br /&gt;Vorbereitung von Förderanträgen bis zur Einreichungsreife in den transnationalen Programmen.&lt;/li&gt;&lt;li&gt;Interregionale Zusammenarbeit (INTERREG EUROPE)&lt;br /&gt;Förderschwerpunkte sind Kooperationsprojekte von Mitgliedstaaten der Europäischen Union, Norwegen und der Schweiz für den Wissenstransfer zwischen Behörden und Landesregierungen in den Bereichen „&lt;span class="xmllang--en-GB" data-gsb="true"&gt;Smarter Europe&lt;/span&gt;“ (Forschung und Innovation, Digitalisierung, Wettbewerbsfähigkeit von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;, S3, Industrie und Unternehmertum, Digitale Konnektivität) „&lt;span class="xmllang--en-GB" data-gsb="true"&gt;Greener Europe&lt;/span&gt;“ (Energie-Effizienz, erneuerbare Energien, intelligente Energiesysteme, Klimawandel, Wassermanagement, Kreislaufwirtschaft, Umwelt und biologische Vielfalt), „&lt;span class="xmllang--en-GB" data-gsb="true"&gt;More connected Europe&lt;/span&gt;“ (nachhaltiges Verkehrsnetz TEN-V, nachhaltige Mobilität), „&lt;span class="xmllang--en-GB" data-gsb="true"&gt;More social Europe&lt;/span&gt;“ (Bildung, Soziale Inklusion, Integration von Drittstaatenangehörigen, Gesundheitsfürsorge, Kultur und nachhaltiger Tourismus), „&lt;span class="xmllang--en-GB" data-gsb="true"&gt;Europe closer to the citizens&lt;/span&gt;“ (integrierte Stadtentwicklung, integrierte Siedlungsentwicklung außerhalb der Städte), „&lt;span class="xmllang--en-GB" data-gsb="true"&gt;Better regional governance&lt;/span&gt;“ (politische Steuerung).&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Antragsberechtigte&lt;/h2&gt;&lt;p&gt;Antragsberechtigt sind – je nach spezifischen Bedingungen der INTERREG-V-Programme – Kommunen, Unternehmen, Behörden, Kammern, Universitäten, Verbände, Aus- und Weiterbildungseinrichtungen sowie sonstige juristische Personen des öffentlichen und privaten Rechts.&lt;/p&gt;&lt;h2&gt;Voraussetzungen&lt;/h2&gt;&lt;p&gt;Die Projektwirkung muss im Fördergebiet liegen. Informationen über die Abgrenzung der Fördergebiete können im Internet abgerufen werden.&lt;/p&gt;&lt;p&gt;Die Projektpartner müssen sich auf einen federführend zuständigen Partner („Leadpartner“) einigen. Dieser vertritt das Projekt nach außen, insbesondere gegenüber der programmverwaltenden Stelle („Verwaltungsbehörde“).&lt;/p&gt;&lt;p&gt;Für jedes INTERREG-V-Programm gelten spezifische Förderbedingungen und -inhalte.&lt;/p&gt;&lt;p&gt;Mit der Ausführung des Projekts darf vor Antragstellung nicht begonnen werden.&lt;/p&gt;&lt;h2&gt;Art und Höhe der Förderung&lt;/h2&gt;&lt;p&gt;Die Förderung erfolgt in Form eines Zuschusses.&lt;/p&gt;&lt;p&gt;Die Höhe der Förderung ist abhängig von Art und Umfang des Vorhabens.&lt;/p&gt;&lt;h2&gt;Antragsverfahren&lt;/h2&gt;&lt;p&gt;Die Verfahren zur Antragstellung und -prüfung sind spezifisch geregelt. Die für die jeweiligen INTERREG-V-Programme zuständigen Ansprechpartner sind im Internet unter http://www.efre-bayern.de in der Rubrik „Europäische territoriale Zusammenarbeit“ abrufbar.&lt;/p&gt;&lt;p&gt;Weitere Informationen sind beim Bayerischen Staatsministerium für Wirtschaft, Landesentwicklung und Energie erhältlich.&lt;/p&gt;&lt;h2&gt;Die Quelle&lt;/h2&gt;&lt;p&gt;Informationen des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie, Stand Dezember 2022.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/B/bayer-staatsminist-fuer-wirtschaft-stmwi-ref-52"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/efre-bayern-de-europaeische-territoriale-zusammen"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/forschungseinrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/hochschule"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/kommune"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/oeffentliche_einrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/verband_vereinigung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/dienstleistungen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/freie_berufe"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/gastgewerbe_tourismus"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handel"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/handwerk"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/kultur_kreativwirtschaft"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/produzierendes_gewerbe"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/energieeffizienz_erneuerbare_energien"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/forschung_innovation_themenoffen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/regionalfoerderung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/umwelt_naturschutz"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/unternehmensfinanzierung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bayeri_staatsminist_wirtschaft_landesentwi_energie"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Unternehmensfinanzierung/kooperationen_netzwerke"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenoffen/kooperationen_netzwerke"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;11582&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2020-02-12T09:54:41.134+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Kooperation Innovation Forschung &amp; Entwicklung Klimaschutz Umweltschutz  Governance Regionalentwicklung Europa</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Europäische territoriale Zusammenarbeit (INTERREG V) in Bayern&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="bayerisches-sonderprogramm-landwirtschaft-digital" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Richtlinie Bayerisches Sonderprogramm Landwirtschaft Digital&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten&lt;br /&gt;vom 22. Juni 2023, Az. G4-7271-1/1385&lt;/p&gt;&lt;p&gt;Grundlagen dieser Richtlinie sind&lt;/p&gt;&lt;ul&gt;&lt;li&gt;die Bayerische Haushaltsordnung (BayHO), insbesondere &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 23 und 44 BayHO sowie die zugehörigen Verwaltungsvorschriften (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VV&lt;/abbr&gt;) und&lt;/li&gt;&lt;li&gt;die Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Der Freistaat Bayern gewährt Zuwendungen als freiwillige Leistungen ohne Rechtspflicht im Rahmen der verfügbaren Haushaltsmittel.&lt;/p&gt;&lt;p&gt;Diese Richtlinie wurde in Anwendung des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 14 der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 erlassen und bei der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Kommission freigestellt.&lt;/p&gt;&lt;p&gt;Mit der jeweiligen Anrede (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; „Antragsteller“, „Zuwendungsempfänger“) sind in dieser Richtlinie alle Geschlechter gleichermaßen angesprochen.&lt;/p&gt;&lt;h2&gt;Teil A&lt;/h2&gt;&lt;p&gt;(aktuell nicht belegt)&lt;/p&gt;&lt;h2&gt;Teil B&lt;br /&gt;Sensoren und digitale Steuerungstechnik im Pflanzenbau – zum Ressourcenschutz, zur Förderung der Biodiversität und Anpassung an den Klimawandel&lt;/h2&gt;&lt;h3&gt;1. Zuwendungszweck&lt;/h3&gt;&lt;p&gt;Zweck der Zuwendung ist, durch die stärkere Verbreitung von Sensoren &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; digitaler Steuerungstechnik im Pflanzenbau Umwelt und Natur zu entlasten, Grund- und Oberflächengewässer besser zu schützen, einen weiteren Beitrag zum Erhalt der Biodiversität zu leisten und die Resilienz der Freilandbewirtschaftung hinsichtlich klimatischer Veränderungen zu steigern.&lt;/p&gt;&lt;h3&gt;2. Gegenstand der Förderung&lt;/h3&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) Nahinfrarot-Sensoren (NIR-Sensoren) zur Bestimmung der Nährstoffgehalte in Wirtschaftsdüngern einschließlich Jobrechner und der zur Steuerung der Sensoren notwendigen Softwarekomponenten sowie zugehörige Kalibrationspakete und die entsprechenden Ausgaben für den Einbau in ein vorhandenes Güllefass oder eine Pumpstation beziehungsweise als Teilausstattung eines neuen Güllefasses oder einer Pumpstation&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) Sensorsysteme zur Bestimmung der Nährstoffversorgung der Kulturpflanzen (N-Sensoren) einschl. zugehöriger Jobrechner sowie Hard- und Softwarekomponenten (einschl. Düngealgorithmen) zur teilflächenspezifischen organischen oder mineralischen Stickstoffdüngung&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;c) Drohnengetragene Sensorik und Aktorik einschließlich zugehörigem geeigneten Trägergerät (UAV = unmanned aerial vehicle) sowie notwendige Software zur Steuerung, um Pflanzenbestände zu analysieren und/oder Nützlinge &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Saatgut auszubringen.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;d) Digitale Steuerungstechnik und Sensorsysteme (jeweils einschließlich der zur Erreichung des Zuwendungszwecks betriebsnotwendigen Zusatzkomponenten) zur Analyse und Steuerung und damit zur Effizienzsteigerung der Wasserversorgung von Kulturpflanzen im Freilandanbau&lt;/p&gt;&lt;p&gt;Die Fördergegenstände können auch jeweils anteilig beantragt werden (im Rahmen von Bruchteilgemeinschaften).&lt;/p&gt;&lt;h3&gt;3. Zuwendungsempfänger&lt;/h3&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) Unternehmen der Landwirtschaft (einschl. Wein- und Gartenbau) in Bayern, unbeschadet der gewählten Rechtsform, die im Sinne des Anhangs I der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 kleine oder mittlere Unternehmen sind und die in § 1 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 2 des Gesetzes über die Alterssicherung der Landwirte (ALG) genannte Mindestgröße zum Zeitpunkt der Antragstellung erreichen oder überschreiten. Bei Personengesellschaften muss der Gesellschaftsvertrag schriftlich geschlossen sein.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) Rechtsfähige Zusammenschlüsse von Landwirten zum Zwecke der gemeinschaftlichen Anschaffung und Nutzung von Maschinen und Einrichtungen, soweit für alle Beteiligten eine landwirtschaftliche Flächenbewirtschaftung nachgewiesen werden kann. Der Zusammenschluss muss schriftlich vereinbart sein.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;c) Unternehmen in Bayern, die einen landwirtschaftlichen Betrieb bewirtschaften und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgen, soweit sie kleine oder mittlere Unternehmen im Sinne des Anhangs I der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 sind und die in § 1 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 2 ALG genannte Mindestgröße zum Zeitpunkt der Antragstellung erreichen oder überschreiten.&lt;/p&gt;&lt;h3&gt;4. Zuwendungsvoraussetzungen&lt;/h3&gt;&lt;p&gt;Die Gewährung einer Zuwendung setzt voraus, dass&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bei Förderung von Investitionen gemäß 2 a), 2 b) und 2 c) die von der Landesanstalt für Landwirtschaft (LfL) festgelegten Mindestanforderungen erfüllt werden (Aufnahme in die Produktliste),&lt;/li&gt;&lt;li&gt;bei Förderung von Investitionen gemäß 2 d) eine positive Fachstellungahme der zuständigen Fachbehörde mit den Antragsunterlagen vorgelegt wird,&lt;/li&gt;&lt;li&gt;für beantragte Nahinfrarot-Sensoren zur Bestimmung der Nährstoffgehalte in Wirtschaftsdüngern (Nr. 2 a)) eine Zertifizierung der Deutschen Landwirtschafts-Gesellschaft oder eine andere vergleichbare Zertifizierung vorliegt und&lt;/li&gt;&lt;li&gt;innerhalb der jeweiligen Produktgruppe (2 a) bis 2 c)) im BaySL Digital noch keine Zuwendungen für Projekte gewährt wurden, bei denen die Zweckbindungsfristen noch nicht abgelaufen sind.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die im Internet-Förderwegweiser des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF) veröffentlichte Produktliste (ohne Bewässerungssensorik &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; -steuerung) wird fortlaufend aktualisiert. Eine Ergänzung kann auch auf Veranlassung eines Antragstellers oder eines Dritten (insbesondere Hersteller, Händler) erfolgen.&lt;/p&gt;&lt;h3&gt;5. Art, Höhe und Umfang der Zuwendung&lt;/h3&gt;&lt;p&gt;5.1 Zuwendungs- und Finanzierungsart&lt;/p&gt;&lt;p&gt;Die Zuwendungen werden als Zuschuss (Projektförderung) im Wege der Anteilfinanzierung gewährt.&lt;/p&gt;&lt;p&gt;5.2 Höhe der Zuwendung&lt;/p&gt;&lt;p&gt;Die Zuwendung beträgt 40% der nachgewiesenen zuwendungsfähigen Ausgaben. Die zuwendungsfähigen Ausgaben bei Maßnahmen gemäß 2 a), 2 b) und 2 d) sind auf 30.000 Euro begrenzt. Bei Maßnahmen nach 2 c) sind die zuwendungsfähigen Ausgaben auf 15.000 Euro begrenzt.&lt;/p&gt;&lt;p&gt;5.3 Umfang der Zuwendung&lt;/p&gt;&lt;p&gt;In den Teilbereichen (Produktgruppen) 2 a) bis 2 c) wird eine Zuwendung grundsätzlich nur für jeweils einen Förderantrag gewährt. Wurde für einen Förderantrag bereits eine Zuwendung auf Basis einer früheren BaySL-Digital-Förderrichtlinie gewährt, kann eine Zuwendung für einen weiteren Förderantrag bewilligt werden, wenn die fünfjährige Zweckbindungsfrist für den ersten Förderantrag vollständig abgelaufen ist. Im Bereich der Düngesensoren (2 a) und 2 b)) sind jeweils nur die Ausgaben für einen Sensor zuwendungsfähig (inkl. notwendiger Zusatzkomponenten).&lt;/p&gt;&lt;p&gt;Bei Förderanträgen gemäß 2 c) (drohnengetragene Sensorik &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Aktorik) können Investitionen betreffend optischer Pflanzenbestandsanalyse und der Ausbringung von Nützlingen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Saatgut kombiniert werden. Im Rahmen der maximalen zuwendungsfähigen Ausgaben gemäß Nr. 5.2 sind die Ausgaben für ein zugehöriges UAV zuwendungsfähig, wenn dieses gemeinsam mit der förderfähigen Sensorik &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Aktorik angeboten und in Rechnung gestellt wird.&lt;/p&gt;&lt;p&gt;Im Teilbereich 2 d) können mehrere Förderanträge bewilligt werden, sofern die zuwendungsfähigen Gesamtausgaben aller Anträge den Maximalbetrag von 30.000 Euro nicht überschreiten. Der zulässige Förderumfang ergibt sich darüber hinaus aus den vorgelegten Kostenangeboten in Zusammenhang mit der Fachstellungnahme der zuständigen Fachbehörde.&lt;/p&gt;&lt;h2&gt;Teil C&lt;br /&gt;Digitale Hack- und Pflanzenschutztechnik zur Reduzierung des Pflanzenschutzmitteleinsatzes&lt;/h2&gt;&lt;h3&gt;1. Zuwendungszweck&lt;/h3&gt;&lt;p&gt;Zweck der Zuwendung ist die Entlastung von Umwelt, Natur und Ressourcen sowie der Schutz der Biodiversität durch die Verringerung des Einsatzes chemischer Pflanzenschutzmittel sowie der Schutz der Böden. Zudem sollen durch die Förderung Anreize dafür geschaffen werden, um die Beibehaltung der ökologischen Landbewirtschaftung im Sinne der Ziele gemäß &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 1a Bayerisches Naturschutzgesetz zu unterstützen sowie die Innovationskraft und Wettbewerbsfähigkeit der bayerischen Landwirtschaft zu erhalten und die Arbeit der Landwirte zu erleichtern. Dazu dient die Förderung digitaler Technik in der nicht chemischen Beikrautbekämpfung, im selektiven Pflanzenschutz und in der Agrarrobotik.&lt;/p&gt;&lt;h3&gt;2. Gegenstand der Förderung&lt;/h3&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) Erwerb von Feldrobotern (einschl. Zusatzaggregaten), die automatisch Beikraut bekämpfen oder unter größtmöglicher Reduzierung des Bodendrucks landwirtschaftliche Arbeiten ausführen (einschl. Garten- und Weinbau), sowie landwirtschaftliche Arbeiten (auch im Garten- und Weinbau), die ansonsten nur in Handarbeit ausgeführt werden können,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) Erwerb von vollautomatischen Geräten, die zwischen und innerhalb der Pflanzenreihen nicht chemisch Beikraut bekämpfen,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;c) Erwerb von elektronischen Reihenführungen für Geräte, die zwischen den Pflanzenreihen nicht chemisch Beikraut bekämpfen,&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;d) Erwerb von Pflanzenschutzgeräten, die Zielpflanzen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; -flächen erkennen und nur auf diese Pflanzenschutzmittel ausbringen.&lt;/p&gt;&lt;p&gt;Die Fördergegenstände können auch jeweils anteilig beantragt werden (im Rahmen von Bruchteilgemeinschaften).&lt;/p&gt;&lt;h3&gt;3. Zuwendungsempfänger&lt;/h3&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) Unternehmen der Landwirtschaft (einschließlich Garten- und Weinbau) in Bayern, unbeschadet der gewählten Rechtsform, die im Sinne des Anhangs I der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 kleine oder mittlere Unternehmen sind und die in § 1 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 2 ALG genannte Mindestgröße zum Zeitpunkt der Antragstellung erreichen oder überschreiten. Bei Personengesellschaften muss der Gesellschaftsvertrag schriftlich geschlossen sein.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) Rechtsfähige Zusammenschlüsse von Landwirten, soweit für alle Beteiligten eine landwirtschaftliche Flächenbewirtschaftung nachgewiesen werden kann. Der Zusammenschluss muss schriftlich vereinbart sein.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;c) Unternehmen in Bayern, die einen landwirtschaftlichen Betrieb bewirtschaften und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgen, soweit sie kleine oder mittlere Unternehmen im Sinne des Anhangs I der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 sind und die in § 1 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 2 ALG genannte Mindestgröße zum Zeitpunkt der Antragstellung erreichen oder überschreiten.&lt;/p&gt;&lt;h3&gt;4. Zuwendungsvoraussetzungen&lt;/h3&gt;&lt;p&gt;Die Gewährung einer Zuwendung setzt voraus, dass&lt;/p&gt;&lt;ul&gt;&lt;li&gt;die beantragten förderfähigen Investitionen die von der LfL festgelegten Mindestanforderungen erfüllen (Aufnahme in die Produktliste),&lt;/li&gt;&lt;li&gt;mit den nachgewiesenen zuwendungsfähigen Ausgaben die Mindestsumme von 10.000 Euro erreicht wird und&lt;/li&gt;&lt;li&gt;innerhalb der jeweiligen Produktgruppe (2 a) bis 2 d)) im BaySL Digital noch keine Zuwendungen für Projekte gewährt wurden, bei denen die Zweckbindungsfristen noch nicht abgelaufen sind.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die im Internet-Förderwegweiser des StMELF veröffentlichte Produktliste wird fortlaufend aktualisiert. Eine Ergänzung kann auch auf Veranlassung eines Antragstellers oder eines Dritten (insbesondere Hersteller, Händler) erfolgen.&lt;/p&gt;&lt;h3&gt;5. Art, Höhe und Umfang der Zuwendung&lt;/h3&gt;&lt;p&gt;5.1 Zuwendungs- und Finanzierungsart&lt;/p&gt;&lt;p&gt;Die Zuwendungen werden als Zuschuss (Projektförderung im Wege der Anteilfinanzierung gewährt.&lt;/p&gt;&lt;p&gt;5.2 Höhe der Zuwendung&lt;/p&gt;&lt;p&gt;Die Zuwendung beträgt 40% der nachgewiesenen zuwendungsfähigen Ausgaben.&lt;/p&gt;&lt;p&gt;Die Höhe der zuwendungsfähigen Ausgaben pro geförderten Gegenstand ist begrenzt, bei Vorhaben nach Nr. 2 a) auf 100.000 Euro, bei Vorhaben nach Nr. 2 b) auf 85.000 Euro, bei Vorhaben nach Nr. 2 c) auf 25.000 Euro und bei Vorhaben nach 2 d) auf 30.000 Euro.&lt;/p&gt;&lt;p&gt;5.3 Umfang der Zuwendung&lt;/p&gt;&lt;p&gt;In jeder Produktgruppe (2 a) bis 2 d)) wird eine Zuwendung grundsätzlich nur für jeweils einen Förderantrag gewährt. Wurde für einen Förderantrag bereits eine Zuwendung auf Basis einer früheren BaySL-Digital-Förderrichtlinie gewährt, kann eine Zuwendung für einen weiteren Förderantrag bewilligt werden, wenn die fünfjährige Zweckbindungsfrist für den ersten Förderantrag vollständig abgelaufen ist. Pro Förderantrag kann jeweils nur ein Fördergegenstand beantragt werden.&lt;/p&gt;&lt;h2&gt;Teil D&lt;br /&gt;Digitale Systeme zur Überwachung des Gesundheitszustandes von Nutztieren und zur Verbesserung des Tierwohls&lt;/h2&gt;&lt;h3&gt;1. Zuwendungszweck&lt;/h3&gt;&lt;p&gt;Zweck der Zuwendung ist die Verbesserung der Tiergesundheit und die Steigerung des Tierwohls durch frühzeitiges Erkennen und Dokumentieren von Auffälligkeiten und Gesundheitsproblemen bei Nutztieren mit Hilfe von Sensorsystemen, um frühzeitiges Behandeln zu ermöglichen. Darin einbezogen ist auch der Erhalt der Tiergesundheit durch das Aufspüren von Nutztieren im Rahmen der Weidehaltung.&lt;/p&gt;&lt;h3&gt;2. Gegenstand der Förderung&lt;/h3&gt;&lt;p&gt;Förderfähig sind Sensorsysteme zur Anwendung bei Nutztieren. Die Systeme müssen die Erkennung von Problemen durch kontinuierliches Überwachen von geeigneten Indikatoren oder Verhaltensabweichungen sowie ein gezieltes, vereinfachtes Monitoring von erfolgten Maßnahmen ermöglichen. Die förderfähigen Ausgaben umfassen Sensoren, Basiszubehör (unter anderem Antennen), zugehörige Software (inklusive Kopplung zu Agrarmanagementsoftware) und Installationskosten. Sensorsysteme, die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Bestandteil eines Fütterungsautomaten oder einer melktechnischen Einrichtung sind, können im Rahmen dieser Richtlinie nicht gefördert werden. Förderfähig sind zudem Tierortungssysteme, mit denen die Aufenthaltsorte freilaufender Nutztiere ermittelt werden können.&lt;/p&gt;&lt;h3&gt;3. Zuwendungsempfänger&lt;/h3&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;a) Unternehmen der Landwirtschaft in Bayern, unbeschadet der gewählten Rechtsform, die im Sinne des Anhangs I der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 der Kommission kleine oder mittlere Unternehmen sind und die in § 1 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 2 ALG genannte Mindestgröße zum Zeitpunkt der Antragstellung erreichen oder überschreiten. Bei Personengesellschaften muss der Gesellschaftsvertrag schriftlich geschlossen sein.&lt;/p&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;b) Unternehmen in Bayern, die einen landwirtschaftlichen Betrieb bewirtschaften und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgen, soweit sie kleine oder mittlere Unternehmen im Sinne des Anhangs I der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 sind und die in § 1 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Abs.&lt;/abbr&gt; 2 ALG genannte Mindestgröße zum Zeitpunkt der Antragstellung erreichen oder überschreiten.&lt;/p&gt;&lt;h3&gt;4. Zuwendungsvoraussetzungen&lt;/h3&gt;&lt;p&gt;Die Gewährung einer Zuwendung setzt voraus, dass&lt;/p&gt;&lt;ul&gt;&lt;li&gt;die beantragten förderfähigen Investitionen die von der LfL festgelegten Mindestanforderungen erfüllen (Aufnahme in die Produktliste),&lt;/li&gt;&lt;li&gt;mit den nachgewiesenen zuwendungsfähigen Ausgaben die Mindestsumme in Höhe von 2.000 Euro erreicht &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; überschritten wird und&lt;/li&gt;&lt;li&gt;innerhalb der nachfolgend genannten Produktgruppen noch keine Zuwendungen gewährt wurden, bei denen die Zweckbindungsfristen noch nicht abgelaufen sind:&lt;ul&gt;&lt;li&gt;Sensorsystem am Tier,&lt;/li&gt;&lt;li&gt;Online-/Inline – Milchinhaltsstoffanalyse,&lt;/li&gt;&lt;li&gt;automatische Gewichts-/-gangerfassung,&lt;/li&gt;&lt;li&gt;mikrofonbasiertes Monitoring,&lt;/li&gt;&lt;li&gt;kamerabasiertes Monitoring,&lt;/li&gt;&lt;li&gt;Tierortungssysteme.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die im Internet-Förderwegweiser des StMELF geführte Produktliste wird fortlaufend aktualisiert. Eine Ergänzung kann auch auf Veranlassung eines Antragstellers oder eines Dritten (insbesondere Hersteller, Händler) erfolgen.&lt;/p&gt;&lt;h3&gt;5. Art, Umfang und Höhe der Zuwendung&lt;/h3&gt;&lt;p&gt;5.1 Zuwendungs- und Finanzierungsart&lt;/p&gt;&lt;p&gt;Die Zuwendungen werden als Zuschuss (Projektförderung) im Wege der Anteilfinanzierung gewährt.&lt;/p&gt;&lt;p&gt;5.2 Höhe der Zuwendung&lt;/p&gt;&lt;p&gt;Die Zuwendung beträgt 25% der nachgewiesenen zuwendungsfähigen Ausgaben für ein Sensorsystem. Die zuwendungsfähigen Ausgaben sind auf 15.000 Euro pro Antrag begrenzt.&lt;/p&gt;&lt;p&gt;5.3 Umfang der Zuwendung&lt;/p&gt;&lt;p&gt;In jeder Produktgruppe wird eine Zuwendung grundsätzlich nur für jeweils einen Förderantrag gewährt. Wurde für einen Förderantrag bereits eine Zuwendung auf Basis einer früheren BaySL-Digital-Förderrichtlinie gewährt, kann eine Zuwendung für einen weiteren Förderantrag bewilligt werden, wenn die fünfjährige Zweckbindungsfrist für den ersten Förderantrag vollständig abgelaufen ist. Pro Förderantrag kann jeweils nur ein Sensorsystem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Tierortungssystem bewilligt werden.&lt;/p&gt;&lt;h3&gt;6. Förderausschluss&lt;/h3&gt;&lt;p&gt;Vorhaben die gleichzeitig mit dem Agrarinvestitionsförderprogramm oder dem Sonderprogramm Landwirtschaft gefördert werden, sind für eine Förderung nach dieser Richtlinie ausgeschlossen.&lt;/p&gt;&lt;h2&gt;Teile B bis D&lt;br /&gt;Sonstige Zuwendungsbestimmungen, Verfahren, Inkrafttreten&lt;/h2&gt;&lt;h3&gt;1. Sonstige Zuwendungsbestimmungen&lt;/h3&gt;&lt;p&gt;Die Fördermittel sind Zuwendungen im Sinne der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 23 und 44 BayHO. Es gelten deshalb die &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;VV&lt;/abbr&gt; zu diesen Artikeln und die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P), soweit in diesen Richtlinien nicht etwas anderes bestimmt ist.&lt;/p&gt;&lt;p&gt;Nrn. 3.1, 3.2 und 3.3 der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P werden nicht angewandt.&lt;/p&gt;&lt;p&gt;Zuwendungen von weniger als 500 Euro pro Antrag werden nicht gewährt. Die Zuwendungsbeträge werden auf volle Euro abgerundet.&lt;/p&gt;&lt;p&gt;Im Rahmen von Veröffentlichungen und in öffentlicher Kommunikation im Zusammenhang mit dem Förderprogramm sowie in direkter Kommunikation mit Antragstellern ist ausdrücklich darauf hinzuweisen, dass Zuwendungen aus dem Programm freiwillige Leistungen darstellen und nur insoweit bewilligt werden können, als dafür Haushaltsmittel zur Verfügung stehen, und deshalb ein Zuwendungsantrag unter Umständen wegen Überzeichnung des Förderprogramms nicht bewilligt werden kann.&lt;/p&gt;&lt;p&gt;1.1 Nicht förderfähige Unternehmen&lt;/p&gt;&lt;p&gt;Nicht gefördert werden Unternehmen,&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bei denen die Kapitalbeteiligung der öffentlichen Hand mehr als 25% des Eigenkapitals des Unternehmens beträgt,&lt;/li&gt;&lt;li&gt;Unternehmen in Schwierigkeiten gemäß &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 2 Nr. 59 Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 sowie&lt;/li&gt;&lt;li&gt;Unternehmen, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;1.2 Zuwendungsfähige Ausgaben&lt;/p&gt;&lt;p&gt;Zuwendungsfähig sind die durch Rechnungen im Sinne von § 14 des Umsatzsteuergesetzes und Zahlungsnachweise des Antragstellers nachgewiesenen zuwendungsfähigen Ausgaben für Leistungen abzüglich Umsatzsteuer und Preisnachlässen (Skonti, Boni, Rabatte).&lt;/p&gt;&lt;p&gt;1.3 Nicht zuwendungsfähig sind Ausgaben für:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ersatzbeschaffungen,&lt;/li&gt;&lt;li&gt;gebrauchte Einrichtungen (Messegeräte zählen nicht als Gebrauchteinrichtungen),&lt;/li&gt;&lt;li&gt;Gegenstände, die bereits zu einem früheren Zeitpunkt gefördert wurden.&lt;/li&gt;&lt;li&gt;Gegenstände die überwiegend anderen Zwecken dienen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; in Teil D: Fütterungscomputer, Sensorsysteme in Zusammenhang mit der Melktechnik).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;1.4 Mehrfachförderung&lt;/p&gt;&lt;p&gt;Vorhaben, die aus Mitteln anderer öffentlicher Programme gefördert werden (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Einzelbetriebliches Investitionsförderprogramm, Investitionsprogramm Landwirtschaft des Bundesministeriums für Ernährung und Landwirtschaft), dürfen nicht gleichzeitig nach dieser Richtlinie gefördert werden.&lt;/p&gt;&lt;h3&gt;2. Verfahren&lt;/h3&gt;&lt;p&gt;2.1 Antragstellung&lt;/p&gt;&lt;p&gt;Der Antrag ist vor Beginn des Vorhabens mittels der vom zuständigen Amt für Ernährung, Landwirtschaft und Forsten zugeteilten Betriebsnummer und der persönlichen Identifikationsnummer (PIN) auf dem zentralen Serviceportal iBALIS des StMELF elektronisch zu stellen.&lt;/p&gt;&lt;p&gt;Er enthält mindestens folgende Angaben:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Namen und Größe des Unternehmens,&lt;/li&gt;&lt;li&gt;Beschreibung des Vorhabens einschl. beabsichtigten Beginn und Abschluss,&lt;/li&gt;&lt;li&gt;Standort des Vorhabens,&lt;/li&gt;&lt;li&gt;Aufstellung der beihilfefähigen Kosten,&lt;/li&gt;&lt;li&gt;Höhe des benötigten Zuschusses.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;2.2 Bewilligung&lt;/p&gt;&lt;p&gt;Anträge, die alle Fördervoraussetzungen erfüllen, werden elektronisch bewilligt durch die Staatliche Führungsakademie für Ernährung, Landwirtschaft und Forsten.&lt;/p&gt;&lt;p&gt;2.3 Zahlungsantrag/Verwendungsnachweis&lt;/p&gt;&lt;p&gt;Nach Abschluss des Vorhabens ist der Nachweis der Verwendung im zentralen Serviceportal iBalis des StMELF vorzunehmen. Abweichend von Nr. 6.1 der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ANBest&lt;/abbr&gt;-P ist der Verwendungsnachweis innerhalb der im Zuwendungsbescheid festgelegten Frist zu erbringen. Soweit alle Voraussetzungen erfüllt sind, erfolgt anschließend die Auszahlung zentral durch das StMELF.&lt;/p&gt;&lt;p&gt;2.4 Zweckbindungsfrist&lt;/p&gt;&lt;p&gt;Die Zweckbindungsfrist beträgt fünf Jahre ab Auszahlung der Zuwendung.&lt;/p&gt;&lt;p&gt;2.5 Ausschlüsse&lt;/p&gt;&lt;p&gt;Wird festgestellt, dass ein Zuwendungsempfänger vorsätzlich falsche Angaben gemacht hat, so wird das betreffende Vorhaben von der Förderung ausgeschlossen und bereits für das Vorhaben gezahlte Beträge werden zurückgefordert.&lt;/p&gt;&lt;p&gt;Werden die geförderten Investitionen innerhalb der Zweckbindungsfristen veräußert oder nicht mehr dem Zuwendungszweck entsprechend verwendet, wird die Zuwendung grundsätzlich anteilig zurückgefordert.&lt;/p&gt;&lt;h3&gt;3. Aufhebung des Zuwendungsbescheids, Rückforderungen&lt;/h3&gt;&lt;p&gt;Die Aufhebung (Rücknahme oder Widerruf) von Zuwendungsbescheiden und die Erstattung gewährter Zuschüsse richten sich nach den für die Förderung einschlägigen Rechtsvorschriften und den im jeweiligen Zuwendungsbescheid enthaltenen Nebenbestimmungen.&lt;/p&gt;&lt;p&gt;Die Erhebung von Kosten richtet sich nach dem Kostengesetz.&lt;/p&gt;&lt;h3&gt;4. Überwachung&lt;/h3&gt;&lt;p&gt;Die Bewilligungsstelle führt ausführliche Aufzeichnungen, um feststellen zu können, ob die Fördervoraussetzungen erfüllt sind. Die Aufzeichnungen sind zehn Jahre lang aufzubewahren.&lt;/p&gt;&lt;h3&gt;5. Veröffentlichung&lt;/h3&gt;&lt;p&gt;Auf der Beihilfe-Website werden folgende Informationen veröffentlicht:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Kurzbeschreibung,&lt;/li&gt;&lt;li&gt;voller Wortlaut Beihilfemaßnahme, einschließlich Änderungen,&lt;/li&gt;&lt;li&gt;Name der Bewilligungsbehörde,&lt;/li&gt;&lt;li&gt;Informationen gemäß Anhang III der Verordnung (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;) 2022/2472 über jede Einzelbeihilfe von über 10.000 Euro.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;6. Inkrafttreten, Außerkrafttreten&lt;/h3&gt;&lt;p&gt;Diese Richtlinie tritt mit Wirkung vom 1. Juli 2023 in Kraft. Sie tritt mit Ablauf des 31. Dezember 2027 außer Kraft.&lt;/p&gt;&lt;p&gt;&amp;#xa0;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/S/Staatliche-Fuehrungsakademie-fuer-Ernaehrung-und-Forsten-main"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/S/stmelf-bayern-de-agrarpolitik-foerderung-200529"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/S/stmelf-bayern-de-ibalis"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/bayern"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergeber/land"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Branchen/land_forst_fischwirtschaft"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensalter/nicht_relevant"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/landwirtschaft_laendliche_entwicklung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/digitalisierung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/S/stmelf-bayerisches_staatsministerium_fuer_ernaehrung_landwirtschaft_und_forsten"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_LandwirtschaftLaendlicheEntwicklung/einzelbetriebliche_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;13937&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2020-04-02T19:50:00.927+02:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Landwirtschaft Digitalisierung Zuschüsse Feldroboter digitale Hacktechnik Beikraut-Regulierung Sensorsystem Düngeoptimierung</value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Bekanntmachung des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten vom 22. Juni 2023, Bayerisches Ministerialblatt Nr. 369 vom 2. August 2023.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Antragsberechtigt sind je nach Art des Vorhabens&lt;/p&gt;&lt;ul&gt;&lt;li&gt;landwirtschaftliche Unternehmen (einschließlich Wein- und Gartenbau) mit Sitz oder Betriebsstätte in Bayern,&lt;/li&gt;&lt;li&gt;Unternehmen in Bayern, die einen landwirtschaftlichen Betrieb bewirtschaften und unmittelbar kirchliche, gemeinnützige oder mildtätige Zwecke verfolgen, sowie&lt;/li&gt;&lt;li&gt;rechtsfähige Zusammenschlüsse von Landwirtinnen und Landwirten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Förderung ist an folgende Bedingungen geknüpft:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ihr Betrieb erreicht beziehungsweise überschreitet die Mindestgröße, die im Gesetz über die Alterssicherung der Landwirtinnen und Landwirte Paragraf 1 Absatz 2 definiert wird, und erfüllt die Kriterien für kleine und mittlere Unternehmen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;) gemäß der Definition der Europäischen Union.&lt;/li&gt;&lt;li&gt;Als Beteiligte und Beteiligter eines rechtsfähigen Zusammenschlusses von Landwirtinnen und Landwirten können Sie eine landwirtschaftliche Flächenbewirtschaftung nachweisen.&lt;/li&gt;&lt;li&gt;Ihr Vorhaben erfüllt die von der Landesanstalt für Landwirtschaft (LfL) für die jeweiligen Förderbereiche festgelegten Mindestanforderungen.&lt;/li&gt;&lt;li&gt;Sie beantragen die Förderung für Produkte aus der jeweiligen Produktliste, die im Förderwegweiser des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten online veröffentlicht und fortlaufend aktualisiert wird.&lt;/li&gt;&lt;li&gt;Darüber hinaus gelten je nach Art des Vorhabens spezifische Voraussetzungen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Von der Förderung ausgeschlossen sind&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ersatzbeschaffungen,&lt;/li&gt;&lt;li&gt;gebrauchte Einrichtungen (Messegeräte zählen nicht als Gebrauchteinrichtungen),&lt;/li&gt;&lt;li&gt;Gegenstände, die bereits zu einem früheren Zeitpunkt gefördert wurden,&lt;/li&gt;&lt;li&gt;Gegenstände, die überwiegend anderen Zwecken dienen.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Der Freistaat Bayern unterstützt Sie als landwirtschaftlichen Betrieb bei der Finanzierung von Investitionen im digitalen Bereich, die vor allem die Umweltverträglichkeit verbessern, das Tierwohl steigern und die Wettbewerbsfähigkeit erhöhen.&lt;/p&gt;&lt;p&gt;Sie bekommen die Förderung für Vorhaben in folgenden Programmteilen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sensoren und digitale Steuerungstechnik im Pflanzenbau (Teil B),&lt;/li&gt;&lt;li&gt;digitale Hack- und Pflanzenschutztechnik zur Reduzierung des Pflanzenschutzmitteleinsatzes (Teil C) sowie&lt;/li&gt;&lt;li&gt;digitale Systeme zur Überwachung des Gesundheitszustands von Nutztieren und zur Verbesserung des Tierwohls (Teil D).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sie bekommen die Förderung als Zuschuss.&lt;/p&gt;&lt;p&gt;Die Höhe des Zuschusses beträgt&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bei Sensoren und digitaler Steuerungstechnik im Pflanzenbau: 40 Prozent Ihrer zuwendungsfähigen Ausgaben, die jedoch je nach Investitionsgegenstand auf maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 15.000 beziehungsweise maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 30.000 begrenzt sind;&lt;/li&gt;&lt;li&gt;bei digitaler Hack- und Pflanzenschutztechnik: 40 Prozent Ihrer zuwendungsfähigen Ausgaben, die jedoch je nach Investitionsgegenstand zwischen maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 25.000 und maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 100.000 begrenzt sind;&lt;/li&gt;&lt;li&gt;bei digitalen Überwachungssystemen: 25 Prozent Ihrer zuwendungsfähigen Ausgaben, die jedoch auf maximal &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 15.000 je Antrag begrenzt sind.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Bagatellgrenze liegt bei &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; 500,00.&lt;/p&gt;&lt;p&gt;Reichen Sie bitte Ihren Antrag vor Beginn der zu fördernden Maßnahme über das integrierte Bayerische Landwirtschaftliche Informations-System (iBALIS) ein.&lt;/p&gt;&lt;p&gt;Die zuständige Bewilligungsstelle ist die Staatliche Führungsakademie für Ernährung, Landwirtschaft und Forsten (FüAk).&lt;/p&gt;&lt;p&gt;Teil A des Bayerischen Sonderprogramms Landwirtschaft Digital ist derzeit nicht belegt.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie als landwirtschaftliches Unternehmen Investitionen in die Digitalisierung Ihres Betriebs planen, können Sie unter bestimmten Voraussetzungen einen Zuschuss bekommen.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Bayerisches Sonderprogramm Landwirtschaft Digital (BaySL Digital)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

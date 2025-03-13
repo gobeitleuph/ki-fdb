@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="eu-klimaschutzinitiative-2024" path="/BMWI/FDB/Content/DE/Foerderprogramm/Bund/BMWi" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Rechtsgrundlage&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align: left;" data-gsb="true"&gt;Die Europäische Klimaschutzinitiative wurde auf Grundlage des Beschlusses des Deutschen Bundestages über den Klimaschutzplan 2050 – Klimaschutzpolitische Grundsätze und Ziele der Bundesregierung vom 18.11.2016 ins Leben gerufen.&lt;/p&gt;&lt;p&gt;&lt;a xlink:type="simple" xlink:actuate="onLoad" xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/R/rgl-euki-2024-86065" xlink:show="replace"&gt;Weblink zum Beschluss des Deutschen Bundestages&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Kontakt/G/giz-gmbh"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/euki-de"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/euki-2024-projekte-86065"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/euki-2024-projektskizze-86065"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/euki-2024-projektskizze-entwicklungspaket-86065"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/euki-2024-projektfinanzierung-86065"/>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/ExternerLink/E/euki-2024-projektvorschlag-entwicklungspaket-86065"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderart/zuschuss"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerdergebiet/sonstige"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/bildungseinrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/forschungseinrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/hochschule"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/kommune"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/oeffentliche_einrichtung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderberechtigte/verband_vereinigung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/grosses_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleines_unternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/kleinstunternehmen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Unternehmensgroesse/mittleres_unternehmen"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/aus_weiterbildung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/beratung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/digitalisierung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/energieeffizienz_erneuerbare_energien"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/forschung_innovation_themenspezifisch"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/frauenfoerderung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/gesundheit_soziales"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/infrastruktur"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/landwirtschaft_laendliche_entwicklung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/mobilitaet"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/regionalfoerderung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/smart_cities_regionen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/staedtebau_stadterneuerung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/umwelt_naturschutz"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/Foerderbereich/wohnungsbau_modernisierung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/FDB/Content/DE/Foerdergeber/B/bmwk-bundesministerium_wirtschaft_klimaschutz"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/ausbildung_besonderer_zielgruppen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/ausbildungsstrukturen_traeger"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/ausserbetriebliche_ausbildung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/berufsvorbereitung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/betriebliche_ausbildung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/weiterbildung_unternehmer_selbststaendige"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/weiterbildung_von_arbeitnehmern"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/weiterbildung_von_arbeitssuchenden"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_AusWeiterbildung/weiterbildungsstrukturen_traeger"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Beratung/aus_weiterbildung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Beratung/energieeffizienz_erneuerbare_energien"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Beratung/forschung_innovation"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Beratung/umwelt_naturschutz"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_EnergieeffizienzErneuerbareEnergien/beratung_schulung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_EnergieeffizienzErneuerbareEnergien/forschung_innovation"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_EnergieeffizienzErneuerbareEnergien/oeffentliche_infrastruktur"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_EnergieeffizienzErneuerbareEnergien/wohnungsbau_modernisierung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/bauen_wohnen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/energieeffizienz_erneuerbare_energien"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/information_kommunikation"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/land_forst_fischwirtschaft"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/mobilitaet_verkehr"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/nachwachsende_rohstoffe"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/schifffahrt_meerestechnik"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/umwelt_naturschutz"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_ForschungInnovationThemenspezifisch/wirtschafts_sozial_geisteswissenschaften"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/behinderte_menschen"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/buergerschaftliches_engagement"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/gesundheit"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/gleichstellung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/integration"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/kinder_jugendliche_familien"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/senioren_pflege"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_GesundheitSoziales/senioren_pflege"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Infrastruktur/energie_umwelt"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Infrastruktur/forschung_innovation"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Infrastruktur/information_kommunikation"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Infrastruktur/laendliche_entwicklung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Infrastruktur/staedtebau_stadterneuerung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Infrastruktur/verkehr"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_LandwirtschaftLaendlicheEntwicklung/besondere_formen_der_landbewirtschaftung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_LandwirtschaftLaendlicheEntwicklung/forschung_innovation"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_LandwirtschaftLaendlicheEntwicklung/forstwirtschaft"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_LandwirtschaftLaendlicheEntwicklung/laendliche_entwicklung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Regionalfoerderung/laendliche_entwicklung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Regionalfoerderung/oeffentliche_infrastruktur"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_StaedtebauStadterneuerung/energetische_sanierung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_StaedtebauStadterneuerung/sanierung_entwicklung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_StaedtebauStadterneuerung/soziale_stadt"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_UmweltNaturschutz/beratung_schulung"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_UmweltNaturschutz/forschung_innovation"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_UmweltNaturschutz/naturschutz_landschaftspflege"/>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_UmweltNaturschutz/oeffentliche_infrastruktur"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_WohnungsbauModernisierung/modernisierung_sanierung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/UF_Frauenfoerderung/arbeit_aus_weiterbildung"/>
+                </links>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;span&gt;#&lt;/span&gt;&lt;span&gt;86065&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;(für Vergleichszwecke kann auch der archivierte Eintrag "eu-klimaschutzinitiative" mit dem Titel Europäische Klimaschutzinitiative (EUKI) und der WKD-ID 13419-a betrachtet werden - dabei handelt es sich um einen veralteten Stand der Förderung)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;h5&gt;Gültigkeitsdauer&lt;/h5&gt;&lt;p&gt;Die Antragsperiode beginnt jährlich im Frühjahr. Die Förderung der bewilligten Projekte startet spätestens zu Beginn des darauffolgenden Jahres. Die Förderdauer für Projekte liegt zwischen 18 und 29 Monaten. Der nächste 9. Ideenwettbewerb startet im Frühjahr 2025.&lt;/p&gt;&lt;h5&gt;Erforderliche Unterlagen&lt;/h5&gt;&lt;p&gt;Eine Zusammenfassung der erforderlichen Unterlagen und Nachweise für den achten Ideenwettbewerb können Sie den Informationen zur Projektfinanzierung entnehmen (weiterführende Links)&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2024-11-28T10:41:00.000+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Englisch&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Förderprogramm aktiv, Antragsstellung derzeit nicht möglich&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:keywords" type="String">
+        <value>Klimaprojekt Europa Zusammenarbeit Umwelt Umweltschutz </value>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Englisch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;Start des Ideenwettbewerbs: Januar/Februar&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;Skizzeneinreichung: Februar/März&lt;/li&gt;&lt;li&gt;Projektvorschlag Einreichung: Juli/August&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Das Verfahren zur Antragsstellung findet in englischer Sprache statt und besteht aus zwei Schritten. Es wird auf der BMWK Informationsseite zur Europäischen Klimaschutzinitiative (EUKI) ausführlich erläutert.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Erster Schritt: Einreichen einer Projektskizze im Rahmen des Ideenwettbewerbs.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In einem ersten Schritt skizzieren Sie Ihr Projekt: Erläutern Sie die bestehenden Herausforderungen, die Ziele sowie die Maßnahmen, um diese zu erreichen. Die aktuellen Informationen zur Finanzierung und alle weiteren dafür notwendigen Dokumente finden Sie zum Start des Ideenwettbewerbs in der Dokumentenbox auf unserer Website. Alle bis zum Fristablauf vollständig eingegangenen Projektskizzen werden nach festen Kriterien fachlich geprüft.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Zweiter Schritt: Einreichen eines vollständigen Projektvorschlags.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nur wenn Ihre Projektskizze von der EUKI ausgewählt wird, werden Sie im zweiten Schritt dazu aufgefordert, einen vollständigen Projektvorschlag zu entwickeln. Diesen müssen Sie innerhalb von vier bis sechs Wochen nach Aufforderung einreichen. Die dafür notwendigen Dokumente sind auf unserer Website verfügbar.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nach erfolgreicher Antragstellung: Sie können mit der Projektdurchführung beginnen.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Wenn Ihr Projektvorschlag angenommen und der Vertrag unterzeichnet ist, können Sie mit den Projektaktivitäten beginnen. Gleichzeitig startet die finanzielle Abwicklung des Projekts. Alle wichtigen Informationen zur Steuerung des Projekts sowie hilfreiche Tutorials finden Sie auf der Infomrationsseite des BMWK zu EUKI für Projekte (weiterführende Links).&amp;#xa0;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;Von Antragstellung bis Förderbeginn ca. 9 bis 11 Monate&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;Schritt 1: ca. 4 Monate&lt;/li&gt;&lt;li&gt;Schritt 2: ca. 5 bis 6 Monate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Die EUKI fördert Projekte in allen EU-Mitgliedsstaaten und den potenziellen Beitrittskandidatenländern des Westbalkans. Der regionale Schwerpunkt liegt auf Mittel-, Ost- und Südosteuropa, den baltischen Staaten sowie dem Westbalkan. In die Zielländer in diesen Regionen muss mindestens die Hälfte der Projektmittel fließen. Die EUKI unterstützt grenzüberschreitende Kooperationen: Klimaschutzprojekte sollten Partnerorganisationen in mehreren europäischen Ländern vorweisen können.&lt;/p&gt;&lt;p&gt;Folgende Kriterien müssen für die Förderung durch die EUKI erfüllt sein:&lt;/p&gt;&lt;p&gt;Ihre Organisation ist&lt;/p&gt;&lt;ul&gt;&lt;li&gt;eine Nichtregierungsorganisation (&lt;strong&gt;NGO&lt;/strong&gt;),&lt;/li&gt;&lt;li&gt;eine regionale oder lokale&amp;#xa0;&lt;strong&gt;Behörde,&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;ein&amp;#xa0;&lt;strong&gt;gemeinnütziges Unternehmen&amp;#xa0;&lt;/strong&gt;oder&lt;/li&gt;&lt;li&gt;eine&amp;#xa0;&lt;strong&gt;Universität&amp;#xa0;&lt;/strong&gt;oder andere&amp;#xa0;&lt;strong&gt;Bildungseinrichtung&lt;/strong&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ihre Organisation hat ihren Sitz&lt;/p&gt;&lt;ul&gt;&lt;li&gt;in einem&amp;#xa0;&lt;strong&gt;EU-Mitgliedsland&lt;/strong&gt;&amp;#xa0;oder&lt;/li&gt;&lt;li&gt;in einem der EU-Beitritts- oder potenziellen Beitrittskandidatenländer&amp;#xa0;&lt;strong&gt;Albanien&lt;/strong&gt;,&amp;#xa0;&lt;strong&gt;Bosnien-Herzegowina&lt;/strong&gt;,&amp;#xa0;&lt;strong&gt;Kosovo&lt;/strong&gt;,&amp;#xa0;&lt;strong&gt;Montenegro&lt;/strong&gt;,&amp;#xa0;&lt;strong&gt;Nordmazedonien&amp;#xa0;&lt;/strong&gt;oder&amp;#xa0;&lt;strong&gt;Serbien&lt;/strong&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ihr Projekt&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;wird in mindestens zwei der oben aufgeführten Länder durchgeführt,&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;ist das Projekt einer juristischen Personen mit eigener Geschäftsfähigkeit und&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;beinhaltet die Arbeit in einem Konsortium mit mindestens einem und maximal vier weiteren Implementierungspartnern.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die angestrebte durchschnittliche jährliche Förderung&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;Förderung darf den durchschnittlichen Jahresumsatz Ihrer Organisation in den letzten drei Jahren nicht überschreiten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Darüber hinaus benötigen Sie:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;geeignetes, softwaregestütztes Buchhaltungssystem sowie qualifiziertes Buchhaltungspersonal,&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;wettbewerbsfähige, transparente und nicht-diskriminierende Ausschreibungsverfahren,&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;geeignete interne Kontrollmechanismen (Transparenz, Gegenprüfung, funktionale Trennung, Mindestinformationen) sowie&lt;/li&gt;&lt;li&gt;eigenes Personal mit technischer, kaufmännischer und rechtlicher Expertise sowie Erfahrung in der Planung, Umsetzung und Überwachung internationaler Projekte.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Weitere rechtliche Voraussetzungen können unter Punkt 5 und 6 der Informationen zur Projektfinanzierung nachgelesen werden (weiterführende Links).&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Das&amp;#xa0;Bundesministerium für Wirtschaft und Klimaschutz (BMWK)&amp;#xa0;hat die&amp;#xa0;Europäische Klimaschutzinitiative (EUKI)&amp;#xa0;2017 ins Leben gerufen, um Treibhausgasemissionen zu mindern und die Zusammenarbeit beim Klimaschutz in Europa zu verbessern. Seitdem hat die EUKI 213 grenzüberschreitende Klimaprojekte&amp;#xa0;gefördert und ein aktives Netzwerk mit&amp;#xa0;440 Organisationen in 31 europäischen Ländern&amp;#xa0;geschaffen.&lt;/p&gt;&lt;p&gt;Die Fördersumme beträgt pro unterstütztem Projekt zwischen 120.000 und 1.000.000 EUR. Hierzu wird jedes Jahr ein europaweiter Ideenwettbewerb ausgeschrieben.&lt;/p&gt;&lt;p&gt;Sie können sich für eine Förderung Ihres Vorhabens in den folgenden sechs Bereichen bewerben (Änderungen vorbehalten):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Klimaneutrale Mobilität&lt;/li&gt;&lt;li&gt;Klimapolitik&lt;/li&gt;&lt;li&gt;CO2-Entnahme und -Senken&lt;/li&gt;&lt;li&gt;Energiewende und klimaneutrale Gebäude&lt;/li&gt;&lt;li&gt;Sozialgerechter Strukturwandel&lt;/li&gt;&lt;li&gt;Nachhaltige Wirtschaft&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Wenn Sie ein Projekt planen, das zum Klimaschutz in Europa beiträgt, können Sie unter bestimmten Voraussetzungen einen Zuschuss bekommen.&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Förderung im Rahmen der &lt;span&gt;Europäischen Klimaschutzinitiative (EUKI)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>

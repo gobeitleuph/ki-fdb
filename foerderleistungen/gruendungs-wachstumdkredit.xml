@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns:xlink="http://www.w3.org/1999/xlink" name="gruendungs-wachstumdkredit" path="/BMWI/FDB/Content/DE/Foerderprogramm/Land/Bayern" type="gsb:ServiceOffer">
+    <property name="gsb:bodyText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;&lt;strong&gt;Merkblatt „Gründungs- und Wachstumskredit GuW“&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;(Vergabegrundsätze entsprechend Antragsvordruck 100 Tz. 9.6 Bestätigungen) &lt;br /&gt;[Stand: 01.01.2024]&lt;/p&gt;&lt;ul&gt;&lt;li&gt;für Gründungvorhaben außerhalb (GK5) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; innerhalb (GK6) der GuW-Fördergebietskulisse und&lt;/li&gt;&lt;li&gt;für Wachstumsvorhaben außerhalb (WK5) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; innerhalb (WK6) der GuW-Fördergebietskulisse&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Der Gründungs- und Wachstumskredit wird zinsgünstig aus dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ERP&lt;/abbr&gt;-Förderkredit &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KfW&lt;/abbr&gt; sowie von der LfA Förderbank Bayern refinanziert und der Gründungskredit überdies aus Haushaltsmitteln des Freistaats Bayern zinsverbilligt.&lt;/p&gt;&lt;h2&gt;1 Kreditnehmerkreis&lt;/h2&gt;&lt;p&gt;Antragsberechtigt sind kleine und mittlere gewerbliche Unternehmen (siehe Merkblatt „Beihilferechtlich relevante Bestimmungen und Definitionen“, &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;-Kriterium) und Angehörige Freier Berufe mit Betriebsstätte oder Niederlassung in Bayern sowie natürliche Personen, die eine Voll- oder Nebenerwerbsexistenz in Bayern gründen.&lt;/p&gt;&lt;p&gt;Natürliche Personen sind unter folgenden Voraussetzungen antragsberechtigt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sie sind fachlich und kaufmännisch qualifiziert für die unternehmerische Tätigkeit.&lt;/li&gt;&lt;li&gt;Sie haben einen hinreichenden unternehmerischen Einfluss im Unternehmen. Förderschädlich ist ein Stimmenanteil anderer Gesellschafter, der autonome Satzungsänderungen ermöglicht.&lt;/li&gt;&lt;li&gt;Sie sind zur Geschäftsführung und Vertretung des Unternehmens befugt und aktiv in der Unternehmensführung tätig.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nicht antragsberechtigt sind&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Unternehmen in Schwierigkeiten nach &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-Definition (siehe Tz. 7 Merkblatt „Beihilferechtlich relevante Bestimmungen und Definitionen“),&lt;/li&gt;&lt;li&gt;Unternehmen oder freiberuflich Tätige, die einer früheren Beihilferückforderungsanordnung der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; nicht nachgekommen sind,&lt;/li&gt;&lt;li&gt;politisch meinungsbildende Medienunternehmen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; Zeitungsverlage, Rundfunk- und Internetanbieter mit politischen Inhalten),&lt;/li&gt;&lt;li&gt;Kreditinstitute, Versicherungen oder vergleichbare Finanzinstitutionen, die dem KWG unterliegen,&lt;/li&gt;&lt;li&gt;Treuhandverhältnisse.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Darüber hinaus können sich Fördereinschränkungen ergeben, sofern für einzelne Wirtschaftszweige &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt;-rechtliche Sondervorschriften für staatliche Beihilfen gelten (siehe Tz. 8 Merkblatt „Beihilferechtlich relevante Bestimmungen und Definitionen“).&lt;/p&gt;&lt;h2&gt;2 Verwendungszweck&lt;/h2&gt;&lt;p&gt;Für folgende Maßnahmen können Darlehen gewährt werden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Investitionen&lt;/li&gt;&lt;li&gt;Waren.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nicht förderfähig sind:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Vorhaben, die eine Förderung nach dem Erneuerbare-Energien-Gesetz (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EEG&lt;/abbr&gt;) &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; dem Kraft-Wärme-Kopplungsgesetz (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KWKG&lt;/abbr&gt;) erhalten,&lt;/li&gt;&lt;li&gt;Umschuldungen,&lt;/li&gt;&lt;li&gt;Nachfinanzierungen bereits begonnener beziehungsweise abgeschlossener Vorhaben,&lt;/li&gt;&lt;li&gt;Sanierungsvorhaben,&lt;/li&gt;&lt;li&gt;Stille Beteiligungen,&lt;/li&gt;&lt;li&gt;Entgeltliche und sonstige Vermögensübertragungen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; käuflicher Erwerb)&lt;ul&gt;&lt;li&gt;zwischen verbundenen Unternehmen im Sinne des § 15 AktG &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; die Übernahme des geförderten Unternehmens in einen solchen Unternehmensverbund&lt;/li&gt;&lt;li&gt;zwischen Unternehmen und deren Gesellschaftern&lt;/li&gt;&lt;li&gt;im Rahmen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; infolge von Betriebsaufspaltungen&lt;/li&gt;&lt;li&gt;zwischen Ehegatten &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; Lebenspartnern&lt;/li&gt;&lt;li&gt;sowie der Erwerb eigener Anteile&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="padding-left: 30px;" data-gsb="true"&gt;und die Umgehungen der vorgenannten Tatbestände (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; durch Treuhandgeschäfte).&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Investitionen in wohnwirtschaftlich genutzte Immobilien,&lt;/li&gt;&lt;li&gt;die alleinige Übernahme von Unternehmensanteilen im Sinne von Finanzinvestitionen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die Ausschlusskriterien des Merkblatts „Nachhaltigkeitsgrundsätze für Programmkredite der LfA Förderbank Bayern“ sind zu beachten.&lt;/p&gt;&lt;h2&gt;3 Darlehensbedingungen&lt;/h2&gt;&lt;h3&gt;3.1 Zinssatz und Risikogerechtes Zinssystem&lt;/h3&gt;&lt;p&gt;Der Zinssatz für die Darlehen wird zwischen Hausbank und Endkreditnehmer in Abhängigkeit von Bonität und Besicherung – innerhalb vorgegebener Grenzen – individuell vereinbart (siehe Merkblatt „Kreditnehmerinformation zum risikogerechten Zinssystem“).&lt;/p&gt;&lt;p&gt;Gründer und junge Unternehmen, die weniger als 5 Jahre am Markt aktiv sind, erhalten eine höhere Zinsverbilligung als etablierte Unternehmen.&lt;/p&gt;&lt;p&gt;Vorhaben in der GuW-Fördergebietskulisse profitieren von einem besonders günstigen Zinssatz. Diese umfasst die folgenden Kreise/kreisfreien Städte:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cham&lt;/li&gt;&lt;li&gt;Freyung-Grafenau&lt;/li&gt;&lt;li&gt;Hof (Landkreis und kreisfreie Stadt)&lt;/li&gt;&lt;li&gt;Kronach&lt;/li&gt;&lt;li&gt;Neustadt an der Waldnaab&lt;/li&gt;&lt;li&gt;Regen&lt;/li&gt;&lt;li&gt;Schwandorf&lt;/li&gt;&lt;li&gt;Tirschenreuth&lt;/li&gt;&lt;li&gt;Weiden in der Oberpfalz&lt;/li&gt;&lt;li&gt;Wunsiedel im Fichtelgebirge.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die risikoabhängigen Zinsobergrenzen, Angaben zu Darlehenslaufzeiten und zum Auszahlungssatz können unserer aktuellen Übersicht der Darlehenskonditionen entnommen werden. Es gelten die Konditionen des Zusagedatums der LfA.&lt;/p&gt;&lt;p&gt;Die Hausbank wird den Endkreditnehmer über die Zusage der LfA entsprechend unterrichten und die Konditionen vereinbaren.&lt;/p&gt;&lt;h3&gt;3.2 Konditionen&lt;/h3&gt;&lt;p&gt;Der Darlehenshöchstbetrag beträgt 10 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Mio.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; je Vorhaben. Der Finanzierungsanteil des Darlehens beträgt bis zu 100% des förderfähigen Vorhabens. Bei im Anlagevermögen aktivierbaren Wirtschaftsgütern ist die Darlehenslaufzeit frei wählbar; sie soll sich an der betriebsgewöhnlichen Nutzung orientieren. Ausnahme:&lt;/p&gt;&lt;p&gt;Die 2-jährige Darlehenslaufzeit steht nur für Warenfinanzierungen zur Verfügung.&lt;/p&gt;&lt;p&gt;Waren in Verbindung mit Investitionen können zu den Laufzeiten dieser Investitionsfinanzierungen berücksichtigt werden. Waren, die nicht von Investitionen begleitet werden, sind mit Darlehenslaufzeiten von bis zu 10 Jahren finanzierbar.&lt;/p&gt;&lt;p&gt;Soweit sachlich begründet, besteht die Möglichkeit, das Vorhaben in mehrere Darlehen aufzuteilen (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; differenziert nach unterschiedlichen Laufzeiten oder mit und ohne Haftungsfreistellung „HaftungPlus“). Auch können abweichend von den Standardlaufzeiten verkürzte Gesamtlaufzeiten (ganzjährig, mindestens 3 Jahre) und Tilgungsfreijahre (mindestens 1 Freijahr) beantragt werden.&lt;/p&gt;&lt;p&gt;Für nicht abgerufene Darlehensbeträge wird nach Ablauf eines bereitstellungsprovisionsfreien Zeitraums von 6 Monaten (gerechnet vom Tage der Darlehenszusage der LfA an) bis zum vollständigen Abruf oder einem Verzicht auf das Darlehen, spätestens bis zum Ablauf der Abruffrist des Darlehens (ein Monat vor Tilgungsbeginn) eine Bereitstellungsprovision von 2% p.a. berechnet. Bei verbürgten Darlehen beträgt die Abruffrist 6 Monate sowie bei endfälligen Darlehen 24 Monate nach Darlehenszusage der LfA.&lt;/p&gt;&lt;p&gt;Termine für Zins und Tilgung und &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ggf.&lt;/abbr&gt; Bereitstellungsprovision sind der 31.03., 30.06., 30.09. und 30.12. Eine vollständige oder teilweise vorzeitige außerplanmäßige Tilgung des ausstehenden Kreditbetrages kann gegen Zahlung einer Vorfälligkeitsentschädigung erfolgen.&lt;/p&gt;&lt;h2&gt;4 Weitere Bewilligungsgrundsätze&lt;/h2&gt;&lt;h3&gt;4.1 Richtlinien&lt;/h3&gt;&lt;p&gt;Für die Gewährung der Darlehen gelten die vom Bayerischen Wirtschaftsministerium bekannt gemachten Richtlinien zur Durchführung des Gründungs- und Wachstumskredits (Bayerisches Mittelstandskreditprogramm) sowie die Allgemeinen Bedingungen für die Vergabe von &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ERP&lt;/abbr&gt;-Mitteln in den jeweils gültigen Fassungen.&lt;/p&gt;&lt;p&gt;In unseren Merkblättern, Darlehensbestimmungen und Darlehensangeboten sind die Regelungen dieser Fördergrundlagen entsprechend verankert.&lt;/p&gt;&lt;h3&gt;4.2 Beihilferechtliche Grundlagen&lt;/h3&gt;&lt;p&gt;Die Darlehen werden grundsätzlich als &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;-Investitionsbeihilfen gemäß &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Art.&lt;/abbr&gt; 17 der Allgemeinen Gruppenfreistellungsverordnung in der bei Darlehenszusage gültigen Fassung vergeben. Mit &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt;-Investitionsbeihilfen gefördert werden können ausschließlich die Kosten einer Investition in materielle und immaterielle Vermögenswerte zur Errichtung einer neuen Betriebsstätte, zum Ausbau einer bestehenden Betriebsstätte, zur Diversifizierung der Produktion einer Betriebsstätte durch vorher dort nicht hergestellte Produkte oder vorher dort nicht erbrachte Dienstleistungen, oder zur grundlegenden Änderung des gesamten Prozesses zur Herstellung der Produkte oder Erbringung der Dienstleistungen, die von der Investition in die Betriebsstätte betroffen sind.&lt;/p&gt;&lt;p&gt;Sofern die beihilferechtlichen Regularien dies erlauben &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; erfordern, können &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; müssen die Darlehen stattdessen auf Grundlage der De-minimis-Verordnung in der bei Darlehenszusage gültigen Fassung gewährt werden. Neben Investitionsvorhaben sind unter den Voraussetzungen der De-minimis-Verordnung zusätzlich auch folgende Aufwendungen förderfähig:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reine Rationalisierungen und Modernisierungen&lt;/li&gt;&lt;li&gt;Betriebsübernahmen (Kaufpreis, Firmenwert beim Erwerb von Betrieben) sowie tätige Beteiligungen&lt;/li&gt;&lt;li&gt;Waren&lt;/li&gt;&lt;li&gt;Der Erwerb von Vermögenswerten von einer Betriebsstätte (&lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;z.B.&lt;/abbr&gt; der Erwerb bislang gepachteter Geschäftsräume).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Die „Beihilfewerte für Kredite der LfA“ können unter www.lfa.de der gleichnamigen Übersicht entnommen &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; per Beihilferechner ermittelt werden. Diese Beihilfewerte dienen der Orientierung in der Informations- und Beratungsphase und sind unverbindlich. Maßgeblich sind allein die Beihilfewerte, die die LfA zum Zeitpunkt der Kreditzusage zugrunde legt.&lt;/p&gt;&lt;p&gt;Weiterführende Informationen enthält unser Merkblatt „Beihilferechtlich relevante Bestimmungen und Definitionen“.&lt;/p&gt;&lt;h3&gt;4.3 Vorbeginn&lt;/h3&gt;&lt;p&gt;Vorhaben, mit denen zum Zeitpunkt des Antragseingangs bei der Bank oder Sparkasse (Hausbank) bereits begonnen war, können nicht berücksichtigt werden. Details zu den Voraussetzungen einer fristgerechten Antragstellung siehe Merkblatt „Beihilferechtlich relevante Bestimmungen und Definitionen“. Die Vorhaben müssen soweit vorbereitet sein, dass sie nach Bewilligung der beantragten Mittel innerhalb eines Jahres begonnen werden können.&lt;/p&gt;&lt;h3&gt;4.4 Allgemeine Prosperitätsklausel&lt;/h3&gt;&lt;p&gt;Antragsteller, bei denen im Hinblick auf die Vermögens- und Ertragslage oder die Höhe des Vorhabens die mögliche Finanzierungshilfe wirtschaftlich unerheblich ist, können nicht gefördert werden.&lt;/p&gt;&lt;h2&gt;5 Mehrfachförderung&lt;/h2&gt;&lt;p&gt;Soweit die maßgeblichen Beihilfehöchstwerte der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EU&lt;/abbr&gt; nicht überschritten werden (siehe Merkblatt „Beihilferechtlich relevante Bestimmungen und Definitionen“, insbesondere Tzn. 5, 9 und 10), kann der Gründungsund Wachstumskredit mit anderen öffentlichen Finanzierungshilfen kombiniert werden.&lt;/p&gt;&lt;p&gt;Falls zusätzliche Mittel im Rahmen des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KfW&lt;/abbr&gt;-Programms &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ERP&lt;/abbr&gt;-Förderkredit &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; beantragt werden, ist der Gründungs- und Wachstumskredit auf die vorhabensbezogene Obergrenze des &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ERP&lt;/abbr&gt;-Förderkredits &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KMU&lt;/abbr&gt; anzurechnen.&lt;/p&gt;&lt;p&gt;Keine Kombination ist möglich mit dem &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;ERP&lt;/abbr&gt;-Gründerkredit – StartGeld.&lt;/p&gt;&lt;h2&gt;6 Haftungsfreistellung „HaftungPlus“&lt;/h2&gt;&lt;p&gt;Soweit ein Darlehen bis 2 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Mio.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; bankmäßig nicht ausreichend abgesichert werden kann, ist eine 60%ige Haftungsfreistellung „HaftungPlus“ (siehe entsprechendes Merkblatt) möglich.&lt;/p&gt;&lt;p&gt;Alternativ und bei Darlehen über 2 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;Mio.&lt;/abbr&gt; &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;EUR&lt;/abbr&gt; kann bei nicht ausreichender Absicherung eine Bürgschaft der LfA &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; der Bürgschaftsbank Bayern &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GmbH&lt;/abbr&gt; beantragt werden. Eine Darlehenssplittung in einen haftungsfreigestellten Darlehensteil und einen verbürgten Darlehensteil ist nicht möglich.&lt;/p&gt;&lt;h2&gt;7 Antragsverfahren&lt;/h2&gt;&lt;p&gt;Anträge sind bei der Hausbank (Bank oder Sparkasse) einzureichen. Die Antragstellung erfolgt mit dem Vordruck 100.&lt;/p&gt;&lt;p&gt;Bei Nutzung der Alternative zur Beantragung auf Grundlage der De-minimis-Verordnung (siehe Tz. 4.2) ist im Antrag unter Tz. 9.5 anzugeben „Beantragung auf De-minimis-Basis“; darüber hinaus ist der Vordruck 120 (Erklärung zum Antrag auf Gewährung eines Darlehens/einer Bürgschaft bei De-minimis-Beihilfen) einzureichen.&lt;/p&gt;&lt;p&gt;Das Formblatt der &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;KfW&lt;/abbr&gt; Bankengruppe „Statistisches Beiblatt Investitionen allgemein“ ist beizufügen.&lt;/p&gt;&lt;p&gt;Wird gleichzeitig eine Bürgschaft der LfA &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; der Bürgschaftsbank Bayern &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;GmbH&lt;/abbr&gt; beantragt, ergeben sich die zusätzlich einzureichenden Anträge und Unterlagen aus dem Merkblatt „Antragsunterlagen“.&lt;/p&gt;&lt;p&gt;Den Hausbanken steht bei Anträgen, die üblicherweise per Post an die LfA gesendet werden, die Möglichkeit offen, diese von ihr und dem Antragsteller unterzeichneten Unterlagen auch in elektronischer Form (Fax oder PDF-Scan per E-Mail) bei der LfA einzureichen. Voraussetzung hierfür ist, dass die Hausbank wirksame Willenserklärungen per Fax/PDF-Scan abgibt. Reicht die Hausbank die Antragsunterlagen per Fax/PDF-Scan per E-Mail bei der LfA ein, sichert sie damit konkludent zu, dass eine rechtsverbindliche Zeichnung der Hausbank bereits dann vorliegt, wenn sie ihre Erklärungen und Bestätigungen auch per Fax &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; PDF-Scan per E-Mail übermittelt und dass das an die LfA übermittelte Fax &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;bzw.&lt;/abbr&gt; der übermittelte Scan bildlich und inhaltlich dem Original entspricht. Die Übermittlung per E-Mail muss durch eine geeignete Verschlüsselung vor dem Zugriff Dritter geschützt werden. Liegen die Voraussetzungen für eine elektronische Archivierung der Antragsunterlagen nicht vor oder macht die Hausbank davon keinen Gebrauch, so ist der Originalantrag in Papierform bei der Hausbank aufzubewahren. Die Antragstellung im ICOM-Verfahren erfolgt weiterhin über eine definierte elektronische Schnittstelle.&lt;/p&gt;&lt;p&gt;Die LfA gestattet aus förderrechtlicher Sicht der Hausbank, für die Antragsunterlagen auf die Aufbewahrung von Originalunterlagen zu verzichten und stattdessen die Originaldokumente durch elektronische Archivierung aufzubewahren. Voraussetzung für die Möglichkeit der elektronischen Archivierung anstelle der papierhaften Aufbewahrung von originalen Antragsunter-lagen ist, dass die Hausbank dasselbe Verfahren und dieselbe Sorgfalt wie bei der Archivierung ihrer eigenen Unterlagen anwendet, die Archivierungsvorgaben analog §§ 257 HGB, 147 &lt;abbr class="logic--abbr sblogic--true" data-gsb="true"&gt;AO&lt;/abbr&gt; und die Grundsätze der ordnungsmäßigen Buchführung einhält und die Hausbank sicherstellt, dass die digitalen Dokumente&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bildlich und inhaltlich mit dem Original in Papierform übereinstimmen, wenn sie lesbar gemacht werden,&lt;/li&gt;&lt;li&gt;während der Dauer der Aufbewahrungsfrist jederzeit verfügbar sind, unverzüglich lesbar gemacht und maschinell ausgewertet werden können,&lt;/li&gt;&lt;li&gt;fälschungssicher sind und keine Angaben weggelassen, hinzugefügt oder anders dargestellt werden können.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Darüber hinaus hat die Hausbank zu prüfen, ob und inwiefern gesetzliche Schriftformerfordernisse bestehen oder weitergehende rechtliche Vorschriften zur Aufbewahrung bestimmter Originaldokumente einzuhalten sind und deren Einhaltung sicherzustellen.&lt;/p&gt;&lt;p&gt;&amp;#xa0;&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:challenge" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:cl2Contacts" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Kontakt"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2CustServices" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/ExternerLink"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Location" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdertermin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Processes" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderart"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergebiet"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerdergeber"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderberechtigte"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenExistenzgruenderin"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/BranchenUnternehmen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensgroesse"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Unternehmensalter"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderbereich"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/GRW"/>
+                </classifierLinks>
+                <links>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Categories/FDB/GRW/keine_grw_foerderung"/>
+                </links>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/Foerderorganisation"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:cl2Satisfaction" type="ClassifiedLinkLists">
+        <classifiedLinkLists>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFExistenzgruendung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUnternehmensfinanzierung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFArbeit"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAusWeiterbildung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFAussenwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFBeratung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFEnergieeffizienz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungOffen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFForschungSpezifisch"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFGesundheitSoziales"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFInfrastruktur"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFKulturMedienSport"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFLandwirtschaft"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFMessenAusstellungen"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFRegionalfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFStaedtebauStadterneuerung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFUmweltNaturschutz"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFWohnungsbau"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+            <classifiedLinkList>
+                <classifierText></classifierText>
+                <classifierLinks>
+                    <link xlink:href="target:/BMWI/SiteGlobals/Classifications/Classifier/Common/UFFrauenfoerderung"/>
+                </classifierLinks>
+                <links/>
+            </classifiedLinkList>
+        </classifiedLinkLists>
+    </property>
+    <property name="gsb:comment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;31701&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:competenceDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:customerBenefit" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:dateOfIssue" type="Date">
+        <value>2023-12-06T10:26:53.849+01:00</value>
+    </property>
+    <property name="gsb:functions" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:header" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:languageInd" type="LinkList">
+        <links>
+            <link xlink:href="target:/BMWI/SiteGlobals/Languages/Deutsch"/>
+        </links>
+    </property>
+    <property name="gsb:procDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procInfluence" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procMethod" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:procQuality" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:progress" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:referenceCustomer" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:regulatoryFWork" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:remark" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:requirements" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceDescription" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:serviceFeeDescr" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:shouldNotBeIndexed" type="Long">
+        <value>0</value>
+    </property>
+    <property name="gsb:subType" type="String">
+        <value>ServiceOffer-FundingProgram</value>
+    </property>
+    <property name="gsb:summary" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:teaserText" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:termsOfPayment" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+    <property name="gsb:title" type="RichText">
+        <text>&lt;![CDATA[&lt;div xmlns:xlink="http://www.w3.org/1999/xlink"&gt;&lt;p&gt;Gründungs- und Wachstumskredit GuW&lt;/p&gt;&lt;/div&gt;]]&gt;</text>
+    </property>
+</document>
